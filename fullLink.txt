@@ -6,6 +6,8 @@ Edit: Ara sıra sayfayı yenileyin veya burayı kontrol edin.
 Linkler bana ait değildir. Her link yazdığım programla belirlediğim sitelerden toplayıp 
 check ettiğim linklerdir.
 -----------------
+Teknik arızadan ötürü 2 gün öncesinin yedeği yüklendi.
+-----------------
 
 http://103.161.34.243:8080/get.php?username=Ogunbaytekin3&password=AAPcts726TBp&type=m3u&output=ts
 Real Url: 103.161.34.243:8080     Status: Active    Created: 26.06.2023 10:11:28     Expires: 24.07.2025 14:16:20    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
