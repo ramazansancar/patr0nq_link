@@ -628,9 +628,6 @@ Real Url: ymciptv.xyz:8080     Status: Active    Created: 16.03.2023 16:18:47   
 http://patr0n@zebra.bilix.ma:2082/get.php?username=330093589130726&password=473147&type=m3u&output=ts
 Real Url: gina.solafile.com:2082     Status: Active    Created: 4.06.2024 17:58:53     Expires: 4.06.2025 20:15:47    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
 
-
-
-
 http://614.purstream.net:8080/get.php?username=GultekinKalay&password=bEc6M5B&type=m3u&output=ts
 Real Url: 614.purstream.net:80     Status: Active    Created: 23.09.2024 18:23:30     Expires: 24.09.2025 18:23:30    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
 
@@ -864,8 +861,6 @@ Real Url: vip-4k.com:8000     Status: Active    Created: 14.09.2022 16:29:28    
 
 http://patr0n@vip-4k.com:8000/get.php?username=hasanabi&password=GuuCppZmTv&type=m3u&output=ts
 Real Url: vip-4k.com:8000     Status: Active    Created: 30.03.2024 15:43:23     Expires: 30.03.2025 14:43:23    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
-
-
 
 ----------------------
 
@@ -3177,9 +3172,6 @@ Real Url: umit.tsvipsmart.eu:8000     Status: Active    Created: 20.12.2020 14:0
 http://vataniptv.org:8000/get.php?username=zgormenvtns&password=S2NdFEvCqc&type=m3u&output=ts
 Real Url: vataniptv.org:8000     Status: Active    Created: 1.06.2020 20:55:56     Expires: 4.06.2025 10:34:27    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
 
-
-
-
 -----------------
 
 http://patr0n@103.161.34.243:8080/get.php?username=Ogunbaytekin3&password=AAPcts726TBp&type=m3u&output=ts
@@ -3427,9 +3419,6 @@ Real Url: vip.sehzade5.com:2095     Status: Active    Created: 15.11.2023 20:04:
 
 http://patr0n@vip.sehzade5.com:2095/get.php?username=ngn8165&password=rgn.7075&type=m3u&output=ts
 Real Url: vip.sehzade5.com:2095     Status: Active    Created: 15.11.2023 20:04:10     Expires: 6.11.2025 09:31:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
-
-
-
 
 -----------------
 
@@ -4354,7 +4343,6 @@ http://germanyqdnsx8.com:8080/get.php?username=orhanuzun&password=pcatvv240&type
 http://germanyqdnsx8.com:8080/get.php?username=trbulent9999&password=131093ank&type=m3u_plus
 http://germanyqdnsx8.com:8080/get.php?username=turhancay&password=IvuPCSJZH6&type=m3u_plus
 
-
 -----------------
 
 http://beyaz333.sat11.online:8080/get.php?username=keremguner&password=yjbjuKdfwsaj&type=m3u_plus
@@ -4633,7 +4621,8 @@ http://germanyqdnsx8.com:8080/get.php?username=turhancay&password=IvuPCSJZH6&typ
 http://germanyqdnsx8.com:8080/get.php?username=hakannayir&password=mzg1ve1j4&type=m3u_plus
 http://germanyqdnsx8.com:8080/get.php?username=bedrikarayaka&password=0md6k7vcc&type=m3u_plus
 
------------------
+-------------------
+
 http://patr0n@eab.ea65live.win:8080/get.php?username=nop519&password=K1NWW0OY23&type=m3u&output=ts
 Real Url: eab.ea65live.win:8080     Status: Active    Created: 11.11.2020 10:43:02     Expires: 28.11.2025 19:58:39    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
 
@@ -4688,7 +4677,6 @@ Real Url: eab.ea65live.win:8080     Status: Active    Created: 25.08.2022 11:04:
 http://patr0n@redo2.vipredotv.xyz:80/get.php?username=huseyintelek&password=VET2T5U7rn&type=m3u&output=ts
 Real Url: redo2.vipredotv.xyz:80     Status: Active    Created: 13.10.2022 17:28:47     Expires: 13.10.2026 17:28:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
-
 http://smrtcn2803.xyz:8080/get.php?username=Ahmet56&password=Ahmet56&type=m3u_plus - Maksimum Bağlantılar: 2
 http://smrtcn2803.xyz:8080/get.php?username=DK4SHuksyT&password=EJa7GTLhHT&type=m3u_plus - Maksimum Bağlantılar: 1
 http://smrtcn2803.xyz:8080/get.php?username=Emir1717&password=Emir1717&type=m3u_plus - Maksimum Bağlantılar: 1
@@ -4728,8 +4716,6 @@ http://tvskor99.xyz:80/get.php?username=8BsxjGyR8g&password=GXUAAZR5Jb&type=m3u 
 http://tvskor99.xyz:80/get.php?username=enginmentes2&password=azeri.220921m&type=m3u - Maksimum Bağlantılar: 1
 http://worldtvvip.net:8080/get.php?username=kTXA6T8z5w&password=wZPsghwyuP&type=m3u - Maksimum Bağlantılar: 1
 http://yasare.mine.nu/get.php?username=deniztask-in2&password=bqkAY.6k8.Fy&type=m3u - Maksimum Bağlantılar: 1
-
-
 
 http://185.233.16.88/get.php?username=SKBLR3HGYN&password=TBh67x5xfsWS&type=m3u&output=ts
 Real Url: 185.233.16.88:80     Status: Active    Created: 2/9/2024 8:23:15 PM     Expires: 2/10/2025 4:55:17 PM    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
@@ -4892,9 +4878,6 @@ Real Url: g0tv.site:80     Status: Active    Created: 3/27/2024 8:03:39 PM     E
 
 http://g0tv.site:80/get.php?username=kadriyedeggingen&password=deggingenKadriye&type=m3u&output=ts
 Real Url: g0tv.site:80     Status: Active    Created: 3/27/2024 8:03:39 PM     Expires: 8/22/2025 6:43:00 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-
-
 
 http://luxus-iptv.xyz:8000/get.php?username=Huseyingumus&password=9gbZu4MbYq&type=m3u&output=ts
 Real Url: luxus-iptv.xyz:8000     Status: Active    Created: 6/6/2020 1:36:39 PM     Expires: 6/9/2025 11:50:24 AM    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
@@ -5133,12 +5116,7 @@ Real Url: 195.62.32.53:8080     Status: Active    Created: 1/2/2023 11:23:49 PM 
 http://195.62.32.53:8080/get.php?username=BolatTunahan&password=z4KXsHCJkYjs&type=m3u&output=ts
 Real Url: 195.62.32.53:8080     Status: Active    Created: 3/12/2023 6:20:03 PM     Expires: 3/13/2025 6:20:03 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
-
-
-
-
-
-----------------
+--------------------
 
 http://103.161.34.243:8080/get.php?username=Yenererin5692&password=VT5uhcu8aTTv&type=m3u&output=ts
 Real Url: 103.161.34.243:8080     Status: Active    Created: 8.08.2023 07:38:27     Expires: 9.08.2025 10:48:49    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
@@ -5635,11 +5613,8 @@ Real Url: premiumstream.nl:80     Status: Active    Created: 21.10.2024 16:34:26
 http://premiumstream.nl:80/get.php?username=volkanusman&password=eK8BuKpm&type=m3u&output=ts
 Real Url: premiumstream.nl:80     Status: Active    Created: 21.09.2020 15:38:23     Expires: 2.12.2025 21:49:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
 
+---------------------
 
-
-
-
-----------------
 http://patr0n@platinumz.xyz:8080/get.php?username=Tugayozkaya2707&password=cdj1m5m&type=m3u&output=ts
 Real Url: platinumz.xyz:8080     Status: Active    Created: 28.10.2024 16:54:20     Expires: 28.07.2025 16:54:20    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
@@ -6096,8 +6071,7 @@ Real Url: cdn.srvmain.top:80     Status: Active    Created: 23.08.2024 17:22:12 
 http://xxip25.top:8080/get.php?username=streatj87@gmail.com&password=HpU2jesf8w&type=m3u&output=ts
 Real Url: xxip9.top:8080     Status: Active    Created: 3.04.2022 20:15:06     Expires: 13.04.2025 15:48:10    Active Connections: 4     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
 
-
-----------------
+-------------------
 
 http://103.161.34.243:8080/get.php?username=AhmetUca&password=HvvUQOPtdd&type=m3u&output=ts
 Real Url: 103.161.34.243:8080     Status: Active    Created: 30.01.2019 15:31:04     Expires: 30.01.2025 15:31:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
@@ -6675,11 +6649,6 @@ Real Url: ymciptv.xyz:8080     Status: Active    Created: 16.02.2022 15:10:29   
 http://ymciptv.xyz:8080/get.php?username=Simsek1&password=zdEYenuUAChW&type=m3u&output=ts
 Real Url: ymciptv.xyz:8080     Status: Active    Created: 10.09.2021 11:35:52     Expires: 10.09.2025 11:35:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
-
-
-
-
-
 ------------------
 
 http://01torteriumes.xyz/get.php?username=irfan0158593CgD&password=ertus6382516FrN&type=m3u&output=ts
@@ -6790,9 +6759,6 @@ Real Url: aleminkrali.xyz:8080     Status: Active    Created: 1.10.2023 09:42:27
 http://atg100.xyz/get.php?username=Djalijahiritbesiani&password=9D86A52D805A&type=m3u&output=ts
 Real Url: atg100.xyz:80     Status: Active    Created: 4.01.2023 11:30:56     Expires: 6.01.2026 14:43:05    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
 
-
-
-
 http://de.ozkauydu.com:80/get.php?username=Hilalarti&password=04032024fr&type=m3u_plus - Maksimum Bağlantılar: 1
 http://efsaneturkiptv.org:8000/get.php?username=Burhanedi&password=FzmQdvYkSA&type=m3u_plus - Maksimum Bağlantılar: 1
 http://efsaneturkiptv.org:8000/get.php?username=FaikHumb&password=CyYkrhswhW&type=m3u_plus - Maksimum Bağlantılar: 1
@@ -6854,8 +6820,8 @@ http://ww.crzyyng.xyz:8080/get.php?username=ozke277&password=whvd12bFr456&type=m
 http://xcgold1907.xyz:8080/get.php?username=googleiptv774&password=ekremaslan&type=m3u_plus - Maksimum Bağlantılar: 1
 http://xcgold1907.xyz:8080/get.php?username=hakanersoy&password=yD8fUvLClU&type=m3u_plus - Maksimum Bağlantılar: 1
 
+----------------------
 
------------------
 http://megacineiptv.xyz:8080/get.php?username=serkan754&password=DfbYecXP32&type=m3u_plus
 http://megacineiptv.xyz:8080/get.php?username=orsandertlioglu&password=ATSorsandertlioglu2&type=m3u_plus
 http://megacineiptv.xyz:8080/get.php?username=51ret199c&password=199ret17a&type=m3u_plus
@@ -7256,8 +7222,8 @@ http://103.161.34.243:8080/get.php?username=iptvtr6090&password=TT2F6p4Bm6hv&typ
 http://103.161.34.243:8080/get.php?username=toronton259y&password=Edq9YbWH54p3&type=m3u
 http://103.161.34.243:8080/get.php?username=iptvhd620&password=RkTMYZN7cppM&type=m3u
 
+-------------------
 
-----------------
 http://megacineiptv.xyz:8080/get.php?username=pedasa33&password=5xU5ecX9URUu&type=m3u_plus
 http://megacineiptv.xyz:8080/get.php?username=brk48&password=tbn.13022024&type=m3u_plus
 http://megacineiptv.xyz:8080/get.php?username=dgn2148&password=4hBTNyV6hcm4&type=m3u_plus
@@ -7490,7 +7456,6 @@ http://megacineiptv.xyz:8080/get.php?username=846734saold&password=dK5GzH92CK5W&
 http://megacineiptv.xyz:8080/get.php?username=senol2453&password=ustgfuF8zMZG&type=m3u_plus
 http://megacineiptv.xyz:8080/get.php?username=mhmt1015&password=cn.2303&type=m3u_plus
 http://megacineiptv.xyz:8080/get.php?username=Doruk7649&password=EMjr6wvQE85C&type=m3u_plus
-
 http://bocian.io:8080/get.php?username=mariusz81&password=MTk5OTEzMjIw&type=m3u_plus&output=ts
 http://blue4k.net:8880/get.php?username=836919906817&password=149993176892&type=m3u_plus&output=ts
 http://cdn1.listaflix.xyz/get.php?username=jeronimoferreira1&password=pmjeronimo&type=m3u
@@ -7617,7 +7582,6 @@ http://wu09.online:8080/get.php?username=pHt7hAVg42kx&password=9AU8JYrbgDUj&type
 http://wu09.online:8080/get.php?username=eminhsk26&password=haskoy2608&type=m3u_plus
 http://supersports.hdiptv.cam:8000/get.php?username=Gzmkhrmn&password=dz6x8xcC4FaV&type=m3u_plus
 http://wu09.online:8080/get.php?username=cJvEsjupeqmg&password=4Yp4QDKKTs3w&type=m3u_plus
-http://coresys.dvrdns.org:8080/get.php?username=RoNyr3str3.....am&password=PZfdCL9H2QP6&type=m3u_plus
 http://wu09.online:8080/get.php?username=altug@didim&password=qnBVnmMEUD83&type=m3u_plus
 http://vip.x-mint.xyz:8080/get.php?username=gokhana&password=YcZsnjThEz&type=m3u_plus
 http://supersports.hdiptv.cam:8080/get.php?username=Gzmkhrmn&password=dz6x8xcC4FaV&type=m3u_plus
@@ -7646,7 +7610,6 @@ http://magic100.live:8000/get.php?username=IboHasan&password=Uafzqd5P7U&type=m3u
 http://magic100.live:8000/get.php?username=humeyrkad&password=tIY4FOBqqJ&type=m3u
 http://magic100.live:8000/get.php?username=Rizaabi&password=zPD7C0qfhV&type=m3u
 http://magic100.live:8000/get.php?username=Teyyibehala&password=UsI7V1rLfM&type=m3u
-
 
 ----------------------
 
@@ -7733,9 +7696,7 @@ http://titan8k.us:8080/get.php?username=babasevki&password=8fFvWEXWCeyiis&type=m
 http://tunkaiptv.org:8000/get.php?username=huesneabla&password=tW4xHhJZf8&type=m3u_plus - Maksimum Bağlantılar: 1
 http://xtream.team:8080/get.php?username=fatgzon.zeqiri&password=qnhbtUJWm6&type=m3u_plus - Maksimum Bağlantılar: 1
 
-
-
-+++++++++++++++++
+---------------------
 
 http://sznydk.dynu.net:8080/get.php?username=hastemel&password=1836362&type=m3u_plus&output=mpegts - Maksimum Bağlantılar: 1
 http://sznydk.dynu.net:8080/get.php?username=okan.vehbi.2506&password=D99C5bCSHF&type=m3u_plus - Maksimum Bağlantılar: 1
@@ -8140,10 +8101,8 @@ http://megacineiptv.xyz:8080/get.php?username=Mehmetduran&password=84664rste6824
 http://megacineiptv.xyz:8080/get.php?username=mhrm0313&password=mhm00&type=m3u_plus - Maksimum Bağlantılar: 3
 http://megacineiptv.xyz:8080/get.php?username=vulfi76&password=T9mXNzP6dQZu&type=m3u_plus - Maksimum Bağlantılar: 1
 
-
-
-
 --------------------------
+
 http://gails.me/get.php?username=Albert-Gjykaj-Whatsapp-Roberti&password=184827382iwueuwuudjwjw&type=m3u_plus - Maksimum Bağlantılar: 1
 http://gails.me/get.php?username=Domenik-Gjykaj-Whatsapp-2&password=bXEFuw5HmSPfrG6j5WN4sbUGEYxA3EyAY&type=m3u_plus - Maksimum Bağlantılar: 1
 http://gails.me/get.php?username=Ibrahim.Shaqiri.Fb&password=dm8qE28ZSJyQGrhGypdY&type=m3u_plus - Maksimum Bağlantılar: 1
@@ -8380,8 +8339,6 @@ http://patr0n@zzportals.com:2095/get.php?username=dfOftw0k&password=y1ukM8bN&typ
 http://patr0n@zxg2vf.sekkd.com/get.php?username=amy6_NXtBnB&password=5FbFgSZv&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@zoomtv.es:80/get.php?username=639009169&password=QM3ugR9caE&type=m3u_plus - Maksimum Bağlantılar: 2
 
-
-
 -------------------------
 
 http://patr0n@smrtcn2803.xyz:8080/get.php?username=42marlaliselcuk&password=29marlaliselcuk&type=m3u_plus - Maksimum Bağlantılar: 1
@@ -8464,10 +8421,6 @@ http://patr0n@alb854s.xyz:8080/get.php?username=burhantopal&password=FHgHIg53Y2&
 http://patr0n@alb854s.xyz:8080/get.php?username=LBGTCbL9Ck&password=waeHMEyVe3&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@alb854s.xyz:8080/get.php?username=fatih7455&password=bh.23052024&type=m3u_plus - Maksimum Bağlantılar: 2
 http://patr0n@alb854s.xyz:8080/get.php?username=srh6667&password=sr00&type=m3u_plus - Maksimum Bağlantılar: 4
-
-
-
-
 
 ------------------------------
 
@@ -8596,9 +8549,8 @@ http://patr0n@trdivaniptv.xyz:8080/get.php?username=ahmed5341590&password=MF96VK
 http://patr0n@trdivaniptv.xyz:8080/get.php?username=CemAk&password=U3Mpy9MRxVWq&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@msgld1925.xyz:8080/get.php?username=ramazan&password=demir&type=m3u_plus - Maksimum Bağlantılar: 1
 
-
-
 ---------------------------
+
 http://patr0n@de.x-yellow.xyz:8080/get.php?username=kazim@yunden&password=aaNn5MQYnN&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@main.1331834.xyz:8080/get.php?username=akk078&password=w6nsfBSv3m&type=m3u&output=ts - Maksimum Bağlantılar: 1
 http://patr0n@vip.2945369.xyz/get.php?username=avperdal&password=151222.hbgvr&type=m3u_plus - Maksimum Bağlantılar: 1
@@ -8661,10 +8613,8 @@ http://patr0n@1ct13vvkxo0f.0000049.xyz:8080/get.php?username=vns251&password=wPC
 http://patr0n@1ct13vvkxo0f.0000049.xyz:8080/get.php?username=okn516&password=VcgVkKeN&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@1ct13vvkxo0f.0000049.xyz:8080/get.php?username=AhMtSnGr&password=L8DMMNz4gR&type=m3u_plus - Maksimum Bağlantılar: 1
 
-
-
-
 ----------------------------------
+
 http://patr0n@ceb14.itvshare.com:8691/get.php?username=Martinzamora1&password=udaNBqBU&type=m3u&output=ts - Maksimum Bağlantılar: 1
 http://patr0n@cairogroup.uk:8080/get.php?username=furdui_vlad&password=VmeZnS3z6d9c&type=m3u&output=ts - Maksimum Bağlantılar: 2
 http://patr0n@cms-portals.com:80/get.php?username=dario.tolic_541&password=ys6vgQ4mUM&type=m3u&output=ts - Maksimum Bağlantılar: 1
@@ -8694,7 +8644,6 @@ http://patr0n@talibanul.net:8080/get.php?username=Mariana_Nyiri_M&password=11dkI
 http://patr0n@tv.adn365.org:2103/get.php?username=Dias.Joao65&password=fYQQwcDX&type=m3u&output=ts - Maksimum Bağlantılar: 1
 http://patr0n@topminho.xyz:8080/get.php?username=sogrobrunomartins&password=aK16SBpMFrPA&type=m3u&output=ts - Maksimum Bağlantılar: 1
 
-
 http://patr0n@aabb.is:2095/get.php?username=eXQ5AYyS&password=waGhXTM&type=m3u&output=ts
 Real Url: aabb.is:2095     Status: Active    Created: 8.02.2024 20:24:13     Expires: 8.02.2025 20:24:13    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
 
@@ -8715,7 +8664,6 @@ Real Url: 001tv.org:8080     Status: Active    Created: 13.03.2020 13:08:00     
 
 http://patr0n@2.m3u.pro:88/get.php?username=02026466286140&password=ora0POL3ojuu4QY&type=m3u&output=ts
 Real Url: sansat.cc:88     Status: Active    Created: 15.02.2020 20:09:34     Expires: 9.03.2025 20:17:32    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
-
 
 http://patr0n@265.purstream.net:8080/get.php?username=ibrahim_aksu&password=f0yC34xC&type=m3u&output=ts
 Real Url: 265.purstream.net:80     Status: Active    Created: 16.06.2020 18:32:41     Expires: 18.06.2025 10:24:35    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
@@ -9263,11 +9211,8 @@ Real Url: 520258745.dynahost.ovh:80     Status: Active    Created: 7.09.2024 15:
 http://patr0n@codetv.ovh:37500/get.php?username=Manuelnoguera&password=Panel493&type=m3u&output=ts
 Real Url: 520258745.dynahost.ovh:80     Status: Active    Created: 30.05.2023 14:27:23     Expires: 30.05.2025 21:29:02    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
-
-
-
-
 -------------------------------
+
 http://patr0n@ekosupport.xyz/get.php?username=3817kaan1&password=LwvTXfRHvx&type=m3u - Maksimum Bağlantılar: 1
 http://patr0n@ekosupport.xyz/get.php?username=uguraltay2&password=VWCuUH1OyU&type=m3u - Maksimum Bağlantılar: 1
 http://patr0n@ekosupport.xyz/get.php?username=rasimberber&password=06082023asd&type=m3u - Maksimum Bağlantılar: 1
@@ -9320,9 +9265,6 @@ http://patr0n@206096.nextbin.eu/get.php?username=5078Cloud&password=cenk1903cenk
 http://patr0n@206096.nextbin.eu/get.php?username=kmozguraktas&password=D8S6A2haD1&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@206096.nextbin.eu/get.php?username=zombi19&password=s1VgpcZf8b&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@206096.nextbin.eu/get.php?username=mhalife895170124791&password=mhalife854131765382&type=m3u_plus - Maksimum Bağlantılar: 1
-
-
-
 
 http://patr0n@the10numara.com:4512/get.php?username=Yusufsernikli&password=olkbffhhfu&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@the10numara.com:4512/get.php?username=Dolapseref&password=DZT9cqwLHQ&type=m3u_plus - Maksimum Bağlantılar: 1
@@ -9446,13 +9388,8 @@ http://patr0n@45.148.147.163:8080/get.php?username=hulya-gocbak&password=4EpCJX3
 http://patr0n@45.148.147.163:8080/get.php?username=niazi-123451&password=jcapnqpB4ZEW&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@45.148.147.163:8080/get.php?username=P8-tT9jmmK3&password=A44jTy7MFs82&type=m3u_plus - Maksimum Bağlantılar: 1
 
-
-
-
-
-
-
 --------------------------------
+
 M3U URL: http://patr0n@megaott.live:8080/get.php?username=AQ93mKfZqGZn&password=a37NBF4Qz2DA&type=m3u_plus
 Maksimum Bağlantı Sayısı: 50
 Aktif Kullanıcı Sayısı: 33
@@ -9501,8 +9438,6 @@ Aktif Kullanıcı Sayısı: 453
 Oluşturulma Tarihi: 2024-10-14 10:17:33
 Bitiş Tarihi: 2025-01-06 15:18:00
 -----------------------------
-
-
 
 M3U URL: http://patr0n@mawitctv.xyz:8080/get.php?username=P8TBMUHffV&password=VBUzFzSzj2Rq&type=m3u_plus
 Maksimum Bağlantı Sayısı: 1
@@ -9643,8 +9578,6 @@ Aktif Kullanıcı Sayısı: 0
 Oluşturulma Tarihi: 2023-11-08 20:39:02
 Bitiş Tarihi: 2025-11-10 12:52:35
 -----------------------------
-
-
 
 M3U URL: http://patr0n@303.purstream.net:8080/get.php?username=Alimalim&password=xSJs7K0gYZ&type=m3u
 Maksimum Bağlantı Sayısı: 1
@@ -10830,13 +10763,6 @@ Oluşturulma Tarihi: 2023-10-05 12:00:08
 Bitiş Tarihi: 2025-03-10 23:17:30
 -----------------------------
 
-
-
-
-
-
-
-
 ---------------------------------
 
 M3U URL: http://patr0n@noxtiny104.cfd/get.php?username=beinsportapk&password=9yKKYTJDfFKC&type=m3u_plus&output=mpegts
@@ -11300,10 +11226,6 @@ Aktif Kullanıcı Sayısı: 0
 Oluşturulma Tarihi: 2024-11-22 08:11:08
 Bitiş Tarihi: 2025-11-26 13:57:10
 -----------------------------
-
-
-
-
 
 -------------------------------
 
@@ -12476,10 +12398,6 @@ Oluşturulma Tarihi: 2016-10-05 19:49:05
 Bitiş Tarihi: 2026-10-05 19:49:00
 -----------------------------
 
-
-
-
-
 M3U URL: http://patr0n@hyking622.top/get.php?username=Kuri@Sabri24ip&password=FvK3qrHVGx&type=m3u_plus
 Maksimum Bağlantı Sayısı: 1
 Aktif Kullanıcı Sayısı: 1
@@ -12632,10 +12550,6 @@ Aktif Kullanıcı Sayısı: 1
 Oluşturulma Tarihi: 2024-09-14 17:59:04
 Bitiş Tarihi: 2026-09-27 15:46:26
 -----------------------------
-
-
-
-
 
 M3U URL: http://patr0n@hyking622.top/get.php?username=ozgur88&password=88.ozgur&type=m3u_plus
 Maksimum Bağlantı Sayısı: 1
@@ -12868,14 +12782,6 @@ Oluşturulma Tarihi: 2024-08-31 18:54:36
 Bitiş Tarihi: 2025-02-02 18:53:00
 -----------------------------
 
-
-
-
-
-
-
-
-
 --------------------------------------
 
 M3U URL: http://103.161.34.243:8080/get.php?username=wenontr0311&password=mX5A7K5ZRqjW&type=m3u_plus
@@ -12954,7 +12860,6 @@ Aktif Kullanıcı Sayısı: 1
 Oluşturulma Tarihi: 2022-05-13 17:56:06
 Bitiş Tarihi: 2025-05-13 17:56:06
 -----------------------------
-
 
 M3U URL: http://103.161.34.243:8080/get.php?username=AdemA&password=YSmxLlskv8&type=m3u
 Maksimum Bağlantı Sayısı: 1
@@ -14692,10 +14597,6 @@ Oluşturulma Tarihi: 2021-09-20 21:13:41
 Bitiş Tarihi: 2025-10-28 14:50:41
 -----------------------------
 
-
-
-
-
 M3U URL: http://luxus-iptv.xyz:8000/get.php?username=Huseyingumus&password=9gbZu4MbYq&type=m3u_plus
 Maksimum Bağlantı Sayısı: 1
 Aktif Kullanıcı Sayısı: 1
@@ -15200,10 +15101,7 @@ Oluşturulma Tarihi: 2024-01-13 14:47:04
 Bitiş Tarihi: 2025-01-13 14:47:04
 -----------------------------
 
-
-
 -----------------------------------
-
 
 http://patr0n@relaxapkpnl.xyz:8080/get.php?username=1905engin62&password=NqANujrHrXj6&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@relaxapkpnl.xyz:8080/get.php?username=ukdaPSwZMxWD&password=67pSbQfwJyFC&type=m3u_plus - Maksimum Bağlantılar: 3
@@ -15371,4 +15269,3 @@ http://patr0n@main.1331834.xyz:8080/get.php?username=derkaninceoglu&password=pFJ
 http://patr0n@main.1331834.xyz:8080/get.php?username=dx12cengizpolat&password=cp15052019&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@main.1331834.xyz:8080/get.php?username=BLenTBy34c&password=hMfTrUnZSkVj&type=m3u_plus - Maksimum Bağlantılar: 1
 http://patr0n@main.1331834.xyz:8080/get.php?username=szekaiszekai2&password=Crt5BshzZU&type=m3u_plus - Maksimum Bağlantılar: 1
-http://patr0n@main.1331834.xyz:8080/get.php?username=emrah53&password=g8K96Ueabm6s&type=m3u_p
