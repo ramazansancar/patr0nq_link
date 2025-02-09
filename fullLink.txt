@@ -1,10 +1,260 @@
-8.2.2025_GüncelLinkler
+9.2.2025_GüncelLinkler
 Edit: Ara sıra sayfayı yenileyin veya burayı kontrol edin.
 -----------------------------------------------
 Çalışan eski linkler dahil edilmiştir
 --------------------------------------------
 Linkler bana ait değildir. Her link yazdığım programla belirlediğim sitelerden toplayıp 
 check ettiğim linklerdir.
+----------------------
+
+http://185.233.16.180/get.php?username=Oscarcurro&password=C6PdH5VXexrY&type=m3u&output=ts
+Real Url: 185.233.16.180:80     Status: Active    Created: 25.04.2024 17:05:24     Expires: 25.04.2025 17:06:56    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://185.233.16.180/get.php?username=ELPVAB5LDE&password=xQXpGSYHfPBv&type=m3u&output=ts
+Real Url: 185.233.16.180:80     Status: Active    Created: 14.08.2023 19:02:50     Expires: 15.08.2025 21:39:39    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://217.182.34.224:8000/get.php?username=muhammedcelik&password=QhNqOtJycZ&type=m3u&output=ts
+Real Url: 217.182.34.224:8000     Status: Active    Created: 25.09.2020 17:08:33     Expires: 3.10.2025 15:57:34    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://185.233.16.180/get.php?username=me49372&password=UcTshe6SCV&type=m3u&output=ts
+Real Url: 185.233.16.180:80     Status: Active    Created: 9.04.2024 06:33:45     Expires: 9.04.2025 06:49:12    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://185.233.16.180/get.php?username=moura3506&password=GRHUGY3F22&type=m3u&output=ts
+Real Url: 185.233.16.180:80     Status: Active    Created: 6.05.2023 18:22:00     Expires: 5.05.2025 22:00:00    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://185.233.16.180/get.php?username=he628438&password=EwPje3AnQbW9&type=m3u&output=ts
+Real Url: 185.233.16.180:80     Status: Active    Created: 28.06.2024 07:02:09     Expires: 2.07.2025 18:42:06    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://abs16.osmm.site:8080/get.php?username=kadiryagcisalon&password=KUsQAj8aVNQZ&type=m3u&output=ts
+Real Url: abs16.osmm.site:8080     Status: Active    Created: 4.11.2021 16:16:33     Expires: 7.11.2025 05:52:48    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://abs16.osmm.site:8080/get.php?username=HuSeyiN@B1Sx&password=s5DHpBouvEHVjh&type=m3u&output=ts
+Real Url: abs16.osmm.site:8080     Status: Active    Created: 21.02.2024 18:30:18     Expires: 21.02.2025 18:30:18    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://185.233.16.180/get.php?username=zh712343&password=WR9B9HcqBYT&type=m3u&output=ts
+Real Url: 185.233.16.180:80     Status: Active    Created: 12.07.2024 06:52:43     Expires: 17.07.2025 18:25:55    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://abs16.osmm.site:8080/get.php?username=nop838&password=4112019364OMR&type=m3u&output=ts
+Real Url: abs16.osmm.site:8080     Status: Active    Created: 26.12.2020 14:29:51     Expires: 27.12.2025 11:26:30    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://abs16.osmm.site:8080/get.php?username=tayfun3&password=03102022tra&type=m3u&output=ts
+Real Url: abs16.osmm.site:8080     Status: Active    Created: 8.10.2022 17:00:15     Expires: 4.10.2025 22:00:00    Active Connections: 1     Maximum Connections: 2     Formats: "ts"
+
+http://abo.bbbbbcc.com:80/get.php?username=alikaya&password=HVGGMQPkKg&type=m3u&output=ts
+Real Url: abo.bbbbbcc.com:80     Status: Active    Created: 27.10.2022 17:13:55     Expires: 28.10.2025 21:15:16    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://abs16.osmm.site:8080/get.php?username=yayla499&password=5ltYkkCgQP&type=m3u&output=ts
+Real Url: abs16.osmm.site:8080     Status: Active    Created: 25.08.2022 11:04:10     Expires: 22.03.2025 12:36:00    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://alb854s.xyz:8080/get.php?username=Beskaza48&password=4857fdtersder35&type=m3u&output=ts
+Real Url: alb854s.xyz:8080     Status: Active    Created: 28.03.2024 03:18:50     Expires: 23.06.2025 21:00:00    Active Connections: 1     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://alb854s.xyz:8080/get.php?username=Afy8634&password=SmTSQpYRYs&type=m3u&output=ts
+Real Url: alb854s.xyz:8080     Status: Active    Created: 2.07.2024 15:51:21     Expires: 2.07.2025 15:51:21    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://alb854s.xyz:8080/get.php?username=Btrt83748old&password=yJmrnHqASw&type=m3u&output=ts
+Real Url: alb854s.xyz:8080     Status: Active    Created: 6.07.2024 15:09:37     Expires: 6.07.2034 15:09:37    Active Connections: 1     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://alb854s.xyz:8080/get.php?username=Sabrican0059&password=KVUVPM7Mcn&type=m3u&output=ts
+Real Url: alb854s.xyz:8080     Status: Active    Created: 6.07.2024 15:09:37     Expires: 6.07.2034 15:09:37    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://185.233.16.180/get.php?username=IPR2023&password=14122023&type=m3u&output=ts
+Real Url: 185.233.16.180:80     Status: Active    Created: 14.12.2022 12:06:40     Expires: 17.06.2025 09:19:37    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://alb854s.xyz:8080/get.php?username=Sertac4141&password=6ZfmzqJctXH7&type=m3u&output=ts
+Real Url: alb854s.xyz:8080     Status: Active    Created: 28.03.2024 03:18:50     Expires: 23.06.2025 21:00:00    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://alb854s.xyz:8080/get.php?username=jpn386&password=rt76trye&type=m3u&output=ts
+Real Url: alb854s.xyz:8080     Status: Active    Created: 21.02.2024 19:12:24     Expires: 21.02.2025 20:12:24    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://alb854s.xyz:8080/get.php?username=rmn3110&password=rmn3110&type=m3u&output=ts
+Real Url: alb854s.xyz:8080     Status: Active    Created: 25.09.2024 16:11:04     Expires: 25.09.2025 16:11:04    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://byrk61.bond:8080/get.php?username=Bahattineryener&password=qPvw4AfaOx&type=m3u&output=ts
+Real Url: byrk61.bond:8080     Status: Active    Created: 25.10.2020 15:05:10     Expires: 25.10.2025 15:05:10    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://byrk61.bond:8080/get.php?username=hakangorur&password=tZAUcsydK4fE3q&type=m3u&output=ts
+Real Url: byrk61.bond:8080     Status: Active    Created: 28.10.2023 14:33:29     Expires: 31.10.2025 17:50:57    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://byrk61.bond:8080/get.php?username=mustafatoprakDE&password=ZpWbEDmyD64psE&type=m3u&output=ts
+Real Url: byrk61.bond:8080     Status: Active    Created: 7.06.2024 11:45:19     Expires: 7.06.2025 11:45:19    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://canlitv.tsvipsmart.eu:8000/get.php?username=hikmentr&password=nPLrmuKyVN&type=m3u&output=ts
+Real Url: canlitv.tsvipsmart.eu:8000     Status: Active    Created: 6.10.2024 12:16:30     Expires: 6.10.2025 12:16:30    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://canlitv.tsvipsmart.eu:8000/get.php?username=Hilmiture&password=RK0YGBm1uL&type=m3u&output=ts
+Real Url: canlitv.tsvipsmart.eu:8000     Status: Active    Created: 11.08.2020 19:11:09     Expires: 16.08.2025 05:32:08    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://cd16.mr26k.xyz:8080/get.php?username=mustafapetek65&password=6536835gvaah&type=m3u&output=ts
+Real Url: cd16.mr26k.xyz:8080     Status: Active    Created: 23.06.2022 17:43:16     Expires: 5.08.2025 22:00:00    Active Connections: 2     Maximum Connections: 2     Formats: "ts"
+
+http://cihan.tsvipsmart.eu:8000/get.php?username=Hilmiture&password=RK0YGBm1uL&type=m3u&output=ts
+Real Url: cihan.tsvipsmart.eu:8000     Status: Active    Created: 11.08.2020 19:11:09     Expires: 16.08.2025 05:32:08    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://cihan.tsvipsmart.eu:8000/get.php?username=savaskandemiranne&password=zqILeSJIDx&type=m3u&output=ts
+Real Url: cihan.tsvipsmart.eu:8000     Status: Active    Created: 2.10.2024 11:18:18     Expires: 1.10.2025 21:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://de.sc-iptv.biz:8080/get.php?username=U8CyuNEqhxxU&password=ktt2PchJXxWr&type=m3u&output=ts
+Real Url: de.sc-iptv.biz:80     Status: Active    Created: 13.01.2021 19:19:20     Expires: 20.04.2025 19:32:26    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://de.sc-iptv.biz:8080/get.php?username=bulentpekdemir&password=QaUVJjU8cn&type=m3u&output=ts
+Real Url: de.sc-iptv.biz:80     Status: Active    Created: 8.05.2022 11:08:09     Expires: 8.05.2025 18:26:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@ekosupport.xyz/get.php?username=3817kaan1&password=LwvTXfRHvx&type=m3u&output=ts
+Real Url: ekosupport.xyz:80     Status: Active    Created: 29.09.2022 19:04:27     Expires: 5.10.2025 13:46:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@ekosupport.xyz/get.php?username=erdemterim&password=Sy85v9zn4t&type=m3u&output=ts
+Real Url: ekosupport.xyz:80     Status: Active    Created: 16.11.2022 11:11:38     Expires: 1.12.2025 11:11:38    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://de.sc-iptv.biz:8080/get.php?username=durucan33&password=28102020duc&type=m3u&output=ts
+Real Url: de.sc-iptv.biz:80     Status: Banned    Created: 27.04.2024 18:02:15     Expires: 27.04.2025 18:02:15    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@ekosupport.xyz/get.php?username=rasimberber&password=06082023asd&type=m3u&output=ts
+Real Url: ekosupport.xyz:80     Status: Active    Created: 6.08.2022 10:51:05     Expires: 6.08.2026 10:51:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@fatihiptv4.com:8000/get.php?username=hasanabi&password=GuuCppZmTv&type=m3u&output=ts
+Real Url: fatihiptv4.com:8000     Status: Active    Created: 30.03.2024 15:43:23     Expires: 30.03.2025 14:43:23    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@ekosupport.xyz/get.php?username=safak28&password=tHWMc2zsrs&type=m3u&output=ts
+Real Url: ekosupport.xyz:80     Status: Disabled    Created: 18.07.2022 22:49:07     Expires: 14.08.2025 16:40:33    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@izle.tsvipsmart.eu:8000/get.php?username=Volkankeskin&password=ZVAzpGmSEm&type=m3u&output=ts
+Real Url: izle.tsvipsmart.eu:8000     Status: Active    Created: 19.12.2021 20:46:36     Expires: 30.06.2025 19:13:09    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://patr0n@kaantv.net:8000/get.php?username=kaan21055&password=6r4t2cf926red8r&type=m3u&output=ts
+Real Url: kaantv.site:8000     Status: Active    Created: 7.11.2023 13:04:34     Expires: 7.11.2027 13:04:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@kaantv.net:8000/get.php?username=sinan.sak&password=9Y3d5E2GIh&type=m3u&output=ts
+Real Url: kaantv.site:8000     Status: Active    Created: 5.10.2016 19:49:05     Expires: 5.10.2026 19:49:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@fb4k.live:8080/get.php?username=L9JeAuf49q&password=98ZyaKnA4K&type=m3u&output=ts
+Real Url: fb4k.live:8080     Status: Active    Created: 22.02.2024 14:54:11     Expires: 22.02.2025 15:54:11    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@kayseritv.xyz:8080/get.php?username=BuddyBoenen1611&password=4zFFA3BdzZ&type=m3u&output=ts
+Real Url: kayseritv.xyz:8080     Status: Active    Created: 10.12.2022 11:16:17     Expires: 17.02.2026 23:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@mawitctv.xyz:8080/get.php?username=P8TBMUHffV&password=VBUzFzSzj2Rq&type=m3u&output=ts
+Real Url: madula.ath.cx:8080     Status: Active    Created: 4.11.2024 13:04:30     Expires: 4.11.2025 13:04:30    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@megaott.live:8080/get.php?username=DAMIANTELEGRAM563&password=sARwKEJ97QaY&type=m3u&output=ts
+Real Url: megaott.live:8080     Status: Active    Created: 14.09.2024 19:13:57     Expires: 12.03.2025 00:13:00    Active Connections: 2     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@megaott.live:8080/get.php?username=v4CyFwejuEmf&password=sJEjH4e8Qkdm&type=m3u&output=ts
+Real Url: megaott.live:8080     Status: Active    Created: 14.10.2024 10:17:33     Expires: 9.03.2025 21:03:00    Active Connections: 308     Maximum Connections: 600     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@hostingvl.com:8080/get.php?username=z2eraRq38QE6&password=hjI72ItRq8FrTig&type=m3u&output=ts
+Real Url: gemdecauciuc.online:8080     Status: Active    Created: 17.04.2023 16:23:50     Expires: 18.04.2025 16:23:50    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@midn.asdasgrasic.store/get.php?username=Futa730BAE&password=Wyaafmdae122AE&type=m3u&output=ts
+Real Url: midn.asdasgrasic.store:80     Status: Active    Created: 30.07.2024 11:53:32     Expires: 30.07.2025 12:45:04    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@santos9.xyz:8080/get.php?username=Sinandaloglu143&password=F3tdbD7Lc7&type=m3u&output=ts
+Real Url: santos9.xyz:8080     Status: Active    Created: 21.05.2021 08:14:41     Expires: 13.11.2025 21:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@santos9.xyz:8080/get.php?username=Bahattineryener&password=qPvw4AfaOx&type=m3u&output=ts
+Real Url: santos9.xyz:8080     Status: Active    Created: 7.08.2022 11:10:39     Expires: 30.06.2025 13:20:00    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@noxvhcms1.cfd/get.php?username=duru0708&password=ksaRFdyKPE&type=m3u&output=ts
+Real Url: noxvhcms1.cfd:80     Status: Active    Created: 7.08.2022 11:10:39     Expires: 30.06.2025 13:20:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@newpuma4k.xyz:8080/get.php?username=@user4344200&password=8dg5Du6ShBTd&type=m3u&output=ts
+Real Url: newpuma4k.xyz:8080     Status: Active    Created: Null     Expires: 20.08.2026 14:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@santos9.xyz:8080/get.php?username=TahsinCangur&password=1ob7svEXeF&type=m3u&output=ts
+Real Url: santos9.xyz:8080     Status: Active    Created: 25.03.2021 14:25:56     Expires: 27.03.2025 21:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://patr0n@santos9.xyz:8080/get.php?username=Yelizz&password=v20d2BwFVn&type=m3u&output=ts
+Real Url: santos9.xyz:8080     Status: Active    Created: 30.10.2022 09:55:36     Expires: 31.10.2025 15:01:15    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@santos9.xyz:8080/get.php?username=ahmetgunsayan&password=YWEGPxkSQz&type=m3u&output=ts
+Real Url: santos9.xyz:8080     Status: Active    Created: 24.10.2021 13:17:12     Expires: 26.04.2025 19:18:49    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@santos9.xyz:8080/get.php?username=ahmetyaldirkanDE&password=4BaRrrNRJj&type=m3u&output=ts
+Real Url: santos9.xyz:8080     Status: Active    Created: 7.08.2022 11:10:48     Expires: 8.08.2025 15:18:47    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@santos9.xyz:8080/get.php?username=hakangorur&password=tZAUcsydK4fE3q&type=m3u&output=ts
+Real Url: santos9.xyz:8080     Status: Active    Created: 28.10.2023 14:33:29     Expires: 31.10.2025 17:50:57    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@midn.asdasgrasic.store/get.php?username=abcd1234&password=E8nJ5d7pUReE&type=m3u&output=ts
+Real Url: midn.asdasgrasic.store:80     Status: Active    Created: 17.02.2024 01:28:29     Expires: 17.02.2025 01:33:17    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@mrclive.net/get.php?username=615880538984620&password=1593574628&type=m3u&output=ts
+Real Url: mrclive.net:80     Status: Active    Created: 23.09.2024 19:42:18     Expires: 1.10.2025 13:28:20    Active Connections: 0     Maximum Connections: 1     Formats: "ts","m3u8"
+
+http://patr0n@midn.asdasgrasic.store/get.php?username=vizcaya219800&password=alava32768&type=m3u&output=ts
+Real Url: midn.asdasgrasic.store:80     Status: Active    Created: 10.04.2024 18:31:08     Expires: 10.04.2025 18:33:16    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@santos9.xyz:8080/get.php?username=mustafatoprakDE&password=ZpWbEDmyD64psE&type=m3u&output=ts
+Real Url: santos9.xyz:8080     Status: Active    Created: 7.06.2024 11:45:19     Expires: 7.06.2025 11:45:19    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@snap-tr.org:80/get.php?username=AtefNeumagen&password=gHXps3uIqq&type=m3u&output=ts
+Real Url: snap-tr.org:80     Status: Active    Created: 10.04.2020 16:04:10     Expires: 12.04.2025 08:54:38    Active Connections: N\/A     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://patr0n@snap-tr.org:80/get.php?username=ramziadi&password=353914255593&type=m3u&output=ts
+Real Url: snap-tr.org:80     Status: Banned    Created: 15.08.2023 11:20:14     Expires: 29.08.2025 19:59:06    Active Connections: N\/A     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://patr0n@tv14s.xyz:8080/get.php?username=fNeb6z&password=084603&type=m3u&output=ts
+Real Url: xxip9.top:8080     Status: Active    Created: 7.09.2023 04:00:00     Expires: 13.09.2025 04:00:00    Active Connections: 1     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@tv14s.xyz:8080/get.php?username=59Rqzs&password=241851&type=m3u&output=ts
+Real Url: xxip9.top:8080     Status: Active    Created: 20.03.2022 04:00:00     Expires: 20.02.2025 05:00:00    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@tv14s.xyz:8080/get.php?username=saen1987@gmail.com&password=xkb5GdX4WYj&type=m3u&output=ts
+Real Url: xxip9.top:8080     Status: Active    Created: 23.11.2023 03:25:19     Expires: 26.02.2025 20:31:16    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@tv14s.xyz:8080/get.php?username=49457200&password=49457200&type=m3u&output=ts
+Real Url: xxip9.top:8080     Status: Active    Created: 11.08.2020 19:11:09     Expires: 16.08.2025 05:32:08    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@umit.tsvipsmart.eu:8000/get.php?username=Hilmiture&password=RK0YGBm1uL&type=m3u&output=ts
+Real Url: umit.tsvipsmart.eu:8000     Status: Active    Created: 11.08.2020 19:11:09     Expires: 16.08.2025 05:32:08    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://patr0n@tv14s.xyz:8080/get.php?username=supertech36515@dytechservices.com13&password=rHd7Gg8ttx&type=m3u&output=ts
+Real Url: xxip9.top:8080     Status: Active    Created: 27.04.2022 18:28:46     Expires: 17.03.2025 23:40:14    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@tv14s.xyz:8080/get.php?username=thalwax@gmail.com&password=thalwax@2023&type=m3u&output=ts
+Real Url: xxip9.top:8080     Status: Active    Created: 5.11.2023 20:47:30     Expires: 6.11.2025 20:47:30    Active Connections: 1     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@umit.tsvipsmart.eu:8000/get.php?username=savaskandemiranne&password=zqILeSJIDx&type=m3u&output=ts
+Real Url: umit.tsvipsmart.eu:8000     Status: Active    Created: 2.10.2024 11:18:18     Expires: 1.10.2025 21:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@tvstation.cc/get.php?username=217D8Y3&password=63EFS99&type=m3u&output=ts
+Real Url: tvstation.cc:80     Status: Expired    Created: 19.05.2024 16:23:44     Expires: 18.01.2025 14:02:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://patr0n@vip-4k.com:8000/get.php?username=Huseyingumus&password=9gbZu4MbYq&type=m3u&output=ts
+Real Url: vip-4k.com:8000     Status: Active    Created: 6.06.2020 13:36:39     Expires: 9.06.2025 11:50:24    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@vip-4k.com:8000/get.php?username=OzgurKolak&password=sn8gjpyTwP&type=m3u&output=ts
+Real Url: vip-4k.com:8000     Status: Active    Created: 27.08.2024 13:40:34     Expires: 27.08.2025 13:40:34    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@vip-4k.com:8000/get.php?username=Mikailci&password=yq0LwzdrXe&type=m3u&output=ts
+Real Url: vip-4k.com:8000     Status: Active    Created: 21.09.2022 13:09:32     Expires: 29.09.2025 18:57:19    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://xx35.live:8080/get.php?username=DanielPaps&password=zmCyxcC5nB2V&type=m3u&output=ts
+Real Url: xx35.live:8080     Status: Active    Created: 17.12.2021 17:14:20     Expires: 19.12.2025 20:07:42    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://patr0n@vip-4k.com:8000/get.php?username=FaikHumb&password=CyYkrhswhW&type=m3u&output=ts
+Real Url: vip-4k.com:8000     Status: Active    Created: 17.12.2021 17:14:20     Expires: 19.12.2025 20:07:42    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@vip-4k.com:8000/get.php?username=hasanabi&password=GuuCppZmTv&type=m3u&output=ts
+Real Url: vip-4k.com:8000     Status: Active    Created: 30.03.2024 15:43:23     Expires: 30.03.2025 14:43:23    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://patr0n@tvap.in/get.php?username=497567252722099&password=1593574628&type=m3u&output=ts
+Real Url: tvap.in:80     Status: Expired    Created: 20.01.2023 16:43:38     Expires: 21.01.2025 16:44:48    Active Connections: 0     Maximum Connections: 1     Formats: "ts","m3u8"
+
+http://xx35.live:8080/get.php?username=McFly486&password=yW54BB6VHu&type=m3u&output=ts
+Real Url: xx35.live:8080     Status: Active    Created: 20.03.2022 08:54:34     Expires: 13.05.2025 23:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://xx35.live:8080/get.php?username=MehmetOget&password=x7n2b5n3&type=m3u&output=ts
+Real Url: xx35.live:8080     Status: Active    Created: 19.10.2024 11:35:28     Expires: 19.01.2026 12:35:28    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://xx35.live:8080/get.php?username=Micdarek&password=nWGeRhGhqA&type=m3u&output=ts
+Real Url: xx35.live:8080     Status: Active    Created: 2.09.2023 10:47:51     Expires: 20.08.2025 06:47:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://xx35.live:8080/get.php?username=mobilyaciinan&password=fyh568gt&type=m3u&output=ts
+Real Url: xx35.live:8080     Status: Active    Created: Null     Expires: 6.12.2025 23:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+
+
 ----------------------
 
 http://303hy.top/get.php?username=Recepuzulmez22&password=39uFZbPECn&type=m3u&output=ts
