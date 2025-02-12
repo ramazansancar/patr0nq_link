@@ -292,7 +292,7 @@ http://asus.xui2025.xyz:8080/get.php?username=vartoserkan436&password=749465gdty
 http://asus.xui2025.xyz:8080/get.php?username=piltanrecep&password=piltan200922&type=m3u
 http://ap.4531327.xyz/get.php?username=nurguls2424&password=15112022ads@&type=m3u
 
-
+-------------------------
 
 http://52.fxiptv.com:8080/get.php?username=brskaya2804&password=13012024GdMs&type=m3u&output=ts
 Real Url: 52.fxiptv.com:80     Status: Active    Created: 13.01.2024 14:47:04     Expires: 13.01.2026 15:45:23    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
