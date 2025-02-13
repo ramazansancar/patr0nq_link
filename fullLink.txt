@@ -1,4 +1,4 @@
-12.2.2025_GüncelLinkler
+13.2.2025_GüncelLinkler
 Edit: Ara sıra sayfayı yenileyin veya burayı kontrol edin.
 -----------------------------------------------
 Çalışan eski linkler dahil edilmiştir
@@ -13,6 +13,116 @@ Edit: Ara sıra sayfayı yenileyin veya burayı kontrol edin.
 Linkler bana ait değildir. Her link yazdığım programla belirlediğim sitelerden toplayıp 
 check ettiğim linklerdir.
 ----------------------
+
+http://shurtoro.ovh:8080/get.php?username=SerAgAm6&password=NTVaY98wTQb&type=m3u&output=ts
+Real Url: shurtoro.ovh:8080     Status: Active    Created: 15.01.2023 19:19:57     Expires: 19.02.2025 22:18:53    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts"
+
+http://client.newsborntvs.info/get.php?username=KreshnikDahri&password=bRjguwZe2&type=m3u&output=ts
+Real Url: client.newsborntvs.info:8080     Status: Active    Created: 9.09.2024 17:02:00     Expires: 10.09.2025 17:02:00    Active Connections: 3     Maximum Connections: 3     Formats: "m3u8","ts"
+
+http://mkdlive.org/get.php?username=bn-142&password=A6k7:3:tNi-a5&type=m3u&output=ts
+Real Url: alblive.org:80     Status: Active    Created: 10.11.2020 21:20:07     Expires: 14.01.2026 20:40:06    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://squid.game-tv.org:8080/get.php?username=CozmaIonut&password=7xFiP06LNIrWggKdRbP78Wu&type=m3u&output=ts
+Real Url: squid.game-tv.org:8080     Status: Active    Created: 28.12.2021 19:26:27     Expires: Null    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts"
+
+http://mkdlive.org:80/get.php?username=veziravstrija&password=145:ce85-62R:oKt5&type=m3u&output=ts
+Real Url: alblive.org:80     Status: Active    Created: 5.03.2020 20:25:16     Expires: 11.03.2025 19:35:00    Active Connections: 1     Maximum Connections: 1     Formats: "ts"
+
+http://venexuw.com:80/get.php?username=azizimohamed113&password=zbDC5R6HgUMnKXH&type=m3u&output=ts
+Real Url: venexuw.com:7070     Status: Active    Created: 18.01.2025 20:13:14     Expires: 18.04.2025 20:13:14    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://caooss.xyz:8080/get.php?username=psijosesilva&password=BCfLtWeMUEZp&type=m3u&output=ts
+Real Url: caooss.xyz:8080     Status: Active    Created: 3.12.2022 16:10:43     Expires: 31.05.2025 22:59:00    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://694.code.co.ro:8080/get.php?username=angelomaurizio&password=4HAEq5S3VZ&type=m3u&output=ts
+Real Url: 694.code.co.ro:8080     Status: Active    Created: 28.12.2024 23:20:24     Expires: 28.02.2025 23:20:24    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+https://358800.xyz:443/get.php?username=ba1cabf61cb2ce90&password=78a5bd672499af82&type=m3u&output=ts
+Real Url: 358800.xyz:80     Status: Active    Created: 2.02.2023 20:23:43     Expires: 8.03.2025 19:07:46    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://doublemax.xyz/get.php?username=N97Z25R41B22F6&password=H76XZS5A9MHSGTYF&type=m3u&output=ts
+Real Url: doublemax.xyz:80     Status: Active    Created: 21.12.2023 20:38:07     Expires: 21.12.2025 20:38:07    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://musl.slaris.ovh:80/get.php?username=LUCIANORAFF20252025&password=22112024&type=m3u&output=ts
+Real Url: magnolia75990198.aliespess.it:80     Status: Active    Created: 10.09.2021 17:01:13     Expires: 30.06.2025 21:59:00    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+http://bigo12.xyz/get.php?username=2E658MX&password=QWEDYJC&type=m3u&output=ts
+Real Url: bigo12.xyz:80     Status: Active    Created: 28.08.2024 02:07:49     Expires: 28.08.2025 02:07:49    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://deleuxe.xyz:8080/get.php?username=mnsV9PCACy3Z&password=HBfgyrC4tY8j&type=m3u&output=ts
+Real Url: deleuxe.xyz:80     Status: Active    Created: 26.01.2022 14:20:38     Expires: 16.08.2025 13:20:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://cdctmk.gleeze.com:25461/get.php?username=gianluca-peppe3&password=6Agl8gSJ6A&type=m3u&output=ts
+Real Url: cdctmk.gleeze.com:25461     Status: Disabled    Created: 7.04.2021 22:15:49     Expires: 13.03.2025 19:56:42    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://bestavb.top:8008/get.php?username=Sorin_Chirila&password=gztkSXFmkg&type=m3u&output=ts
+Real Url: bestavb.top:8008     Status: Active    Created: 13.06.2024 20:12:37     Expires: 15.02.2025 16:00:38    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts"
+
+http://fastopen.live:8080/get.php?username=DIhcdEPzjA&password=wlQuXq6gIF&type=m3u&output=ts
+Real Url: fastopen.live:8080     Status: Active    Created: 15.07.2024 20:44:32     Expires: 15.07.2025 20:44:32    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://cm1.portaltv.info:777/get.php?username=MehmetZekaGermany&password=sasfaf564nDfsaas2m&type=m3u&output=ts
+Real Url: cm1.portaltv.info:777     Status: Active    Created: 12.06.2020 14:09:40     Expires: 31.08.2025 11:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://loucofut.org/get.php?username=Saviola10&password=udw59Xx&type=m3u&output=ts
+Real Url: loucofut.org:80     Status: Active    Created: 29.08.2024 00:43:59     Expires: 1.03.2025 03:35:32    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://brtl56-cdn-lb2.cdn4.company/get.php?username=zo1S0tmmVgf6uOh2&password=5nrHKE5iYVgxVwpn&type=m3u&output=ts
+Real Url: cdn.smartx.go.panel.wtf:80     Status: Active    Created: 13.08.2023 10:45:59     Expires: 18.02.2025 11:27:33    Active Connections: 0     Formats: "m3u8","ts","rtmp"
+
+http://prestij31.xyz:8080/get.php?username=Hamid5612&password=56fdh67009&type=m3u&output=ts
+Real Url: prestij31.xyz:8080     Status: Active    Created: 25.11.2024 16:12:50     Expires: 26.11.2025 16:32:24    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://germanyservers3.com:8080/get.php?username=Nipro123456&password=06bu18890&type=m3u&output=ts
+Real Url: germanyservers3.com:8080     Status: Active    Created: 13.09.2022 20:23:39     Expires: 17.09.2026 16:15:57    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://tzuraganu.gotdns.ch:8008/get.php?username=catalin@olteanu&password=k4eNy8ET&type=m3u&output=ts
+Real Url: tzuraganu.gotdns.ch:8008     Status: Active    Created: 26.10.2024 18:36:23     Expires: 27.03.2025 19:36:23    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts"
+
+http://dm.lion-ott.com/get.php?username=Emre1733320&password=8Eyt2727&type=m3u&output=ts
+Real Url: dm.lion-ott.com:80     Status: Active    Created: 27.07.2024 13:56:24     Expires: 27.07.2025 13:56:24    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://vivaespana.policyshield.org/get.php?username=c9ba5bee92ad3fee&password=626d66dc4c885f22&type=m3u&output=ts
+Real Url: vivaespana.policyshield.org:80     Status: Active    Created: 9.02.2025 18:54:45     Expires: 25.02.2025 18:55:00    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://smpfd.maxnwu.xyz/get.php?username=hu221738&password=kcHQTT8AMagQ&type=m3u&output=ts
+Real Url: smpfd.maxnwu.xyz:80     Status: Active    Created: 21.02.2024 06:46:42     Expires: 22.02.2025 11:38:24    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://n7438540q-aws-eu.tbqrsl.top:8080/get.php?username=Cor_Nel&password=ot3pUKTheeuTobB6C&type=m3u&output=ts
+Real Url: n7438540q-aws-eu.tbqrsl.top:8080     Status: Active    Created: 29.12.2024 17:46:22     Expires: 2.03.2025 21:59:00    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts"
+
+http://mega-warzone.com:8080/get.php?username=Bacila_IulianNou&password=5bfa73638e2a3649&type=m3u&output=ts
+Real Url: mega-warzone.com:8080     Status: Active    Created: 6.01.2025 22:57:36     Expires: 1.03.2025 16:40:00    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts"
+
+http://mediaplus.selfip.co:80/get.php?username=Iolandadigesto&password=mvY3YPaaXU&type=m3u&output=ts
+Real Url: mediaplus.selfip.co:80     Status: Active    Created: 6.12.2024 09:29:27     Expires: 6.07.2025 08:29:27    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://line.ottcdn.net/get.php?username=a0ee5eb499&password=c2877e3c11ff&type=m3u&output=ts
+Real Url: line.ottcdn.net:80     Status: Active    Created: 4.09.2024 22:00:00     Expires: 4.09.2025 22:00:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://tzuraganu.gotdns.ch:8008/get.php?username=stanasel@sandel&password=jD9Eb5jC6k&type=m3u&output=ts
+Real Url: tzuraganu.gotdns.ch:8008     Status: Active    Created: 3.09.2023 20:42:37     Expires: 3.02.2026 21:42:42    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts"
+
+http://sh8kpro.com:8080/get.php?username=d0:d0:03:c5:99:be&password=sgqnUqzFOR&type=m3u&output=ts
+Real Url: sh8kpro.com:8080     Status: Active    Created: 28.01.2025 18:09:37     Expires: 2.04.2025 05:06:39    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://uksolvix.uk:8080/get.php?username=Adrian-Ady&password=WPv8RKtszFyL&type=m3u&output=ts
+Real Url: pianopain.uk:8080     Status: Active    Created: 12.09.2023 15:56:21     Expires: 15.03.2025 12:30:00    Active Connections: 1     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://topo.kenoxo.com:80/get.php?username=Benssam&password=6LHU2HUXMT&type=m3u&output=ts
+Real Url: topo.kenoxo.com:25443     Status: Active    Created: 19.02.2021 10:10:50     Expires: 20.03.2025 00:14:41    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://m.zappflix.com/get.php?username=dwq2U9JrqsaM&password=cEj3Nxcg4PkN&type=m3u&output=ts
+Real Url: m.zappflix.com:80     Status: Active    Created: 18.03.2023 13:11:21     Expires: 18.03.2025 13:11:21    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://q6525910a-aws-eu.tbqrsl.top:8080/get.php?username=Stefan_Monoran&password=hnGK6DnZ4F3Eekq5p&type=m3u&output=ts
+Real Url: q6525910a-aws-eu.tbqrsl.top:8080     Status: Active    Created: 19.01.2038 03:14:07     Expires: 16.06.2025 19:43:26    Active Connections: 0     Maximum Connections: 3     Formats: "ts","m3u8"
+
+http://toptvtelevizija.co:80/get.php?username=ZahtilaADO&password=x7osEemi3U&type=m3u&output=ts
+Real Url: balkan-x.net:80     Status: Active    Created: 2.10.2020 10:21:40     Expires: 2.04.2025 10:21:40    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+---------------------
 
 http://asus.xui2025.xyz:8080/get.php?username=2f9b5ydAz&password=Ts2p5fGIi&type=m3u
 http://asus.xui2025.xyz:8080/get.php?username=BLC27Hoca27&password=F25D08L22&type=m3u
