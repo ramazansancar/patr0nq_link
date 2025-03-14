@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="None" tvg-name="24 (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",24 (7)
+#EXTINF:-1 tvg-id="None" tvg-name="24 (7)" tvg-logo="" group-title="Turkey"
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1702937932/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="24 KITCHEN (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",24 KITCHEN (7)
+#EXTINF:-1 tvg-id="None" tvg-name="24 KITCHEN (7)" tvg-logo="" group-title="Turkey"
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3329504843/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="360 (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",360 (7)
+#EXTINF:-1 tvg-id="None" tvg-name="360 (7)" tvg-logo="" group-title="Turkey"
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1651455199/index.m3u8
