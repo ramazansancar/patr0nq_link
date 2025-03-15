@@ -26,9 +26,12 @@ jobs:
           python .github/scripts/process_channels.py
           
       - name: Degisiklikleri Kaydet ve Gonder
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git pull --rebase origin main
           git add -f kekik-vavoo/
           git add *.m3u
