@@ -34,7 +34,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git pull origin main
           git add kekik-vavoo/*.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "Kanal listelerini guncelledik"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Vavoo listelerini guncelledik"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
