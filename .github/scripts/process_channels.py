@@ -75,8 +75,14 @@ def is_movie_channel(channel):
 
 # M3U dosyası oluştur
 def write_m3u_file(filename, channels):
-    # Dosyayı mevcut dizinde oluştur
-    with open(filename, 'w', encoding='utf-8') as f:
+    # kekik-vavoo dizinini oluştur (eğer yoksa)
+    import os
+    output_dir = 'kekik-vavoo'
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Dosyayı kekik-vavoo dizininde oluştur
+    filepath = os.path.join(output_dir, filename)
+    with open(filepath, 'w', encoding='utf-8') as f:
         f.write('#EXTM3U\n')
         for channel in channels:
             f.write(f"{channel['extinf']}\n")
