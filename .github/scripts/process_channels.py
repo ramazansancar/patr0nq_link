@@ -24,7 +24,24 @@ def parse_channel(lines, start_idx):
     while i < len(lines):
         line = lines[i].strip()
         if line.startswith('#EXTINF'):
-            # Türkçe dil ve ülke etiketlerini ekle
+            # TVG-ID etiketini koru ve grup başlığını düzenle
+            tvg_id_match = re.search('tvg-id="([^"]*)"', line)
+            tvg_id = tvg_id_match.group(1) if tvg_id_match else ''
+            
+            # Grup başlığını düzenle
+            if is_sports_channel({'extinf': line}):
+                group = 'Türkiye/Spor'
+            elif is_news_channel({'extinf': line}):
+                group = 'Türkiye/Haber'
+            elif is_kids_channel({'extinf': line}):
+                group = 'Türkiye/Çocuk'
+            elif is_movie_channel({'extinf': line}):
+                group = 'Türkiye/Film'
+            else:
+                group = 'Türkiye/Genel'
+                
+            # Yeni EXTINF satırını oluştur
+            line = re.sub('group-title="[^"]*"', f'group-title="{group}"', line)
             if 'tvg-language=' not in line:
                 line = line.replace('group-title=', 'tvg-language="Turkish" tvg-country="TR" group-title=')
             channel['extinf'] = line
@@ -126,10 +143,10 @@ def main():
     
     # Kategorilere göre M3U dosyalarını oluştur
     write_m3u_file('vavoo-sports.m3u', sports_channels)    # Spor kanalları (Bein dahil)
-    write_m3u_file('vavoo-turkiye1.m3u', news_channels)   # Haber kanalları
-    write_m3u_file('vavoo-turkiye2.m3u', kids_channels)   # Çocuk kanalları
-    write_m3u_file('vavoo-turkiye3.m3u', movie_channels)  # Film ve dizi kanalları
-    write_m3u_file('vavoo-turkiye4.m3u', other_channels)  # Diğer kanallar
+    write_m3u_file('vavoo-haber.m3u', news_channels)      # Haber kanalları
+    write_m3u_file('vavoo-cocuk.m3u', kids_channels)      # Çocuk kanalları
+    write_m3u_file('vavoo-film.m3u', movie_channels)      # Film ve dizi kanalları
+    write_m3u_file('vavoo-genel.m3u', other_channels)     # Diğer kanallar
 
 if __name__ == '__main__':
     main()
