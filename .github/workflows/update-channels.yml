@@ -27,9 +27,12 @@ jobs:
           
       - name: Degisiklikleri Kaydet ve Gonder
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git pull --rebase origin main
-          git add *.m3u
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git pull origin main
+          git add kekik-vavoo/*.m3u
           git diff --quiet && git diff --staged --quiet || git commit -m "Kanal listelerini guncelledik"
-          git push origin main --force-with-lease
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
