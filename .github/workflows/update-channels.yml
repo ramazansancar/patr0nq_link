@@ -3,7 +3,7 @@ name: Vavoo Dosyalarimizi Olusturalim
 on:
   schedule:
     - cron: '0 */6 * * *'  # Her 6 saatte bir calistir
-  workflow_dispatch:  # Manuel tetiklemeye izin ver
+  workflow_dispatch:  # Manuel tetiklemeye izin verip istediğimiz zaman Action altından Run Workflow diyerek de calistirmayi saglayabiliriz.
 
 permissions:
   contents: write
