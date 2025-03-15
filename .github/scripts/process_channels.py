@@ -40,6 +40,12 @@ def parse_channel(lines, start_idx):
             else:
                 group = 'Türkiye/Genel'
                 
+            # Logo URL'sini ekle
+            if 'tvg-logo=""' in line or 'tvg-logo=' not in line:
+                line = re.sub('tvg-logo="[^"]*"', 'tvg-logo="tv-logo/tv-logo.png"', line)
+                if 'tvg-logo=' not in line:
+                    line = line.replace('group-title=', 'tvg-logo="tv-logo/tv-logo.png" group-title=')
+            
             # Yeni EXTINF satırını oluştur
             line = re.sub('group-title="[^"]*"', f'group-title="{group}"', line)
             if 'tvg-language=' not in line:
