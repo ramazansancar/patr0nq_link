@@ -12,12 +12,12 @@ def parse_channel(lines, start_idx):
     if start_idx >= len(lines):
         return None, start_idx
     
-    # Kanal bilgilerini aldığımız yöntem bu oluyor
+    # Kanal bilgilerini aldığımız yöntem
     channel = {
         'extinf': '',        # Kanal meta bilgileri
-        'user_agent': '',    # Kullanıcı ajanı
+        'user_agent': '',    # User agent bilgisi
         'referrer': '',      # Referans URL
-        'url': ''            # Yayın URL'i
+        'url': ''            # Akışın URL Adresi
     }
     
     i = start_idx
