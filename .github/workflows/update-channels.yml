@@ -1,9 +1,12 @@
-name: Kanal Listelerini Guncelle
+name: Vavoo Dosyalarini Olusturalim
 
 on:
   schedule:
     - cron: '0 */6 * * *'  # Her 6 saatte bir calistir
   workflow_dispatch:  # Manuel tetiklemeye izin ver
+
+permissions:
+  contents: write
 
 jobs:
   kanal-guncelleme:
