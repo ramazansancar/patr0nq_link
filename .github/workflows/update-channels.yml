@@ -31,9 +31,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/GitLatte/link.git
+          git fetch origin
+          git reset --hard origin/main
           git pull --rebase origin main
           git add -f kekik-vavoo/
           git add *.m3u
           git diff --quiet && git diff --staged --quiet || git commit -m "Kanal listelerini guncelledik"
-          git push origin main
+          git push -f origin main
