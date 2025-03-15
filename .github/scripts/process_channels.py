@@ -1,18 +1,18 @@
 import requests
 import re
 
-# Vavoo içeriğini yerel dosyadan oku
+# Vavoo içeriğini yerel dosyadan okumak için, ana dizindeki sabit dosyamızın adını ekleyelim
 def fetch_vavoo_content():
     # vavoo.m3u dosyasından içeriği al
     with open('vavoo.m3u', 'r', encoding='utf-8') as f:
         return f.read()
 
-# Kanal bilgilerini ayrıştır
+# Kanal etiketlerini ve bilgilerini ayıralım
 def parse_channel(lines, start_idx):
     if start_idx >= len(lines):
         return None, start_idx
     
-    # Kanal bilgilerini tutacak sözlük
+    # Kanal bilgilerini aldığımız yöntem bu oluyor
     channel = {
         'extinf': '',        # Kanal meta bilgileri
         'user_agent': '',    # Kullanıcı ajanı
@@ -24,13 +24,13 @@ def parse_channel(lines, start_idx):
     while i < len(lines):
         line = lines[i].strip()
         if line.startswith('#EXTINF'):
-            # TVG-ID etiketini koru ve grup başlığını düzenle
+            # TVG-ID etiketi kalsın ve grup başlığını kanal grubuna göre otomatik değiştirelim
             tvg_id_match = re.search('tvg-id="([^"]*)"', line)
             tvg_id = tvg_id_match.group(1) if tvg_id_match else ''
             
             # Grup başlığını düzenle
             if is_sports_channel({'extinf': line}):
-                group = 'Türkiye/Spor'
+                group = 'Türkiye/Bein ve Spor Kanalları'
             elif is_news_channel({'extinf': line}):
                 group = 'Türkiye/Haber'
             elif is_kids_channel({'extinf': line}):
@@ -56,14 +56,14 @@ def parse_channel(lines, start_idx):
     
     return None, i
 
-# Spor kanalı kontrolü
+# Bein kanalları ve Spor kanalları kontrolü
 def is_sports_channel(channel):
     # Spor kanallarını belirlemek için anahtar kelimeler
     sports_keywords = ['BEIN', 'SPORT', 'SPOR', 'EUROSPORT', 'NBA TV', 'S SPORT', 'TIVIBU SPOR', 
                       'FB TV', 'GS TV', 'BJK TV', 'TRT SPOR', 'A SPOR', 'SPORTS TV']
     channel_name = channel['extinf'].upper()
     
-    # Bein Sports kanalları için özel kontrol
+    # Bein kanalları için özel kontrol. Kanal adında Bein geçiyorsa hepsini almak için.
     if 'BEIN' in channel_name:
         return True
     
@@ -142,7 +142,7 @@ def main():
         channel_list.sort(key=lambda x: x['extinf'])
     
     # Kategorilere göre M3U dosyalarını oluştur
-    write_m3u_file('vavoo-sports.m3u', sports_channels)    # Spor kanalları (Bein dahil)
+    write_m3u_file('vavoo-bein-ve-spor-kanallari.m3u', sports_channels)    # Spor kanalları (Bein dahil)
     write_m3u_file('vavoo-haber.m3u', news_channels)      # Haber kanalları
     write_m3u_file('vavoo-cocuk.m3u', kids_channels)      # Çocuk kanalları
     write_m3u_file('vavoo-film.m3u', movie_channels)      # Film ve dizi kanalları
