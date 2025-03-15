@@ -2,7 +2,7 @@ name: Kanal Listelerini Guncelle
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Her 6 saatte bir calistiralim
+    - cron: '0 */6 * * *'  # Her 6 saatte bir calistiralim.
   workflow_dispatch:  # Manuel tetiklemeye izin ver
 
 jobs:
