@@ -65,13 +65,14 @@ def parse_channel(lines, start_idx):
 # Bein kanalları ve Spor kanalları kontrolü
 def is_sports_channel(channel):
     # Spor kanallarını belirlemek için anahtar kelimeler
-    sports_keywords = ['BEIN', 'SPORT', 'SPOR', 'EUROSPORT', 'NBA TV', 'S SPORT', 'TIVIBU SPOR', 
+    sports_keywords = ['SPORT', 'SPOR', 'EUROSPORT', 'NBA TV', 'S SPORT', 'TIVIBU SPOR', 
                       'FB TV', 'GS TV', 'BJK TV', 'TRT SPOR', 'A SPOR', 'SPORTS TV']
     channel_name = channel['extinf'].upper()
     
-    # Bein kanalları için özel kontrol. Kanal adında Bein geçiyorsa hepsini almak için.
-    if 'BEIN' in channel_name:
-        return True
+# Bein kanallarını almayı sonraya bırakıyoruz sadece spor içerikli kanalları alıyoruz.
+# Bein kanalları için özel kontrol. Kanal adında Bein geçiyorsa hepsini almak için.
+#    if 'BEIN' in channel_name:
+#        return True
     
     return any(keyword in channel_name for keyword in sports_keywords)
 
