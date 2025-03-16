@@ -2,7 +2,7 @@ import os
 import time
 import schedule
 
-# Doğru dosya yolları
+
 vavoo_script = r"C:\Users\ACK\Desktop\pyt\vavookooloha\templates\Vavoo_m3u.py"
 duzenleyici_script = r"C:\Users\ACK\Desktop\pyt\vavooDuzenleyici\vavooDuzenleyici.py"
 m3u_file = r"C:\Users\ACK\Desktop\patronvavoo\link\vavoo.m3u"
@@ -21,12 +21,12 @@ def run_formatter():
 def push_to_github():
     print("Git işlemleri başladı...")
 
-    # Git deposuna geç
+    
     os.chdir(repo_path)
 
-    # Git işlemlerini sırayla çalıştır
-    os.system("git reset --hard")  # Değişiklikleri sıfırla
-    os.system("git pull --rebase")  # Uzak repo ile senkronize ol
+    
+    os.system("git reset --hard")
+    os.system("git pull --rebase")
 
     if os.path.exists(m3u_file):
         os.system("git add .")
@@ -44,8 +44,8 @@ def automate_process():
 # 5 saatte bir çalıştır
 schedule.every(5).hours.do(automate_process)
 
-automate_process()  # İlk başlatmada çalıştır
+automate_process()
 
 while True:
     schedule.run_pending()
-    time.sleep(60)  # Her dakika kontrol et
+    time.sleep(60)
