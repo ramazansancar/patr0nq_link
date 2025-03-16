@@ -7,7 +7,7 @@ import schedule
 vavoo_script = r"C:\Users\ACK\Desktop\,\pyt\vavookooloha\templates\Vavoo_m3u.py"
 duzenleyici_script = r"C:\Users\ACK\Desktop\,\pyt\vavooDuzenleyici\vavooDuzenleyici.py"
 m3u_file = r"C:\Users\ACK\Desktop\,\patronvavoo\link\vavoo.m3u"
-repo_path = r"C:\Users\ACK\Desktop\patronvavoo\link"  # Git deposunun ana klasörü
+repo_path = r"C:\Users\ACK\Desktop\patronvavoo"  # Git deposunun ana klasörü
 
 def run_vavoo_scraper():
     print("Vavoo yayınlarını çekme işlemi başladı...")
@@ -26,9 +26,9 @@ def push_to_github():
     os.chdir(repo_path)
 
     # Git işlemleri
-    subprocess.run(["git", "add", "link/vavoo.m3u"], check=True)
+    subprocess.run(["git", "add", "vavoo.m3u"], check=True)
     subprocess.run(["git", "commit", "-m", "Otomatik güncelleme"], check=True)
-    subprocess.run(["git", "push"], check=True)
+    subprocess.run(["git", "push", "origin", "main"], check=True)
 
     print("Git işlemleri tamamlandı.")
 
