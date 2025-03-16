@@ -149,7 +149,7 @@ def main():
         channel_list.sort(key=lambda x: x['extinf'])
     
     # Kategorilere göre M3U dosyalarını oluştur
-    write_m3u_file('vavoo-bein-ve-spor-kanallari.m3u', sports_channels)    # Spor kanalları (Bein dahil)
+    write_m3u_file('vavoo-sadecespor.m3u', sports_channels)    # Spor kanalları (Bein dahil)
     write_m3u_file('vavoo-haber.m3u', news_channels)      # Haber kanalları
     write_m3u_file('vavoo-cocuk.m3u', kids_channels)      # Çocuk kanalları
     write_m3u_file('vavoo-film.m3u', movie_channels)      # Film ve dizi kanalları
