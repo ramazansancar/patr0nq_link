@@ -1,36 +1,40 @@
 import os
-import subprocess
 import time
 import schedule
 
 # Doğru dosya yolları
-vavoo_script = r"C:\Users\ACK\Desktop\,\pyt\vavookooloha\templates\Vavoo_m3u.py"
-duzenleyici_script = r"C:\Users\ACK\Desktop\,\pyt\vavooDuzenleyici\vavooDuzenleyici.py"
-m3u_file = r"C:\Users\ACK\Desktop\,\patronvavoo\link\vavoo.m3u"
+vavoo_script = r"C:\Users\ACK\Desktop\pyt\vavookooloha\templates\Vavoo_m3u.py"
+duzenleyici_script = r"C:\Users\ACK\Desktop\pyt\vavooDuzenleyici\vavooDuzenleyici.py"
+m3u_file = r"C:\Users\ACK\Desktop\patronvavoo\link\vavoo.m3u"
 repo_path = r"C:\Users\ACK\Desktop\patronvavoo"  # Git deposunun ana klasörü
 
 def run_vavoo_scraper():
     print("Vavoo yayınlarını çekme işlemi başladı...")
-    subprocess.run(["python", vavoo_script], check=True)
+    os.system(f"python {vavoo_script}")
     print("Vavoo yayınlarını çekme işlemi tamamlandı.")
 
 def run_formatter():
     print("Listeyi formatlama işlemi başladı...")
-    subprocess.run(["python", duzenleyici_script], check=True)
+    os.system(f"python {duzenleyici_script}")
     print("Listeyi formatlama işlemi tamamlandı.")
 
 def push_to_github():
     print("Git işlemleri başladı...")
 
-    # Git deposunun içine gir
+    # Git deposuna geç
     os.chdir(repo_path)
 
-    # Git işlemleri
-    subprocess.run(["git", "add", "vavoo.m3u"], check=True)
-    subprocess.run(["git", "commit", "-m", "Otomatik güncelleme"], check=True)
-    subprocess.run(["git", "push", "origin", "main"], check=True)
+    # Git işlemlerini sırayla çalıştır
+    os.system("git reset --hard")  # Değişiklikleri sıfırla
+    os.system("git pull --rebase")  # Uzak repo ile senkronize ol
 
-    print("Git işlemleri tamamlandı.")
+    if os.path.exists(m3u_file):
+        os.system("git add .")
+        os.system('git commit -m "Otomatik güncelleme"')
+        os.system("git push origin main")
+        print("Git işlemleri tamamlandı.")
+    else:
+        print("HATA: vavoo.m3u dosyası bulunamadı!")
 
 def automate_process():
     run_vavoo_scraper()
