@@ -159,10 +159,6 @@ https://vavoo.to/play/652210082/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4144668031/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HABER T RK HD+ SD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Haber"  ,HABER T RK HD+ SD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3225335454/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TURK HEVC (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Haber"  ,HABER TURK HEVC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
