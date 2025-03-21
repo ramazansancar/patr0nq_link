@@ -1,157 +1,236 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,BABY TV HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2751658995/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,BOOMERANG HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/11743931/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,CARTOON NETWORK HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1313600851/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,CARTOONITO (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/178755989/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBEEBIES (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,CBEEBIES (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2823044667/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBEEBIES HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,CBEEBIES HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2672851185/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COCUK 1 HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,COCUK 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/204606561/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COCUK 2 HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,COCUK 2 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2193427330/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COCUK 3 HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,COCUK 3 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1310133020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DA VINCI (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,DA VINCI (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2205765331/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,DISNEY CHANNEL HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3578544716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,DISNEY JR HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4108765291/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,DISNEY JR HD+ (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1772892321/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,DISNEY XD HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3422853680/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ILAHI COCUK TV (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,ILAHI COCUK TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/401592407/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MINIKA COCUK (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,MINIKA COCUK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3036231687/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MINIKA COCUK (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,MINIKA COCUK (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1127812993/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,NICK JR HD HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/707163099/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,NICKELODEON (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3029254675/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,NICKELODEON HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/503443750/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMART COCUK HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,SMART COCUK HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/813574895/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT COCUK RAW (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,TRT COCUK RAW (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3979837190/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT DIYANET COCUK (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,TRT DIYANET COCUK (6)
+#EXTINF:-1 tvg-id="1101849390" tvg-name="TRT DIYANET COCUK (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",TRT DIYANET COCUK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1101849390/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="BABY TV (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,BABY TV (7)
+
+#EXTINF:-1 tvg-id="1127812993" tvg-name="MINIKA COCUK (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",MINIKA COCUK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4184865290/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="BOOMERANG (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,BOOMERANG (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2943974208/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="CARTOON NETWORK (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,CARTOON NETWORK (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/478549032/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="DA VINCI LEARNING (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,DA VINCI LEARNING (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1268465409/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="DISNEY CHANNEL (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,DISNEY CHANNEL (7)
+https://vavoo.to/play/1127812993/index.m3u8
+
+#EXTINF:-1 tvg-id="1161899432" tvg-name="DISNEY CHANNEL (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",DISNEY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1161899432/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="DISNEY JR (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,DISNEY JR (7)
+
+#EXTINF:-1 tvg-id="11743931" tvg-name="BOOMERANG HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",BOOMERANG HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3963678097/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="MINIKA COCUK (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,MINIKA COCUK (7)
+https://vavoo.to/play/11743931/index.m3u8
+
+#EXTINF:-1 tvg-id="1268465409" tvg-name="DA VINCI LEARNING (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",DA VINCI LEARNING (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4058432171/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="MINIKA GO (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,MINIKA GO (7)
+https://vavoo.to/play/1268465409/index.m3u8
+
+#EXTINF:-1 tvg-id="1310133020" tvg-name="COCUK 3 HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",COCUK 3 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2937701421/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="NICK JR (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,NICK JR (7)
+https://vavoo.to/play/1310133020/index.m3u8
+
+#EXTINF:-1 tvg-id="1313600851" tvg-name="CARTOON NETWORK HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",CARTOON NETWORK HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/85708551/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="NICKELODEON (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,NICKELODEON (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3092562301/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="SMART COCUK (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,SMART COCUK (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4277750275/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="TRT COCUK (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,TRT COCUK (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/792228122/index.m3u8
-#EXTINF:-1 tvg-id="babytv.tr" tvg-name="BABY TV (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,BABY TV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3820420855/index.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="CARTOON NETWORK (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,CARTOON NETWORK (6)
+https://vavoo.to/play/1313600851/index.m3u8
+
+#EXTINF:-1 tvg-id="1696573723" tvg-name="CARTOON NETWORK (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",CARTOON NETWORK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1696573723/index.m3u8
-#EXTINF:-1 tvg-id="minikago.tr" tvg-name="MINIKA GO (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,MINIKA GO (6)
+
+#EXTINF:-1 tvg-id="1709129189" tvg-name="4K TR: DUCK TV HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",4K TR: DUCK TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1709129189/index.m3u8
+
+#EXTINF:-1 tvg-id="1758313456" tvg-name="4K TR: BABYTV (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",4K TR: BABYTV (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1758313456/index.m3u8
+
+#EXTINF:-1 tvg-id="1772892321" tvg-name="DISNEY JR HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",DISNEY JR HD+ (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1772892321/index.m3u8
+
+#EXTINF:-1 tvg-id="178755989" tvg-name="CARTOONITO (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",CARTOONITO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/178755989/index.m3u8
+
+#EXTINF:-1 tvg-id="204606561" tvg-name="COCUK 1 HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",COCUK 1 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/204606561/index.m3u8
+
+#EXTINF:-1 tvg-id="2193427330" tvg-name="COCUK 2 HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",COCUK 2 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2193427330/index.m3u8
+
+#EXTINF:-1 tvg-id="2205765331" tvg-name="DA VINCI (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",DA VINCI (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2205765331/index.m3u8
+
+#EXTINF:-1 tvg-id="2672851185" tvg-name="CBEEBIES HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",CBEEBIES HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2672851185/index.m3u8
+
+#EXTINF:-1 tvg-id="2751658995" tvg-name="BABY TV HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",BABY TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2751658995/index.m3u8
+
+#EXTINF:-1 tvg-id="2823044667" tvg-name="CBEEBIES (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",CBEEBIES (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2823044667/index.m3u8
+
+#EXTINF:-1 tvg-id="2831274809" tvg-name="MINIKA GO (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",MINIKA GO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2831274809/index.m3u8
-#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TRT COCUK (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk"  ,TRT COCUK (6)
+
+#EXTINF:-1 tvg-id="2937701421" tvg-name="MINIKA GO (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",MINIKA GO (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2937701421/index.m3u8
+
+#EXTINF:-1 tvg-id="2943974208" tvg-name="BOOMERANG (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",BOOMERANG (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2943974208/index.m3u8
+
+#EXTINF:-1 tvg-id="3029180506" tvg-name="4K TR: TRT COCUK HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",4K TR: TRT COCUK HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3029180506/index.m3u8
+
+#EXTINF:-1 tvg-id="3029254675" tvg-name="NICKELODEON (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",NICKELODEON (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3029254675/index.m3u8
+
+#EXTINF:-1 tvg-id="3036231687" tvg-name="MINIKA COCUK (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",MINIKA COCUK (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3036231687/index.m3u8
+
+#EXTINF:-1 tvg-id="3092562301" tvg-name="NICKELODEON (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",NICKELODEON (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3092562301/index.m3u8
+
+#EXTINF:-1 tvg-id="3278185898" tvg-name="4K TR: CARTOON NETWORK (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",4K TR: CARTOON NETWORK (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3278185898/index.m3u8
+
+#EXTINF:-1 tvg-id="3422853680" tvg-name="DISNEY XD HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",DISNEY XD HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3422853680/index.m3u8
+
+#EXTINF:-1 tvg-id="3510107618" tvg-name="4K TR: BOOMERANG (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",4K TR: BOOMERANG (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3510107618/index.m3u8
+
+#EXTINF:-1 tvg-id="3578544716" tvg-name="DISNEY CHANNEL HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",DISNEY CHANNEL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3578544716/index.m3u8
+
+#EXTINF:-1 tvg-id="3820420855" tvg-name="BABY TV (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",BABY TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3820420855/index.m3u8
+
+#EXTINF:-1 tvg-id="3963678097" tvg-name="DISNEY JR (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",DISNEY JR (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3963678097/index.m3u8
+
+#EXTINF:-1 tvg-id="3979837190" tvg-name="TRT COCUK RAW (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",TRT COCUK RAW (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3979837190/index.m3u8
+
+#EXTINF:-1 tvg-id="3983067532" tvg-name="DA VINCI KIDS HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",DA VINCI KIDS HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3983067532/index.m3u8
+
+#EXTINF:-1 tvg-id="4058432171" tvg-name="MINIKA COCUK (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",MINIKA COCUK (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4058432171/index.m3u8
+
+#EXTINF:-1 tvg-id="410345406" tvg-name="4K TR: DA VINCI (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",4K TR: DA VINCI (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/410345406/index.m3u8
+
+#EXTINF:-1 tvg-id="4108765291" tvg-name="DISNEY JR HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",DISNEY JR HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4108765291/index.m3u8
+
+#EXTINF:-1 tvg-id="4184865290" tvg-name="BABY TV (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",BABY TV (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4184865290/index.m3u8
+
+#EXTINF:-1 tvg-id="4277750275" tvg-name="SMART COCUK (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",SMART COCUK (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4277750275/index.m3u8
+
+#EXTINF:-1 tvg-id="478549032" tvg-name="CARTOON NETWORK (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",CARTOON NETWORK (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/478549032/index.m3u8
+
+#EXTINF:-1 tvg-id="503443750" tvg-name="NICKELODEON HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",NICKELODEON HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/503443750/index.m3u8
+
+#EXTINF:-1 tvg-id="550045102" tvg-name="TRT COCUK HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",TRT COCUK HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/550045102/index.m3u8
+
+#EXTINF:-1 tvg-id="649228722" tvg-name="4K TR: DISNEY JUNIOR (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",4K TR: DISNEY JUNIOR (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/649228722/index.m3u8
+
+#EXTINF:-1 tvg-id="685794830" tvg-name="TRT COCUK (6)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",TRT COCUK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/685794830/index.m3u8
+
+#EXTINF:-1 tvg-id="707163099" tvg-name="NICK JR HD HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",NICK JR HD HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/707163099/index.m3u8
+
+#EXTINF:-1 tvg-id="792228122" tvg-name="TRT COCUK (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",TRT COCUK (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/792228122/index.m3u8
+
+#EXTINF:-1 tvg-id="813574895" tvg-name="SMART COCUK HD (1)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",SMART COCUK HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/813574895/index.m3u8
+
+#EXTINF:-1 tvg-id="85708551" tvg-name="NICK JR (7)" tvg-logo="https://raw.githubusercontent.com/ramazansancar/patr0nq_link/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Çocuk",NICK JR (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/85708551/index.m3u8
+

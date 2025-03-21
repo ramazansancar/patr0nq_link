@@ -3,9 +3,15 @@ import re
 
 # Vavoo içeriğini yerel dosyadan okumak için, ana dizindeki sabit dosyamızın adını ekleyelim
 def fetch_vavoo_content():
-    # vavoo.m3u dosyasından içeriği al
-    with open('vavoo.m3u', 'r', encoding='utf-8') as f:
-        return f.read()
+    # API'ye istek gönder
+    url = "https://api.ramsan.tr/tv/channels/m3u/?country=Turkey&domain=vavoo&sort=name"
+    response = requests.get(url)
+
+    # Gelen response'u vavoo.m3u dosyasına yaz
+    with open('vavoo.m3u', 'w', encoding='utf-8') as f:
+        f.write(response.text)
+
+    return response.text
 
 # Kanal etiketlerini ve bilgilerini ayıralım
 def parse_channel(lines, start_idx):
@@ -111,7 +117,7 @@ def write_m3u_file(filename, channels):
             f.write(f"{channel['extinf']}\n")
             f.write(f"{channel['user_agent']}\n")
             f.write(f"{channel['referrer']}\n")
-            f.write(f"{channel['url']}\n")
+            f.write(f"{channel['url']}\n\n")
 
 # Ana fonksiyon
 def main():
