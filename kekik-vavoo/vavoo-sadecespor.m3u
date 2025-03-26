@@ -119,6 +119,10 @@ https://vavoo.to/play/851841067/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2162609211/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 5 (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,EXXEN TV SPOR 5 (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3179734411/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 6 (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,EXXEN TV SPOR 6 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -247,10 +251,6 @@ https://vavoo.to/play/1489430754/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2546857708/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TABII SPOR 4 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1375986171/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 UHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TABII SPOR 4 UHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

@@ -23,10 +23,6 @@ https://vavoo.to/play/3564106134/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2567486605/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES ACTION 2 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Film"  ,BEIN MOVIES ACTION 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2617318386/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SERIES 1 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Film"  ,BEIN SERIES 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -171,10 +167,6 @@ https://vavoo.to/play/2163073175/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3268174995/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX PREMIER (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Film"  ,MAX PREMIER (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/858266837/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX TURK (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Film"  ,MAX TURK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -295,10 +287,6 @@ https://vavoo.to/play/1125523262/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1278447576/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="DIGI MAX 2 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Film"  ,DIGI MAX 2 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1104559360/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="DIZI SMART MAX (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Film"  ,DIZI SMART MAX (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -363,10 +351,6 @@ https://vavoo.to/play/1194009782/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/353384054/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="MOVIEMAX TURK (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Film"  ,MOVIEMAX TURK (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2178364300/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="REDBOX KEMAL SUNAL (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Film"  ,REDBOX KEMAL SUNAL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

@@ -495,6 +495,14 @@ https://vavoo.to/play/422848187/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1967516305/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST KOMEDI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,BEST KOMEDI (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1723326598/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST KORKU (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,BEST KORKU (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2298271695/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST LOCA 1 (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,BEST LOCA 1 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -507,6 +515,10 @@ https://vavoo.to/play/2026459468/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1168734460/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST NETFLIX (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,BEST NETFLIX (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3531727990/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST SALON 1 (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,BEST SALON 1 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -867,6 +879,10 @@ https://vavoo.to/play/2483365482/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3548409764/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM KEMAL SUNAL (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,DREAM KEMAL SUNAL (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/95010505/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DREAM KOMEDI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,DREAM KOMEDI (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -895,10 +911,6 @@ https://vavoo.to/play/1713907990/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1155291490/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DREAM TURK (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,DREAM TURK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1621026196/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DREAM TURK (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,DREAM TURK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -995,10 +1007,6 @@ https://vavoo.to/play/3515455741/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3991081632/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ENO TURK 1 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,ENO TURK 1 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2233687217/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ER TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,ER TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1471,6 +1479,10 @@ https://vavoo.to/play/1088149850/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4062866760/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL STUDIOS 4 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,MARVEL STUDIOS 4 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/918934667/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MARVEL STUDIOS 5 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,MARVEL STUDIOS 5 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1623,6 +1635,10 @@ https://vavoo.to/play/4256750932/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/631388769/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 TURK HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,NR1 TURK HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3548270931/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NUMBER ONE FM YABANCI M ZIK BURDA (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,NUMBER ONE FM YABANCI M ZIK BURDA (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1827,6 +1843,10 @@ https://vavoo.to/play/3726238957/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/786317112/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEMERKAND TV HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,SEMERKAND TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4096268883/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SERCE KUS TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,SERCE KUS TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2207,10 +2227,6 @@ https://vavoo.to/play/88860008/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3830648039/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA IMBD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,ULTRA IMBD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1566446122/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA KEMAL SUNAL (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,ULTRA KEMAL SUNAL (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2223,10 +2239,6 @@ https://vavoo.to/play/3537946048/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3563562547/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA TURK (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,ULTRA TURK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1868001587/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,ULUSAL KANAL (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2323,6 +2335,10 @@ https://vavoo.to/play/1584335383/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/394501159/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YILDIZ KIZ (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,YILDIZ KIZ (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1240136619/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YILDIZ TV EN (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,YILDIZ TV EN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2615,6 +2631,10 @@ https://vavoo.to/play/338831283/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/454047044/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="HALK TV (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,HALK TV (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3986444106/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="HISTORY CHANNEL (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,HISTORY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2967,6 +2987,10 @@ https://vavoo.to/play/175696837/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2362678422/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="TRT TURK (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,TRT TURK (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/797768731/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TRT WORLD (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,TRT WORLD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3055,10 +3079,6 @@ https://vavoo.to/play/1952835738/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/868586058/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="YESILCAM 3 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,YESILCAM 3 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/245742586/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="YOL TV (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Genel"  ,YOL TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
