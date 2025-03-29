@@ -7,6 +7,10 @@ def fetch_vavoo_content():
     url = "https://api.ramsan.tr/tv/channels/m3u/?country=Turkey&domain=vavoo&sort=name"
     response = requests.get(url)
 
+    if(response.status_code != 200):
+        print("API'den veri alınamadı.")
+        return None
+    
     # Gelen response'u vavoo.m3u dosyasına yaz
     with open('vavoo.m3u', 'w', encoding='utf-8') as f:
         f.write(response.text)
@@ -123,6 +127,8 @@ def write_m3u_file(filename, channels):
 def main():
     # Vavoo içeriğini al ve satırlara böl
     content = fetch_vavoo_content()
+    if content is None:
+        return
     lines = content.split('\n')
     
     # Kanal kategorileri için listeler
