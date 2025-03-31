@@ -91,6 +91,10 @@ https://vavoo.to/play/2563486225/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3578150260/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN T RK HD+ SD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Haber"  ,CNN T RK HD+ SD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2868318534/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN T RK HEVC (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Haber"  ,CNN T RK HEVC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -231,10 +235,6 @@ https://vavoo.to/play/2012038243/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4179564147/index.m3u8
-#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 KITCHEN (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Haber"  ,24 KITCHEN (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3295699287/index.m3u8
 #EXTINF:-1 tvg-id="HABERT RK-TR" tvg-name="HABERTURK HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Haber"  ,HABERTURK HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
