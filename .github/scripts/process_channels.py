@@ -39,10 +39,16 @@ def parse_channel(lines, start_idx):
             tvg_id = tvg_id_match.group(1) if tvg_id_match else ''
             
             # Grup başlığını düzenle
-            if is_sports_channel({'extinf': line}):
-                group = 'Türkiye/Spor Kanalları'
-            elif is_bein_channel({'extinf': line}):
+            if is_bein_channel({'extinf': line}):
                 group = 'Türkiye/Bein Kanalları'
+            elif is_tabii_channel({'extinf': line}):
+                group = 'Türkiye/Tabii Kanalları'
+            elif is_tivibu_channel({'extinf': line}):
+                group = 'Türkiye/Tivibu Kanalları'
+            elif is_trt_sport_channel({'extinf': line}):
+                group = 'Türkiye/TRT Spor Kanalları'
+            elif is_sports_channel({'extinf': line}):
+                group = 'Türkiye/Spor Kanalları'
             elif is_news_channel({'extinf': line}):
                 group = 'Türkiye/Haber'
             elif is_kids_channel({'extinf': line}):
@@ -86,11 +92,47 @@ def is_bein_channel(channel):
     
     return any(keyword in channel_name for keyword in bein_keywords)
 
+def is_tabii_channel(channel):
+    # Tabii kanallarını belirlemek için anahtar kelimeler
+    tabii_keywords = ['TABII']
+    channel_name = channel['extinf'].upper()
+    
+    # Tabii kanalları için özel kontrol. Kanal adında Tabii geçiyorsa hepsini almak için.
+    if 'TABII' in channel_name:
+        return True
+    
+    return any(keyword in channel_name for keyword in tabii_keywords)
+
+def is_tivibu_channel(channel):
+    # Tivibu kanallarını belirlemek için anahtar kelimeler
+    tivibu_keywords = ['TIVIBU', 'TIVIBUSPOR']
+    channel_name = channel['extinf'].upper()
+    
+    # Tivibu kanalları için özel kontrol. Kanal adında Tivibu geçiyorsa hepsini almak için.
+    if 'TIVIBU' in channel_name:
+        return True
+    if 'TIVIBUSPOR' in channel_name:
+        return True
+    
+    return any(keyword in channel_name for keyword in tivibu_keywords)
+
+# TRT Spor kanalları kontrolü
+def is_trt_sport_channel(channel):
+    # TRT Spor kanallarını belirlemek için anahtar kelimeler
+    trt_sport_keywords = ['TRT SPOR', 'TRT 3 SPOR']
+    channel_name = channel['extinf'].upper()
+    
+    # TRT Spor kanalları için özel kontrol. Kanal adında TRT Spor geçiyorsa hepsini almak için.
+    if 'TRT SPOR' in channel_name:
+        return True
+    
+    return any(keyword in channel_name for keyword in trt_sport_keywords)
+
 # Spor kanalları kontrolü
 def is_sports_channel(channel):
     # Spor kanallarını belirlemek için anahtar kelimeler
     sports_keywords = ['SPORT', 'SPOR', 'EUROSPORT', 'NBA TV', 'S SPORT', 'TIVIBU SPOR', 
-                      'FB TV', 'GS TV', 'BJK TV', 'TRT SPOR', 'A SPOR', 'SPORTS TV']
+                      'FB TV', 'GS TV', 'BJK TV', 'A SPOR', 'SPORTS TV']
     channel_name = channel['extinf'].upper()
     
     return any(keyword in channel_name for keyword in sports_keywords)
@@ -153,9 +195,15 @@ def main():
     while idx < len(lines):
         channel, new_idx = parse_channel(lines, idx)
         if channel:
-            if is_sports_channel(channel):
+            if is_bein_channel(channel):
                 sports_channels.append(channel)
-            elif is_bein_channel(channel):
+            elif is_tabii_channel(channel):
+                sports_channels.append(channel)
+            elif is_tivibu_channel(channel):
+                sports_channels.append(channel)
+            elif is_trt_sport_channel(channel):
+                sports_channels.append(channel)
+            elif is_sports_channel(channel):
                 sports_channels.append(channel)
             elif is_news_channel(channel):
                 news_channels.append(channel)
