@@ -157,7 +157,7 @@ def main():
     
     # Kanalları isimlerine göre sırala
     for channel_list in [sports_channels, news_channels, kids_channels, movie_channels, other_channels]:
-        channel_list.sort(key=lambda x: x['extinf'])
+        channel_list.sort(key=lambda x: re.search(',(.*)', x['extinf']).group(1) if re.search(',(.*)', x['extinf']) else '')
     
     # Kategorilere göre M3U dosyalarını oluştur
     write_m3u_file('vavoo-bein-ve-spor-kanallari.m3u', sports_channels)    # Spor kanalları (Bein dahil)
