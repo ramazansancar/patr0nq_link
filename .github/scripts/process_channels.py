@@ -119,8 +119,10 @@ def write_m3u_file(filename, channels):
 def transform_content(content, brand):
     # VAVOO -> BRAND (büyük harfler)
     # vavoo.to -> brand.to (küçük harfler)
+    # vavoo.png -> brand.png (logo değişimi)
     content = re.sub(r'VAVOO', brand.upper(), content)
     content = re.sub(r'vavoo\.to', f'{brand.lower()}.to', content)
+    content = re.sub(r'vavoo\.png', f'{brand.lower()}.png', content)
     return content
 
 # Özel versiyonlar için M3U dosyası oluştur
