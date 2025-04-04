@@ -267,6 +267,10 @@ https://vavoo.to/play/58015509/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2613731614/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="BLOOMBERG (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Haber"  ,BLOOMBERG (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2603224141/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="CNN TURK (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Haber"  ,CNN TURK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
