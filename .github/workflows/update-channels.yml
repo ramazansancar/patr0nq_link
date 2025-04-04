@@ -1,4 +1,4 @@
-name: Vavoo Dosyalarimizi Olusturalim
+name: Listeleri Güncelleyelim
 
 on:
   schedule:
@@ -34,7 +34,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git pull origin main
           git add kekik-vavoo/*.m3u huhu/*.m3u kool/*.m3u oha/*.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "Vavoo ve özel listeleri guncelledik"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Tüm listeleri guncelledik"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
