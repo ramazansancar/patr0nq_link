@@ -40,7 +40,9 @@ def parse_channel(lines, start_idx):
             
             # Grup başlığını düzenle
             if is_sports_channel({'extinf': line}):
-                group = 'Türkiye/Bein ve Spor Kanalları'
+                group = 'Türkiye/Spor Kanalları'
+            elif is_bein_channel({'extinf': line}):
+                group = 'Türkiye/Bein Kanalları'
             elif is_news_channel({'extinf': line}):
                 group = 'Türkiye/Haber'
             elif is_kids_channel({'extinf': line}):
@@ -72,16 +74,24 @@ def parse_channel(lines, start_idx):
     
     return None, i
 
-# Bein kanalları ve Spor kanalları kontrolü
-def is_sports_channel(channel):
+# Bein kanalları kontrolü
+def is_bein_channel(channel):
     # Spor kanallarını belirlemek için anahtar kelimeler
-    sports_keywords = ['BEIN', 'SPORT', 'SPOR', 'EUROSPORT', 'NBA TV', 'S SPORT', 'TIVIBU SPOR', 
-                      'FB TV', 'GS TV', 'BJK TV', 'TRT SPOR', 'A SPOR', 'SPORTS TV']
+    bein_keywords = ['BEIN']
     channel_name = channel['extinf'].upper()
     
     # Bein kanalları için özel kontrol. Kanal adında Bein geçiyorsa hepsini almak için.
     if 'BEIN' in channel_name:
         return True
+    
+    return any(keyword in channel_name for keyword in bein_keywords)
+
+# Spor kanalları kontrolü
+def is_sports_channel(channel):
+    # Spor kanallarını belirlemek için anahtar kelimeler
+    sports_keywords = ['SPORT', 'SPOR', 'EUROSPORT', 'NBA TV', 'S SPORT', 'TIVIBU SPOR', 
+                      'FB TV', 'GS TV', 'BJK TV', 'TRT SPOR', 'A SPOR', 'SPORTS TV']
+    channel_name = channel['extinf'].upper()
     
     return any(keyword in channel_name for keyword in sports_keywords)
 
@@ -144,6 +154,8 @@ def main():
         channel, new_idx = parse_channel(lines, idx)
         if channel:
             if is_sports_channel(channel):
+                sports_channels.append(channel)
+            elif is_bein_channel(channel):
                 sports_channels.append(channel)
             elif is_news_channel(channel):
                 news_channels.append(channel)
