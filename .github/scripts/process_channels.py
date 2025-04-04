@@ -43,9 +43,9 @@ def parse_channel(lines, start_idx):
                 
             # Logo URL'sini ekle
             if 'tvg-logo=""' in line or 'tvg-logo=' not in line:
-                line = re.sub('tvg-logo="[^"]*"', 'tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png"', line)
+                line = re.sub('tvg-logo="[^"]*"', 'tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png"', line)
                 if 'tvg-logo=' not in line:
-                    line = line.replace('group-title=', 'tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/tv-logo.png" group-title=')
+                    line = line.replace('group-title=', 'tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" group-title=')
             
             # Yeni EXTINF satırını oluştur
             line = re.sub('group-title="[^"]*"', f'group-title="{group}"', line)
