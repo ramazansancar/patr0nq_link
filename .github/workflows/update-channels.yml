@@ -2,7 +2,7 @@ name: Vavoo Dosyalarimizi Olusturalim
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Her 6 saatte bir calistir
+    - cron: '0 */2 * * *'  # Her 2 saatte bir calistir
   workflow_dispatch:  # Manuel tetiklemeye izin verip istediğimiz zaman Action altından Run Workflow diyerek de calistirmayi saglayabiliriz.
 
 permissions:
@@ -33,8 +33,8 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git pull origin main
-          git add kekik-vavoo/*.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "Vavoo listelerini guncelledik"
+          git add kekik-vavoo/*.m3u huhu/*.m3u kool/*.m3u oha/*.m3u
+          git diff --quiet && git diff --staged --quiet || git commit -m "Vavoo ve özel listeleri guncelledik"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,5 +1,6 @@
 import requests
 import re
+import os
 
 # Vavoo içeriğini yerel dosyadan okumak için, ana dizindeki sabit dosyamızın adını ekleyelim
 def fetch_vavoo_content():
@@ -114,6 +115,37 @@ def write_m3u_file(filename, channels):
             f.write(f"{channel['referrer']}\n")
             f.write(f"{channel['url']}\n")
 
+# Özel versiyonlar için içerik dönüştürme
+def transform_content(content, brand):
+    # VAVOO -> BRAND (büyük harfler)
+    # vavoo.to -> brand.to (küçük harfler)
+    content = re.sub(r'VAVOO', brand.upper(), content)
+    content = re.sub(r'vavoo\.to', f'{brand.lower()}.to', content)
+    return content
+
+# Özel versiyonlar için M3U dosyası oluştur
+def write_branded_m3u(brand, channels):
+    # Marka dizinini oluştur
+    output_dir = brand.lower()
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Dosya yolu oluştur
+    filepath = os.path.join(output_dir, f'patr0n{brand.lower()}.m3u')
+    
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write('#EXTM3U\n')
+        for channel in channels:
+            # Her bir kanalın içeriğini dönüştür
+            extinf = transform_content(channel['extinf'], brand)
+            user_agent = transform_content(channel['user_agent'], brand)
+            referrer = transform_content(channel['referrer'], brand)
+            url = transform_content(channel['url'], brand)
+            
+            f.write(f"{extinf}\n")
+            f.write(f"{user_agent}\n")
+            f.write(f"{referrer}\n")
+            f.write(f"{url}\n")
+
 # Ana fonksiyon
 def main():
     # Vavoo içeriğini al ve satırlara böl
@@ -127,11 +159,14 @@ def main():
     movie_channels = []   # Film ve dizi kanalları
     other_channels = []   # Diğer kanallar
     
-    # Kanalları kategorilere ayır
+    # Tüm kanalları topla
+    all_channels = []
     idx = 0
     while idx < len(lines):
         channel, new_idx = parse_channel(lines, idx)
         if channel:
+            all_channels.append(channel)
+            # Kategorilere göre de ayır
             if is_sports_channel(channel):
                 sports_channels.append(channel)
             elif is_news_channel(channel):
@@ -145,7 +180,7 @@ def main():
         idx = new_idx
     
     # Kanalları isimlerine göre sırala
-    for channel_list in [sports_channels, news_channels, kids_channels, movie_channels, other_channels]:
+    for channel_list in [sports_channels, news_channels, kids_channels, movie_channels, other_channels, all_channels]:
         channel_list.sort(key=lambda x: x['extinf'])
     
     # Kategorilere göre M3U dosyalarını oluştur
@@ -154,6 +189,11 @@ def main():
     write_m3u_file('vavoo-cocuk.m3u', kids_channels)      # Çocuk kanalları
     write_m3u_file('vavoo-film.m3u', movie_channels)      # Film ve dizi kanalları
     write_m3u_file('vavoo-genel.m3u', other_channels)     # Diğer kanallar
+    
+    # Özel versiyonları oluştur
+    brands = ['huhu', 'kool', 'oha']
+    for brand in brands:
+        write_branded_m3u(brand, all_channels)
 
 if __name__ == '__main__':
     main()
