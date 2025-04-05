@@ -125,6 +125,13 @@ def transform_content(content, brand):
     content = re.sub(r'vavoo\.png', f'{brand.lower()}.png', content)
     return content
 
+# Sadece spor kanallarını içeren içeriği al
+def fetch_sports_content():
+    # vavoo-sadecespor.m3u dosyasından içeriği al
+    sports_file_path = os.path.join('kekik-vavoo', 'vavoo-sadecespor.m3u')
+    with open(sports_file_path, 'r', encoding='utf-8') as f:
+        return f.read()
+
 # Özel versiyonlar için M3U dosyası oluştur
 def write_branded_m3u(brand, channels):
     # Marka dizinini oluştur
@@ -134,19 +141,32 @@ def write_branded_m3u(brand, channels):
     # Dosya yolu oluştur
     filepath = os.path.join(output_dir, f'patr0n{brand.lower()}.m3u')
     
+    # Sadece spor kanallarını al
+    sports_content = fetch_sports_content()
+    sports_lines = sports_content.split('\n')
+    
+    # Başlık satırını atla ve kanalları işle
+    sports_channels = []
+    idx = 1  # İlk satır #EXTM3U olduğu için 1'den başla
+    while idx < len(sports_lines):
+        channel, new_idx = parse_channel(sports_lines, idx)
+        if channel:
+            # Her bir kanalın içeriğini dönüştür
+            channel['extinf'] = transform_content(channel['extinf'], brand)
+            channel['user_agent'] = transform_content(channel['user_agent'], brand)
+            channel['referrer'] = transform_content(channel['referrer'], brand)
+            channel['url'] = transform_content(channel['url'], brand)
+            sports_channels.append(channel)
+        idx = new_idx
+    
+    # Dosyaya yaz
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write('#EXTM3U\n')
-        for channel in channels:
-            # Her bir kanalın içeriğini dönüştür
-            extinf = transform_content(channel['extinf'], brand)
-            user_agent = transform_content(channel['user_agent'], brand)
-            referrer = transform_content(channel['referrer'], brand)
-            url = transform_content(channel['url'], brand)
-            
-            f.write(f"{extinf}\n")
-            f.write(f"{user_agent}\n")
-            f.write(f"{referrer}\n")
-            f.write(f"{url}\n")
+        for channel in sports_channels:
+            f.write(f"{channel['extinf']}\n")
+            f.write(f"{channel['user_agent']}\n")
+            f.write(f"{channel['referrer']}\n")
+            f.write(f"{channel['url']}\n")
 
 # Ana fonksiyon
 def main():
@@ -192,10 +212,10 @@ def main():
     write_m3u_file('vavoo-film.m3u', movie_channels)      # Film ve dizi kanalları
     write_m3u_file('vavoo-genel.m3u', other_channels)     # Diğer kanallar
     
-    # Özel versiyonları oluştur
+    # Özel versiyonları oluştur (sadece spor kanalları)
     brands = ['huhu', 'kool', 'oha']
     for brand in brands:
-        write_branded_m3u(brand, all_channels)
+        write_branded_m3u(brand, sports_channels)
 
 if __name__ == '__main__':
     main()
