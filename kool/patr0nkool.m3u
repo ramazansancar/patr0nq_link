@@ -143,10 +143,6 @@ https://kool.to/play/1159078202/index.m3u8
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
 https://kool.to/play/615308601/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FILBOX SPOR 1 MACZAMANI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,FILBOX SPOR 1 MACZAMANI (1)
-#EXTVLCOPT:http-user-agent=KOOL/1.0
-#EXTVLCOPT:http-referrer=https://kool.to/
-https://kool.to/play/407612267/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FILBOX SPOR 2 MACZAMANI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,FILBOX SPOR 2 MACZAMANI (1)
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
@@ -247,6 +243,14 @@ https://kool.to/play/2490165372/index.m3u8
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
 https://kool.to/play/2159469231/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 3 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TABII SPOR 3 HD (1)
+#EXTVLCOPT:http-user-agent=KOOL/1.0
+#EXTVLCOPT:http-referrer=https://kool.to/
+https://kool.to/play/1489430754/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 3 UHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TABII SPOR 3 UHD (1)
+#EXTVLCOPT:http-user-agent=KOOL/1.0
+#EXTVLCOPT:http-referrer=https://kool.to/
+https://kool.to/play/2546857708/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TABII SPOR 4 HD (1)
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
@@ -575,6 +579,14 @@ https://kool.to/play/1797459602/index.m3u8
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
 https://kool.to/play/1700595801/index.m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 UHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,BEIN SPORTS 3 UHD (1)
+#EXTVLCOPT:http-user-agent=KOOL/1.0
+#EXTVLCOPT:http-referrer=https://kool.to/
+https://kool.to/play/3410167560/index.m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,BEIN SPORTS 4 (6)
+#EXTVLCOPT:http-user-agent=KOOL/1.0
+#EXTVLCOPT:http-referrer=https://kool.to/
+https://kool.to/play/3640906370/index.m3u8
 #EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,BEIN SPORTS 4 HD (1)
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
