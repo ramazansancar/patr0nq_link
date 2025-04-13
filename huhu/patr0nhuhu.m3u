@@ -143,14 +143,14 @@ https://huhu.to/play/1159078202/index.m3u8
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to/
 https://huhu.to/play/615308601/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILBOX SPOR 1 MACZAMANI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,FILBOX SPOR 1 MACZAMANI (1)
+#EXTVLCOPT:http-user-agent=HUHU/1.0
+#EXTVLCOPT:http-referrer=https://huhu.to/
+https://huhu.to/play/407612267/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FILBOX SPOR 2 MACZAMANI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,FILBOX SPOR 2 MACZAMANI (1)
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to/
 https://huhu.to/play/154583314/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FILBOX SPOR 3 MACZAMANI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,FILBOX SPOR 3 MACZAMANI (1)
-#EXTVLCOPT:http-user-agent=HUHU/1.0
-#EXTVLCOPT:http-referrer=https://huhu.to/
-https://huhu.to/play/2966231802/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,HT SPOR HD (1)
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to/
@@ -159,10 +159,6 @@ https://huhu.to/play/2773338492/index.m3u8
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to/
 https://huhu.to/play/1313768516/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT+3 MAC SAATI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,S SPORT+3 MAC SAATI (1)
-#EXTVLCOPT:http-user-agent=HUHU/1.0
-#EXTVLCOPT:http-referrer=https://huhu.to/
-https://huhu.to/play/3269372326/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT+4 MAC SAATI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,S SPORT+4 MAC SAATI (1)
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to/
@@ -251,14 +247,6 @@ https://huhu.to/play/1489430754/index.m3u8
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to/
 https://huhu.to/play/2546857708/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TABII SPOR 4 HD (1)
-#EXTVLCOPT:http-user-agent=HUHU/1.0
-#EXTVLCOPT:http-referrer=https://huhu.to/
-https://huhu.to/play/1375986171/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 UHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TABII SPOR 4 UHD (1)
-#EXTVLCOPT:http-user-agent=HUHU/1.0
-#EXTVLCOPT:http-referrer=https://huhu.to/
-https://huhu.to/play/4088175397/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 5 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TABII SPOR 5 HD (1)
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to/
@@ -343,10 +331,6 @@ https://huhu.to/play/2616624010/index.m3u8
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to/
 https://huhu.to/play/3653515858/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 3 SPOR (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TRT 3 SPOR (6)
-#EXTVLCOPT:http-user-agent=HUHU/1.0
-#EXTVLCOPT:http-referrer=https://huhu.to/
-https://huhu.to/play/719664723/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR RAW (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png" tvg-language="Turkish" tvg-country="TR" group-title="Türkiye/Bein ve Spor Kanalları"  ,TRT SPOR RAW (1)
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to/
