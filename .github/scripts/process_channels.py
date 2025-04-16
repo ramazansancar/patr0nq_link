@@ -31,7 +31,7 @@ def parse_channel(lines, start_idx):
             
             # Grup başlığını düzenle
             if is_sports_channel({'extinf': line}):
-                group = 'Türkiye/Bein ve Spor Kanalları'
+                group = 'VavooTO Türkiye Spor'
             elif is_news_channel({'extinf': line}):
                 group = 'Türkiye/Haber'
             elif is_kids_channel({'extinf': line}):
@@ -120,9 +120,11 @@ def transform_content(content, brand):
     # VAVOO -> BRAND (büyük harfler)
     # vavoo.to -> brand.to (küçük harfler)
     # vavoo.png -> brand.png (logo değişimi)
+    # VavooTO Türkiye Spor -> BrandTO Türkiye Spor
     content = re.sub(r'VAVOO', brand.upper(), content)
     content = re.sub(r'vavoo\.to', f'{brand.lower()}.to', content)
     content = re.sub(r'vavoo\.png', f'{brand.lower()}.png', content)
+    content = re.sub(r'VavooTO Türkiye Spor', f'{brand.title()}TO Türkiye Spor', content)
     return content
 
 # Sadece spor kanallarını içeren içeriği al
