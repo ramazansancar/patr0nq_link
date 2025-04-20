@@ -11,10 +11,6 @@ https://vavoo.to/play/2078862937/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4117227962/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: FB TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,4K TR: FB TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3730681078/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: NBA TV HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,4K TR: NBA TV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -151,6 +147,10 @@ https://vavoo.to/play/407612267/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/154583314/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILBOX SPOR 3 MACZAMANI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,FILBOX SPOR 3 MACZAMANI (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2966231802/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,HT SPOR HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -159,14 +159,14 @@ https://vavoo.to/play/2773338492/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1313768516/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT+3 MAC SAATI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,S SPORT+3 MAC SAATI (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3269372326/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT+4 MAC SAATI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,S SPORT+4 MAC SAATI (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1507829436/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT+5 MAC SAATI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,S SPORT+5 MAC SAATI (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3760487764/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S-SPORT 2 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,S-SPORT 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -247,6 +247,10 @@ https://vavoo.to/play/1489430754/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2546857708/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 UHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,TABII SPOR 4 UHD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4088175397/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 5 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,TABII SPOR 5 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -331,6 +335,10 @@ https://vavoo.to/play/2616624010/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3653515858/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 3 SPOR (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,TRT 3 SPOR (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/719664723/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR RAW (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,TRT SPOR RAW (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -635,10 +643,6 @@ https://vavoo.to/play/2307325429/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1821942247/index.m3u8
-#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="FB TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,FB TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2512340558/index.m3u8
 #EXTINF:-1 tvg-id="nbatv.tr" tvg-name="NBA TV FHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,NBA TV FHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
