@@ -2,8 +2,8 @@ name: Sync M3U Files
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Her 2 saatte bir
-  workflow_dispatch:       # Manuel çalıştırmak için
+    - cron: '0 */2 * * *'  
+  workflow_dispatch:       
 
 jobs:
   sync:
@@ -18,7 +18,11 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Gerekli scripti çalıştır
+    - name: Gerekli Python kütüphanelerini yükle
+      run: |
+        pip install requests
+
+    - name: Python scripti çalıştır
       run: |
         python sync.py
 
