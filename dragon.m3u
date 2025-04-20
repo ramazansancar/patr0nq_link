@@ -281,31 +281,31 @@ https://tv.arectv29.sbs/live/sinema1002.m3u8
 
 #⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️MÜZİK KANALLARI⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
 
-#EXTINF:-1 tvg-name="KRAL POP TV"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-OwtX-qKt8Y8/VpF2tDHe7oI/AAAAAAAANZU/X8BO2AKzP34/s1600/kralpoptv.jpg"group-title="[🇹🇷TR]MÜZİK",KRAL POP TV
+#EXTINF:-1 tvg-name="KRAL POP TV"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-OwtX-qKt8Y8/VpF2tDHe7oI/AAAAAAAANZU/X8BO2AKzP34/s1600/kralpoptv.jpg "group-title="[🇹🇷TR]MÜZİK",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="POWER TV"tvg-id=""tvg-logo="http://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg"group-title="[🇹🇷TR]MÜZİK",POWER HD
+#EXTINF:-1 tvg-name="POWER TV"tvg-id=""tvg-logo="http://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg "group-title="[🇹🇷TR]MÜZİK",POWER HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 
-#EXTINF:-1 tvg-name="POWER TÜRK TV"tvg-id=""tvg-logo="http://2.bp.blogspot.com/-TfR0buPRv8E/Xk15IVF3BAI/AAAAAAAAYEs/3a917DuF23kDxvp8B4948f6Hllbelp97QCLcBGAsYHQ/s1600/powerturk.jpg"group-title="[🇹🇷TR]MÜZİK",POWER TURK HD
+#EXTINF:-1 tvg-name="POWER TÜRK TV"tvg-id=""tvg-logo="http://2.bp.blogspot.com/-TfR0buPRv8E/Xk15IVF3BAI/AAAAAAAAYEs/3a917DuF23kDxvp8B4948f6Hllbelp97QCLcBGAsYHQ/s1600/powerturk.jpg "group-title="[🇹🇷TR]MÜZİK",POWER TURK HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 
-#EXTINF:-1 tvg-name="POWER TÜRK AKUSTİK"tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuHacnIlTTGTHqsMkUE2Qm65JKxbd39K3U_zqE3141NWJIEgKGC9IlEabO0wNLj9S3soNKMmM8s4Yq9kmu79d5M9lScbgEa-zHzzq2cXlcyXN6BT-BwOaP8tELAn-8_T0XCWfStV2aBJFNJbmN9mBLBzXCceyqM9xgRWsGbg0hsr_qyhKE6HgrDDsRNg/s1600/pt"group-title="[🇹🇷TR]MÜZİK",POWERTÜRK AKUSTİK
+#EXTINF:-1 tvg-name="POWER TÜRK AKUSTİK"tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuHacnIlTTGTHqsMkUE2Qm65JKxbd39K3U_zqE3141NWJIEgKGC9IlEabO0wNLj9S3soNKMmM8s4Yq9kmu79d5M9lScbgEa-zHzzq2cXlcyXN6BT-BwOaP8tELAn-8_T0XCWfStV2aBJFNJbmN9mBLBzXCceyqM9xgRWsGbg0hsr_qyhKE6HgrDDsRNg/s1600/pt "group-title="[🇹🇷TR]MÜZİK",POWERTÜRK AKUSTİK
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="POWER TÜRK SLOW"tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJZT3K5shS_3MGOEzDo02s_tq7-XEUxS8PgCLHVEUSQ-9N4B9XNP3USEny7Kfjx3LErfstFIive7xC0whh50VF4cnh4E74FVDmxLhuVtUoL_wG6MBcG2vXmRV4qwynjtZovRIlmfuf62k-D-f70dKAG7L52Odbw5xyq4ftv1dJC41-5_Xv5i0gCr_85w/s1600/pt"group-title="[🇹🇷TR]MÜZİK",POWERTÜRK SLOW
+#EXTINF:-1 tvg-name="POWER TÜRK SLOW"tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJZT3K5shS_3MGOEzDo02s_tq7-XEUxS8PgCLHVEUSQ-9N4B9XNP3USEny7Kfjx3LErfstFIive7xC0whh50VF4cnh4E74FVDmxLhuVtUoL_wG6MBcG2vXmRV4qwynjtZovRIlmfuf62k-D-f70dKAG7L52Odbw5xyq4ftv1dJC41-5_Xv5i0gCr_85w/s1600/pt "group-title="[🇹🇷TR]MÜZİK",POWERTÜRK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="POWER TÜRK TAPTAZE"tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie7QdP03xbV_JAtY8WV4jJU4SbcVI8xTRevpKtuuPBzdeL6C30oos12dyy8RSF2ZHX7XX__TaYBT69Jj4CrK83Xhe3xm977LIft8zClTwqxsJ3rTwu61KNKhI8juH5lsihBFyiNehN00VdT41Vzq54hIqLpjQ9gI9pSfiTk6kc1DTlhbkBrUsrvJp1fw/s1600/pt"group-title="[🇹🇷TR]MÜZİK",POWERTÜRK TAPTAZE
+#EXTINF:-1 tvg-name="POWER TÜRK TAPTAZE"tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie7QdP03xbV_JAtY8WV4jJU4SbcVI8xTRevpKtuuPBzdeL6C30oos12dyy8RSF2ZHX7XX__TaYBT69Jj4CrK83Xhe3xm977LIft8zClTwqxsJ3rTwu61KNKhI8juH5lsihBFyiNehN00VdT41Vzq54hIqLpjQ9gI9pSfiTk6kc1DTlhbkBrUsrvJp1fw/s1600/pt "group-title="[🇹🇷TR]MÜZİK",POWERTÜRK TAPTAZE
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="DREAM TÜRK TV"tvg-id=""tvg-logo="http://3.bp.blogspot.com/-naVuMYoLMTI/Xk13J6ZQj6I/AAAAAAAAYDQ/OcOieuD7xSkcwxFBIwWMuHHI5dx1-GFZQCLcBGAsYHQ/s1600/dreamturk.jpg"group-title="[🇹🇷TR]MÜZİK",DREAM TÜRK TV
+#EXTINF:-1 tvg-name="DREAM TÜRK TV"tvg-id=""tvg-logo="http://3.bp.blogspot.com/-naVuMYoLMTI/Xk13J6ZQj6I/AAAAAAAAYDQ/OcOieuD7xSkcwxFBIwWMuHHI5dx1-GFZQCLcBGAsYHQ/s1600/dreamturk.jpg "group-title="[🇹🇷TR]MÜZİK",DREAM TÜRK TV
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FİNEST TV"tvg-id=""tvg-logo="http://3.bp.blogspot.com/-qlO8gZZSe6s/WYWU6_5yJeI/AAAAAAAATmg/2fN-shn7Rv4GhTTsnF1xpN5oLBdg0HOagCLcBGAs/s1600/f.jpg"group-title="[🇹🇷TR]MÜZİK",FİNEST TV
+#EXTINF:-1 tvg-name="FİNEST TV"tvg-id=""tvg-logo="http://3.bp.blogspot.com/-qlO8gZZSe6s/WYWU6_5yJeI/AAAAAAAATmg/2fN-shn7Rv4GhTTsnF1xpN5oLBdg0HOagCLcBGAs/s1600/f.jpg "group-title="[🇹🇷TR]MÜZİK",FİNEST TV
 https://media.finest.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-name="NUMBER TÜRK TV"tvg-id=""tvg-logo="http://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg"group-title="[🇹🇷TR]MÜZİK",NUMBER 1 TÜRK TV
+#EXTINF:-1 tvg-name="NUMBER TÜRK TV"tvg-id=""tvg-logo="http://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg "group-title="[🇹🇷TR]MÜZİK",NUMBER 1 TÜRK TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=T5XRaMShyuirhEdm4U70yQ&expires=1745141016
 
 #🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡ÇOCUK KANALLARI🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡
