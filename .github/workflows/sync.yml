@@ -1,0 +1,31 @@
+name: Sync M3U Files
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Her 2 saatte bir
+  workflow_dispatch:       # Manuel çalıştırmak için
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Repo'yu klonla
+      uses: actions/checkout@v3
+
+    - name: Python kur
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Gerekli scripti çalıştır
+      run: |
+        python sync.py
+
+    - name: Değişiklik varsa commit & push
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "🔄 M3U file auto-updated"
+        git push
