@@ -27,7 +27,7 @@ jobs:
 
     - name: Python scripti çalıştır
       run: |
-        python sync.py
+        python .github/scripts/sync.py
 
     - name: Değişiklik varsa commit & push
       run: |
