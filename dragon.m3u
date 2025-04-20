@@ -56,40 +56,40 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 
 #EXTINF:-2🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵HABER KANALLARI🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 
-#EXTINF:-1 tvg-name="A HABER" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="[🇹🇷TR] HABER",A HABER
+#EXTINF:-1 tvg-name="A HABER" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="[🇹🇷TR]HABER",A HABER
 http://185.234.111.229:8000/play/a019
 
-#EXTINF:-1 tvg-name="A PARA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Apara_Logo.png" group-title="[🇹🇷TR] HABER",A PARA
+#EXTINF:-1 tvg-name="A PARA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Apara_Logo.png" group-title="[🇹🇷TR]HABER",A PARA
 http://5.144.1.235:29981/stream/channelid/1822321754?profile=pass
 
-#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="Haber Global.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="[🇹🇷TR] HABER",HABER GLOBAL
+#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="Haber Global.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="[🇹🇷TR]HABER",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
-#EXTINF:-1 tvg-name="KANAL 24" tvg-id="Kanal 24.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="[🇹🇷TR] HABER",KANAL 24
+#EXTINF:-1 tvg-name="KANAL 24" tvg-id="Kanal 24.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="[🇹🇷TR]HABER",KANAL 24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:-1 tvg-name="HABER TÜRK" tvg-id="Haber Turk.tr" tvg-logo="" group-title="[🇹🇷TR] HABER",HABER TÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 
-#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT Haber.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="[🇹🇷TR] HABER",TGRT HABER
+#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT Haber.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="[🇹🇷TR]HABER",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 
-#EXTINF:-1 tvg-name="CNN TÜRK" tvg-id="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" tvg-logo="" group-title="[🇹🇷TR] HABER",CNN TÜRK
+#EXTINF:-1 tvg-name="CNN TÜRK" tvg-id="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" tvg-logo="" group-title="[🇹🇷TR]HABER",CNN TÜRK
 https://b.fulltvizle.com/cnn/index.m3u8
 
-#EXTINF:-1 tvg-name="NTV" tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="[🇹🇷TR] HABER",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="[🇹🇷TR]HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
 
-#EXTINF:-1 tvg-name="ÜLKE TV" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] HABER",ÜLKE TV
+#EXTINF:-1 tvg-name="ÜLKE TV" tvg-id="" tvg-logo="" group-title="[🇹🇷TR]HABER",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="TELE 1" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] HABER",TELE 1
+#EXTINF:-1 tvg-name="TELE 1" tvg-id="" tvg-logo="" group-title="[🇹🇷TR]HABER",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
-#EXTINF:-1 tvg-name="HALK TV" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] HABER",HALK TV
+#EXTINF:-1 tvg-name="HALK TV" tvg-id="" tvg-logo="" group-title="[🇹🇷TR]HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] HABER",SÖZCÜ TV
+#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="" tvg-logo="" group-title="[🇹🇷TR]HABER",SÖZCÜ TV
 https://tvcdn.4t40.workers.dev/https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8
 
 #EXTINF:-2🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠BELGESEL KANALLAR🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
