@@ -44,7 +44,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-id="" tvg-logo="http://epg.one/img/3961.png" group-title="[🇹🇷]Ulusal",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Beyaz-TV.png" group-title="[🇹🇷]Ulusal",BEYAZ TV
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Beyaz-TV.png" group-title="[🇹🇷]Ulusal",BEYAZ
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="360" tvg-id="" tvg-logo="http://epg.one/img/3964.png" group-title="[🇹🇷]Ulusal",360
@@ -111,6 +111,10 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-name="National Geoghrapic Wild" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",NATİONAL GEOGHRAPİC WİLD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",BBC EARTH
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv.arectv29.sbs/live/bbc.m3u8
+
 #EXTINF:-1 tvg-id="79" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="[🇹🇷]Belgesel",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/discovery.m3u8
@@ -127,97 +131,97 @@ https://tv.arectv29.sbs/live/lovenature.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/viasathistory.m3u8
 
-#🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPOR KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
+#🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
-#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 1 [A]
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
 #EXTVLCOPT:http-origin=https://xtreaweb.top
 #EXTVLCOPT:http-referrer=https://xtreaweb.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
 
-#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 1 [SELCUKSPORTS HD]
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [SELCUKSPORTS HD]
 https://tvcdn.4t40.workers.dev/https://due.b7d6fbb7f7093400.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 1 [B]
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af8.workers.dev/static/bs1.m3u8
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 [D]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 1 [C]
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 [D]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [C]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ppp.mevzuhls32.cfd/yayinzirve.m3u8
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 [E]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 1 [D]
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 [E]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ppp.mevzuhls32.cfd/yayininat.m3u8
 
-#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 2 [A]
+#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [A]
 #EXTVLCOPT:http-origin=https://xtreaweb.top
 #EXTVLCOPT:http-referrer=https://xtreaweb.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium63/mono.m3u8
 
-#EXTINF:-1 tvg-name="BeIN SPORTS 2 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 2 [B]
+#EXTINF:-1 tvg-name="BeIN SPORTS 2 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ppp.mevzuhls32.cfd/yayinb2.m3u8
 
-#EXTINF:-1 tvg-id="148" tvg-name="beIN SPORTS 2 [C]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 2 [C]
+#EXTINF:-1 tvg-id="148" tvg-name="beIN SPORTS 2 [C]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [C]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af8.workers.dev/static/bs2.m3u8
 
-#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 3 [A]
+#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [A]
 #EXTVLCOPT:http-origin=https://xtreaweb.top
 #EXTVLCOPT:http-referrer=https://xtreaweb.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium64/mono.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS 3 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 3 [B]
+#EXTINF:-1 tvg-name="beIN SPORTS 3 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ppp.mevzuhls32.cfd/yayinb3.m3u8
 
-#EXTINF:-1 tvg-id="147" tvg-name="beIN SPORTS 3 [C]"tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 3 [C]
+#EXTINF:-1 tvg-id="147" tvg-name="beIN SPORTS 3 [C]"tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [C]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af8.workers.dev/static/bs3.m3u8
 
-#EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 4 [A]
+#EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [A]
 #EXTVLCOPT:http-origin=https://xtreaweb.top
 #EXTVLCOPT:http-referrer=https://xtreaweb.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS 4 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 4 [B]
+#EXTINF:-1 tvg-name="beIN SPORTS 4 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ppp.mevzuhls32.cfd/yayinb4.m3u8
 
-#EXTINF:-1 tvg-id="146" tvg-name="beIN SPORTS 4 [C]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]Bein Sports",beIN SPORTS 4 [C]
+#EXTINF:-1 tvg-id="146" tvg-name="beIN SPORTS 4 [C]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [C]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af8.workers.dev/static/bs4.m3u8
 
-#EXTINF:-1 tvg-name="BeIN SPORTS 5" tvg-id="" tvg-logo="" group-title="[🇹🇷]Bein Sports",BeIN SPORTS 5 [A]
+#EXTINF:-1 tvg-name="BeIN SPORTS 5" tvg-id="" tvg-logo="" group-title="[🇹🇷]beIN•Sports",BeIN SPORTS 5 [A]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ppp.mevzuhls32.cfd/yayinb5.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS 5 [B]" tvg-id="" tvg-logo="" group-title="[🇹🇷]Bein Sports",beIN SPORTS 5 [B]
+#EXTINF:-1 tvg-name="beIN SPORTS 5 [B]" tvg-id="" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ppp.mevzuhls32.cfd/yayinb5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 [C]" tvg-logo="" group-title="[🇹🇷]Bein Sports",beIN SPORTS 5 [C]
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 [C]" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [C]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af8.workers.dev/static/bs5.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="" group-title="[🇹🇷]Bein Sports",beIN SPORTS HABER
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
 http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/37165
 
-#EXTINF:-1 tvg-id="BeinsportsMax.tr" tvg-logo="" group-title="[🇹🇷]Bein Sports",beIN SPORTS MAX 1 [HD]
+#EXTINF:-1 tvg-id="BeinsportsMax.tr" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS MAX 1 [HD]
 https://v.arectv29.sbs/static/bm1.m3u8
 
-#EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="" group-title="[🇹🇷]Bein Sports",beIN SPORTS MAX 2 [HD]
+#EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS MAX 2 [HD]
 https://v.arectv29.sbs/static/bm2.m3u8
 
 #🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢SPOR KANALLARI🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
@@ -386,5 +390,5 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=uj2mooADl_M
 #EXTINF:-1 tvg-name="@DRAG10" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/975/385/png-transparent-partnership-business-logo-marketing-business-service-people-logo.png" group-title="[🤝]Geliştiriciler",@DRAG10
 https://info
 
-#EXTINF:-1 tvg-name="@SYNDRAXİC" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/975/385/png-transparent-partnership-business-logo-marketing-business-service-people-logo.png" group-title="[🤝]Geliştiriciler",@SYNDRAXİC
+#EXTINF:-1 tvg-name="@Syndraxic" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/975/385/png-transparent-partnership-business-logo-marketing-business-service-people-logo.png" group-title="[🤝]Geliştiriciler",@Syndraxic
 https://info
