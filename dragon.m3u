@@ -105,6 +105,10 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="YABAN TV" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",YABAN TV
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=9da0394ec097e48edcd91ec9f1ff20af
 
+#EXTINF:-1 tvg-name="TARİH TV" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",TARİH TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv.arectv29.sbs/live/tarihtv.m3u8
+
 #EXTINF:-1 tvg-name="National Geoghrapic" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",NATİONAL GEOGHRAPİC
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
@@ -148,11 +152,7 @@ https://vvv.mevzuhls33.cfd/yayinzirve.m3u8
 https://vvv.mevzuhls33.cfd/yayininat.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
-#EXTVLCOPT:http-origin=https://selcuksportshd1770.xyz
-#EXTVLCOPT:http-referrer=https://selcuksportshd1770.xyz
 https://alpha.cf-worker-e421c8e8da6ff691.workers.dev/live/selcukbeinsports1/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [VPN]
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
