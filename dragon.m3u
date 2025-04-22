@@ -148,7 +148,11 @@ https://ppp.mevzuhls32.cfd/yayinzirve.m3u8
 https://ppp.mevzuhls32.cfd/yayininat.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
-http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+#EXTVLCOPT:http-origin=https://selcuksportshd1770.xyz
+#EXTVLCOPT:http-referrer=https://selcuksportshd1770.xyz
+https://alpha.cf-worker-e421c8e8da6ff691.workers.dev/live/selcukbeinsports1/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [VPN]
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
