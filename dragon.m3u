@@ -137,6 +137,11 @@ https://tv.arectv29.sbs/live/viasathistory.m3u8
 
 #🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM
+
+
+
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af8.workers.dev/static/bs1.m3u8
@@ -218,9 +223,6 @@ https://vvv.mevzuhls33.cfd/yayinb5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 [C]" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [C]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af8.workers.dev/static/bs5.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
-http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/37165
 
 #EXTINF:-1 tvg-id="BeinsportsMax.tr" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS MAX 1 [HD]
 https://v.arectv29.sbs/static/bm1.m3u8
@@ -366,34 +368,34 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=UgKxh04Iv9o
 
 #🟤🟤🟤🟤🟤🟤🟤🟤🟤🟤EĞLENCE🟤🟤🟤🟤🟤🟤🟤🟤🟤🟤
 
-#EXTINF:-1 tvg-id="33" tvg-name="ÇOK GÜZEL HAREKETLER BUNLAR 2" tvg-logo="https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",ÇOK GÜZEL HAREKETLER BUNLAR 2
+#EXTINF:-1 tvg-id="33" tvg-name="ÇOK GÜZEL HAREKETLER BUNLAR 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKuOg5edmHlzP1Op4ytfQKu54XObbl81fTyQ&s" group-title="[🇹🇷]Eğlence",ÇOK GÜZEL HAREKETLER BUNLAR 2
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=iSs2JX68DZw
 
-#EXTINF:-1 tvg-id="33" tvg-name="GÜLDÜR GÜLDÜR SHOW" tvg-logo="https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",GÜLDÜR GÜLDÜR SHOW
+#EXTINF:-1 tvg-id="33" tvg-name="GÜLDÜR GÜLDÜR SHOW" tvg-logo="" group-title="[🇹🇷]Eğlence",GÜLDÜR GÜLDÜR SHOW
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=twOviIHfDQk
 
-#EXTINF:-1 tvg-id="33" tvg-name="SİHİRLİ ANNEM" tvg-logo="https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",SİHİRLİ ANNEM
+#EXTINF:-1 tvg-id="33" tvg-name="SİHİRLİ ANNEM" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/85/Sihirli_Annem_logosu.pnghttps://mo.ciner.com.tr/showtv/iu/300x200/cennet-mahallesi.jpg?v=1744097436" group-title="[🇹🇷]Eğlence",SİHİRLİ ANNEM
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=KCejwr4z7NQ
 
-#EXTINF:-1 tvg-id="33" tvg-name="KURTLAR VADİSİ" tvg-logo="https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",KURTLAR VADİSİ
+#EXTINF:-1 tvg-id="33" tvg-name="KURTLAR VADİSİ" tvg-logo="https://i.ytimg.com/vi/SVhifv6Hlik/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYACzgWKAgwIABABGHEgEyh_MA8=&rs=AOn4CLBqoiXcsWri2UM2YYfB-COJOdcuLA" group-title="[🇹🇷]Eğlence",KURTLAR VADİSİ
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=BhUr9G4e2s4
 
-#EXTINF:-1 tvg-id="33" tvg-name="KURTLAR VADİSİ PUSU" tvg-logo="https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",KURTLAR VADİSİ PUSU
+#EXTINF:-1 tvg-id="33" tvg-name="KURTLAR VADİSİ PUSU" tvg-logo="https://i.ytimg.com/vi/axvsJ0GjMl4/hqdefault.jpg" group-title="[🇹🇷]Eğlence",KURTLAR VADİSİ PUSU
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=4GDDi0YtZ5Q
 
-#EXTINF:-1 tvg-id="33" tvg-name="ÇOCUKLAR DUYMASIN" tvg-logo="https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",ÇOCUKLAR DUYMASIN
+#EXTINF:-1 tvg-id="33" tvg-name="ÇOCUKLAR DUYMASIN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/83/Çocuklar_Duymasın_logosu.png" group-title="[🇹🇷]Eğlence",ÇOCUKLAR DUYMASIN
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=EVZmJPw-7hY
 
-#EXTINF:-1 tvg-id="33" tvg-name="CENNET MAHALLESİ" tvg-logo="https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",CENNET MAHALLESİ
+#EXTINF:-1 tvg-id="33" tvg-name="CENNET MAHALLESİ" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x200/cennet-mahallesi.jpg?v=1744097436" group-title="[🇹🇷]Eğlence",CENNET MAHALLESİ
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=lf1NxAexRAE
 
-#EXTINF:-1 tvg-id="33" tvg-name="YAPRAK DÖKÜMÜ" tvg-logo="https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",YAPRAK DÖKÜMÜ
+#EXTINF:-1 tvg-id="33" tvg-name="YAPRAK DÖKÜMÜ" tvg-logo="https://i.ytimg.com/vi/crwxJBQKWj4/hq720.jpg?v=67bc144d&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBY2EqR5Nh4EJMTb8TMHzep8OmvdQ" group-title="[🇹🇷]Eğlence",YAPRAK DÖKÜMÜ
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=crwxJBQKWj4
 
-#EXTINF:-1 tvg-id="33" tvg-name="ADANALI" tvg-logo="https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",ADANALI
+#EXTINF:-1 tvg-id="33" tvg-name="ADANALI" tvg-logo="https://iaatv.tmgrup.com.tr/bff5fc/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/07/28/500x268/1627473843866.jpgffff-no-rj" group-title="[🇹🇷]Eğlence",ADANALI
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=sF1AgroEr60
 
-#EXTINF:-1 tvg-id="33" tvg-name="YENİ GELİN" tvg-logo="	https://images.seeklogo.com/logo-png/1/2/avea-eglence-logo-png_seeklogo-14311.png" group-title="[🇹🇷]Eğlence",YENİ GELİN
+#EXTINF:-1 tvg-id="33" tvg-name="YENİ GELİN" tvg-logo="	https://yt3.googleusercontent.com/IcSIYRWHme7t6usty_yUZd3x09kojMGqSQHiVMYsVWkdlhPNESDe7su9LZmz6GJUPXd9ZNj3lg=s160-c-k-c0x00ffffff-no-rj" group-title="[🇹🇷]Eğlence",YENİ GELİN
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=uj2mooADl_M
 
 #🤝🤝🤝🤝🤝🤝🤝🤝🤝🤝EMEĞİ GEÇENLER🤝🤝🤝🤝🤝🤝🤝🤝🤝🤝
