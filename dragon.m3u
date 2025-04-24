@@ -89,7 +89,7 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="[🇹🇷]Haber",SÖZCÜ TV
-http://185.234.111.229:8000/play/a00y
+https://gknnowtv.onrender.com/sozcu.m3u8
 
 #🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠BELGESEL KANALLAR🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
 
@@ -155,7 +155,7 @@ https://vvv.mevzuhls33.cfd/yayinzirve.m3u8
 https://vvv.mevzuhls33.cfd/yayininat.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
-https://alpha.cf-worker-e421c8e8da6ff691.workers.dev/live/selcukbeinsports1/playlist.m3u8
+https://gknnowtv.onrender.com/bein1.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [VPN]
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
@@ -167,7 +167,7 @@ https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
 #EXTVLCOPT:http-referrer=https://funzoneplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium63/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
 
 #EXTINF:-1 tvg-name="BeIN SPORTS 2 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
@@ -194,10 +194,7 @@ https://vvv.mevzuhls33.cfd/yayinb3.m3u8
 https://r14.cf2-af8.workers.dev/static/bs3.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [A]
-#EXTVLCOPT:http-origin=https://funzoneplay.cfd
-#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
+https://gknnowtv.onrender.com/bein4.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 4 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
