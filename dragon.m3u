@@ -15,17 +15,17 @@ https://trkvz.daioncdn.net/atv/atv.m3u8?app=web
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/atv1.m3u8
 
-#EXTINF:-1 tvg-name="SHOW TV" tvg-id="" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="[🇹🇷]Ulusal",SHOW TV
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="[🇹🇷]Ulusal",SHOW
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="SHOW TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="[🇹🇷]Ulusal",SHOW TV [YEDEK]
+#EXTINF:-1 tvg-name="SHOW TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="[🇹🇷]Ulusal",SHOW [YEDEK]
 https://canlitvulusal.xyz/live/showtv/index.m3u8
 
 
 #EXTINF:-1 tvg-name="NOW TV" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-name="NOW TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW TV [YEDEK]
+#EXTINF:-1 tvg-name="NOW TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW [YEDEK]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/foxtv.m3u8
 
@@ -39,7 +39,7 @@ https://tv.arectv29.sbs/live/kanald.m3u8
 #EXTINF:-1 tvg-name="STAR TV" tvg-id="" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="[🇹🇷]Ulusal",STAR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-#EXTINF:-1 tvg-name="STAR TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="[🇹🇷]Ulusal",STAR TV [YEDEK]
+#EXTINF:-1 tvg-name="STAR TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="[🇹🇷]Ulusal",STAR [YEDEK]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv.arectv29.sbs/live/startv.m3u8
 
@@ -67,7 +67,7 @@ http://185.234.111.229:8000/play/a01x
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="[🇹🇷]Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT KURDİ" tvg-id="" tvg-logo="https://www.rudaw.net/s3/rudaw.net/ContentFiles/95780Image1.jpg?mode=crop&quality=70&rand=1&scale=both&w=752&h=472&version=655633" group-title="[🇹🇷]Ulusal",TRT KURDİ
+#EXTINF:-1 tvg-name="TRT KURDİ" tvg-id="" tvg-logo="https://img.dsmartgo.com.tr/content/4/uH/13380/Thumbnail.png" group-title="[🇹🇷]Ulusal",TRT KURDİ
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="TEVE 2" tvg-id="" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="[🇹🇷]Ulusal",TEVE 2
@@ -85,7 +85,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="[🇹🇷]Ulusal",BEYAZ
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="BEYAZ TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="[🇹🇷]Ulusal",BEYAZ TV [YEDEK]
+#EXTINF:-1 tvg-name="BEYAZ TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="[🇹🇷]Ulusal",BEYAZ [YEDEK]
 https://canlitvulusal.xyz/live/beyaztv/index.m3u8
 
 #EXTINF:-1 tvg-name="360" tvg-id="" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="[🇹🇷]Ulusal",360
@@ -184,7 +184,7 @@ https://tv.arectv29.sbs/live/viasathistory.m3u8
 
 #🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
@@ -252,24 +252,24 @@ https://vvv.mevzuhls33.cfd/yayinb4.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af8.workers.dev/static/bs4.m3u8
 
-#EXTINF:-1 tvg-name="BeIN SPORTS 5" tvg-id="" tvg-logo="" group-title="[🇹🇷]beIN•Sports",BeIN SPORTS 5 [A]
+#EXTINF:-1 tvg-name="BeIN SPORTS 5" tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",BeIN SPORTS 5 [A]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://vvv.mevzuhls33.cfd/yayinb5.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS 5 [B]" tvg-id="" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [B]
+#EXTINF:-1 tvg-name="beIN SPORTS 5 [B]" tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin935.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://vvv.mevzuhls33.cfd/yayinb5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 [C]" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [C]
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 [C]" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [C]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af8.workers.dev/static/bs5.m3u8
 
-#EXTINF:-1 tvg-id="BeinsportsMax.tr" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS MAX 1 [HD]
+#EXTINF:-1 tvg-id="BeinsportsMax.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_MAX_1_250x150_.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS MAX 1 [HD]
 https://v.arectv29.sbs/static/bm1.m3u8
 
-#EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="" group-title="[🇹🇷]beIN•Sports",beIN SPORTS MAX 2 [HD]
+#EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_MAX_2_250x150_.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS MAX 2 [HD]
 https://v.arectv29.sbs/static/bm2.m3u8
 
 #🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢SPOR KANALLARI🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
