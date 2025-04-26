@@ -187,7 +187,7 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf2-af8.workers.dev/static/bs1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin936.com
@@ -391,10 +391,10 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 https://tv.arectv29.sbs/live/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-name="MİNİKA GO" tvg-id="" tvg-logo="" group-title="[🇹🇷]Çocuk",MİNİKA GO
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
 
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" tvg-id="" tvg-logo="" group-title="[🇹🇷]Çocuk",MİNİKA ÇOCUK
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-name="BABY TV HD" tvg-logo="" group-title="[🇹🇷]Çocuk",BABY TV HD
 https://saran-live.ercdn.net/babytv/index.m3u8
