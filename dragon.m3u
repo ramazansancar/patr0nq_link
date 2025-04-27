@@ -134,7 +134,7 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="[🇹🇷]Haber",SÖZCÜ TV
-https://gknnowtv.onrender.com/sozcu.m3u8
+http://51.20.137.71/yt/yt.m3u8?kanal=@sozcutelevizyonu
 
 #🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠BELGESEL KANALLAR🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
 
@@ -278,6 +278,34 @@ https://v.arectv29.sbs/static/bm1.m3u8
 #EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_MAX_2_250x150_.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS MAX 2 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://v.arectv29.sbs/static/bm2.m3u8
+
+#➖➖➖➖➖➖➖➖➖➖TİVİBU SPOR KANALLARI➖➖➖➖➖➖➖➖➖➖
+
+#EXTINF:-1 tvg-name="TİVİBU SPOR HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR HD
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint.m3u8
+
+#EXTINF:-1 tvg-name="TİVİBU SPOR 1 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 1 HD
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint1.m3u8
+
+#EXTINF:-1 tvg-name="TİVİBU SPOR 2 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 2 HD
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint2.m3u8
+
+#EXTINF:-1 tvg-name="TİVİBU SPOR 3 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 3 HD
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint3.m3u8
+
+#EXTINF:-1 tvg-name="TİVİBU SPOR 4 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 4 HD
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint4.m3u8
+
 
 #🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢SPOR KANALLARI🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
 
