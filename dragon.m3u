@@ -187,7 +187,7 @@ https://tinyurl.com/SyndraxicBsHaber
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tinyurl.com/SyndraxicBs1
+https://r14.cf2-af9.workers.dev/static/yayinstar.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -228,7 +228,8 @@ https://lll.mevzuhls35.cfd/yayinb2.m3u8
 https://r14.cf2-af9.workers.dev/static/bs2.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [A]
-https://tinyurl.com/SyndraxicBs3
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://r14.cf2-af9.workers.dev/static/yayinb3.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 3 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin936.com
@@ -240,7 +241,8 @@ https://lll.mevzuhls35.cfd/yayinb3.m3u8
 https://r14.cf2-af9.workers.dev/static/bs3.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [A]
-https://tinyurl.com/SyndraxicBs4
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://r14.cf2-af9.workers.dev/static/yayinb4.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 4 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [B]
 #EXTVLCOPT:http-referrer=https://jestyayin936.com
