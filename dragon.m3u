@@ -321,15 +321,47 @@ https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
 #EXTINF:-1 tvg-name="TJK TV 2" tvg-id="" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="[🇹🇷]Spor",TJK TV 2
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 
-#EXTINF:-1 tvg-name="S SPORT" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",S SPORT
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="S SPORT-2" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",S SPORT 2
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
 #EXTINF:-1 tvg-name="NBA TV HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",NBA TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf2-af9.workers.dev/list/yayinnbatv.m3u8
+
+#✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️ESPN SPORTS✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️
+
+#EXTINF:-1 tvg-name="ESPN HD" tvg-id="" tvg-logo="" group-title="ESPN SPORTS [RAW]",ESPN HD
+https://tinyurl.com/SyndraxicESPN
+
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-id="" tvg-logo="" group-title="ESPN SPORTS [RAW]",ESPN 2 HD
+https://tinyurl.com/SyndraxicESPN2
+
+#EXTINF:-1 tvg-name="ESPN U HD" tvg-id="" tvg-logo="" group-title="ESPN SPORTS [RAW]",ESPN U HD
+https://tinyurl.com/SyndraxicESPNu
+
+#EXTINF:-1 tvg-name="ESPN DEPORTES HD" tvg-id="" tvg-logo="" group-title="ESPN SPORTS [RAW]",ESPN DEPORTES HD
+https://tinyurl.com/SyndraxicESPNdeportes
+
+#🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰S-SPORT/EUROSPORT🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰
+
+#EXTINF:-1 tvg-name="S SPORT" tvg-id="" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",S-SPORT
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="S SPORT-2" tvg-id="" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",S-SPORT 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="S-SPORT+1" tvg-id="" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",S-SPORT+1
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/pl1.m3u8
+
+#EXTINF:-1 tvg-name="S-SPORT+2" tvg-id="" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",S-SPORT+2
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/pl2.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1" tvg-id="" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",EuroSport 1
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/euro1.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 2" tvg-id="" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",EuroSport 2
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/euro2.m3u8
 
 #⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️SİNEMA KANALLARI⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 
@@ -400,6 +432,10 @@ https://media.finest.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-name="NUMBER TÜRK TV"tvg-id="" tvg-logo="http://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg" group-title="[🇹🇷]Müzik",NUMBER 1 TÜRK TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=T5XRaMShyuirhEdm4U70yQ&expires=1745141016
+
+#EXTINF:-1 tvg-name="MEZZO LİVE HD"tvg-id="" tvg-logo="http://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg" group-title="[🇹🇷]Müzik",MEZZO LİVE HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://ott-cdn.ucom.am/s35/index.m3u8
 
 #🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡ÇOCUK KANALLARI🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡
 
