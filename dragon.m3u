@@ -12,8 +12,7 @@ https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 https://trkvz.daioncdn.net/atv/atv.m3u8?app=web
 
 #EXTINF:-1 tvg-name="ATV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="[🇹🇷]Ulusal",ATV [YEDEK]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/atv1.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="[🇹🇷]Ulusal",SHOW
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -21,9 +20,8 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOW TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="[🇹🇷]Ulusal",SHOW [YEDEK]
 https://canlitvulusal.xyz/live/showtv/index.m3u8
 
-
 #EXTINF:-1 tvg-name="NOW TV" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW
-https://tinyurl.com/SyndraxicNOW
+http://51.20.137.71/stream/ulusal/nowtv.m3u8
 
 #EXTINF:-1 tvg-name="NOW TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW [YEDEK]
 https://tinyurl.com/SyndraxicFOX
@@ -119,7 +117,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-id="cnn" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="[🇹🇷]Haber",CNN TÜRK
-https://b.fulltvizle.com/cnn/index.m3u8
+https://b.fulltvizle.com/cnn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-id="" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="[🇹🇷]Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
