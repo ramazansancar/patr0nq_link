@@ -13,7 +13,7 @@ https://trkvz.daioncdn.net/atv/atv.m3u8?app=web
 
 #EXTINF:-1 tvg-name="ATV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="[🇹🇷]Ulusal",ATV [YEDEK]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.arectv29.sbs/live/atv1.m3u8
+https://tv1.arectv30.sbs/live/atv1.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="[🇹🇷]Ulusal",SHOW
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -23,10 +23,10 @@ https://canlitvulusal.xyz/live/showtv/index.m3u8
 
 
 #EXTINF:-1 tvg-name="NOW TV" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+https://tinyurl.com/SyndraxicNOW
 
 #EXTINF:-1 tvg-name="NOW TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW [YEDEK]
-http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
+https://tinyurl.com/SyndraxicFOX
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="[🇹🇷]Ulusal",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -39,7 +39,7 @@ http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:-1 tvg-name="STAR TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="[🇹🇷]Ulusal",STAR [YEDEK]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv.arectv29.sbs/live/startv.m3u8
+https://tv1.arectv30.sbs/live/startv.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="[🇹🇷]Ulusal",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -101,10 +101,10 @@ https://canlitvulusal.xyz/live/showmax/index.m3u8
 #🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵HABER KANALLARI🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 
 #EXTINF:-1 tvg-name="A HABER" tvg-id="" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="[🇹🇷]Haber",A HABER
-http://185.234.111.229:8000/play/a019
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 
 #EXTINF:-1 tvg-name="A PARA" tvg-id="" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="[🇹🇷]Haber",A PARA
-http://5.144.1.235:29981/stream/channelid/1822321754?profile=pass
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="Haber Global.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="[🇹🇷]Haber",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
