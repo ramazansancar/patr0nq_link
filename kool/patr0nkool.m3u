@@ -111,6 +111,10 @@ https://kool.to/play/3814925371/index.m3u8
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
 https://kool.to/play/3377046146/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 2 UHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,EXXEN TV SPOR 2 UHD (1)
+#EXTVLCOPT:http-user-agent=KOOL/1.0
+#EXTVLCOPT:http-referrer=https://kool.to/
+https://kool.to/play/3673037054/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 3 (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,EXXEN TV SPOR 3 (1)
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
@@ -251,6 +255,10 @@ https://kool.to/play/1489430754/index.m3u8
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
 https://kool.to/play/2546857708/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,TABII SPOR 4 HD (1)
+#EXTVLCOPT:http-user-agent=KOOL/1.0
+#EXTVLCOPT:http-referrer=https://kool.to/
+https://kool.to/play/1375986171/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 UHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,TABII SPOR 4 UHD (1)
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
@@ -263,6 +271,10 @@ https://kool.to/play/2661933413/index.m3u8
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
 https://kool.to/play/3839332198/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 6 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,TABII SPOR 6 HD (1)
+#EXTVLCOPT:http-user-agent=KOOL/1.0
+#EXTVLCOPT:http-referrer=https://kool.to/
+https://kool.to/play/270984838/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 6 UHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,TABII SPOR 6 UHD (1)
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
