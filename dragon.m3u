@@ -206,7 +206,7 @@ https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",NBA TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf2-af9.workers.dev/list/yayinnbatv.m3u8
+https://r14.af91.workers.dev/list/yayinnbatv.m3u8
 
 
 #🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
@@ -215,8 +215,8 @@ https://r14.cf2-af9.workers.dev/list/yayinnbatv.m3u8
 https://tinyurl.com/SyndraxicBsHaber
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
-#EXTVLCOPT:http-referrer=https://pulitv18.live/
-https://nxn5.xyz/cdn/bein-sports-1.m3u8
+#EXTVLCOPT:http-referrer=https://salamistv9.online
+https://roxotv3.online/701/mono.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
 #EXTVLCOPT:http-referrer=https://salamistv9.online
