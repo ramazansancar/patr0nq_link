@@ -215,8 +215,9 @@ https://r14.af91.workers.dev/list/yayinnbatv.m3u8
 https://tinyurl.com/SyndraxicBsHaber
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
-#EXTVLCOPT:http-referrer=https://salamistv9.online
-https://roxotv3.online/701/mono.m3u8
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list//yayinkral.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
 #EXTVLCOPT:http-referrer=https://salamistv9.online
