@@ -160,6 +160,11 @@ https://tv1.arectv30.sbs/live/yabantv.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tarihtv.m3u8
 
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="32" tvg-name="HİSTORY TV" tvg-logo="" group-title="[🇹🇷]Belgesel",HİSTORY TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/history.m3u8
+
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="National Geoghrapic" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",NATİONAL GEOGHRAPİC
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
@@ -562,7 +567,7 @@ http://51.20.137.71/yt/yt.m3u8?kanal=@Adanali
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="YENİ GELİN" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2019/06/yeni-gelin-izle.jpg" group-title="[🇹🇷]Eğlence",YENİ GELİN
 http://51.20.137.71/yt/yt.m3u8?kanal=@yenigelindizi
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="SEKSENLER" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2019/06/yeni-gelin-izle.jpg" group-title="[🇹🇷]Eğlence",SEKSENLER
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="SEKSENLER" tvg-logo="" group-title="[🇹🇷]Eğlence",SEKSENLER
 http://51.20.137.71/yt/yt.m3u8?kanal=@seksenlertrt
 
 
