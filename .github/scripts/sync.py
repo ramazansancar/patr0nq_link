@@ -1,4 +1,3 @@
- 
 import requests
 
 source_url = "https://raw.githubusercontent.com/DRAG-10/DRAG10/refs/heads/special/DRAG10.m3u"
@@ -21,7 +20,7 @@ if response.status_code == 200:
     for line in lines:
         if line.strip() not in unwanted_lines:
             if line.startswith("#EXTINF:"):
-                # Mevcut EXTINF satırına tvg-language ve tvg-country ekle
+                
                 if "tvg-language=" not in line and "tvg-country=" not in line:
                     line = line.replace('#EXTINF:', '#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"')
             filtered_lines.append(line)
@@ -34,4 +33,4 @@ if response.status_code == 200:
         f.write("\n".join(filtered_lines))
 
 else:
-    print(f"Kaynak M3U alınamadı. Status code: {response.status_code}")
+    print(f"Kaynak M3U alinamadi. Status code: {response.status_code}")
