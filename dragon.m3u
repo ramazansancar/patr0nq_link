@@ -145,8 +145,15 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="Dmax.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="[🇹🇷]Belgesel",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
+#EXTINF:-1 tvg-name="DOCU SCREEN" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",DOCU SCREEN
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/docubox.m3u8
+
 #EXTINF:-1 tvg-name="YABAN TV" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",YABAN TV
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4472
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/yabantv.m3u8
 
 #EXTINF:-1 tvg-name="TARİH TV" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",TARİH TV
 #EXTVLCOPT:http-user-agent=googleusercontent
@@ -169,7 +176,7 @@ https://tv1.arectv30.sbs/live/bbc.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/discovery.m3u8
 
-#EXTINF:-1 tvg-id="78" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="[🇹🇷]Belgesel",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="78" tvg-name="DISCOVERY ID" tvg-logo="" group-title="[🇹🇷]Belgesel",DISCOVERY ID
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/discs.m3u8
@@ -179,7 +186,7 @@ https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/lovenature.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="VIASAT HISTORY" tvg-logo="" group-title="[🇹🇷]Belgesel",VIASAT HISTORY
+#EXTINF:-1 tvg-id="30" tvg-name="VIASAT EXPLORE" tvg-logo="" group-title="[🇹🇷]Belgesel",VIASAT EXPLORE
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/viasathistory.m3u8
@@ -212,7 +219,7 @@ https://r14.af91.workers.dev/list/yayinnbatv.m3u8
 #🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
 #EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
-https://tinyurl.com/SyndraxicBsHaber
+https://tinyurl.com/SyndraxicBsHaberHD
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
 #EXTVLCOPT:http-origin=http://macboxtv14.xyz
@@ -344,29 +351,25 @@ https://tv1.arectv30.sbs/live/euro2.m3u8
 #➖➖➖➖➖➖➖➖➖➖TİVİBU SPOR KANALLARI➖➖➖➖➖➖➖➖➖➖
 
 #EXTINF:-1 tvg-name="TİVİBU SPOR HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR HD
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint.m3u8
-
-#EXTINF:-1 tvg-name="TİVİBU SPOR 1 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 1 HD
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint1.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t1.m3u8
 
 #EXTINF:-1 tvg-name="TİVİBU SPOR 2 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 2 HD
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint2.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t2.m3u8
 
 #EXTINF:-1 tvg-name="TİVİBU SPOR 3 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 3 HD
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint3.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t3.m3u8
 
 #EXTINF:-1 tvg-name="TİVİBU SPOR 4 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 4 HD
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint4.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t4.m3u8
+
 
 #〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️TABİİ SPOR〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
