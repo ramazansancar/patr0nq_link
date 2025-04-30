@@ -565,6 +565,21 @@ http://51.20.137.71/yt/yt.m3u8?kanal=@yenigelindizi
 #EXTINF:-1 tvg-id="33" tvg-name="SEKSENLER" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2019/06/yeni-gelin-izle.jpg" group-title="[🇹🇷]Eğlence",SEKSENLER
 http://51.20.137.71/yt/yt.m3u8?kanal=@seksenlertrt
 
+
+🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬ARAPÇA KANALLAR🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬
+
+#EXTINF:-1 tvg-id="33" tvg-name="TRT ARABİ HD" tvg-logo="" group-title="[🇪🇬]ARAPÇA KANALLAR",TRT ARABİ HD
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="AL JAZEERA HD [AR]" tvg-logo="" group-title="[🇪🇬]ARAPÇA KANALLAR",AL JAZEERA HD [AR]
+https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="AL JAZEERA HD [ENG]" tvg-logo="" group-title="[🇪🇬]ARAPÇA KANALLAR",AL JAZEERA HD [ENG]
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="AL ARABİA HD" tvg-logo="" group-title="[🇪🇬]ARAPÇA KANALLAR",AL ARABİA HD
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+
 #🤝🤝🤝🤝🤝🤝🤝🤝🤝🤝EMEĞİ GEÇENLER🤝🤝🤝🤝🤝🤝🤝🤝🤝🤝
 #EXTINF:-1 tvg-name="@DRAG10" tvg-id="" tvg-logo="https://img.freepik.com/premium-vector/hacker-mascot-sports-esports-logo_382438-615.jpg?semt=ais_hybrid&w=740" group-title="[🤝]Geliştiriciler",@DRAG10
 https://info
