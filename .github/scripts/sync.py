@@ -23,7 +23,7 @@ if response.status_code == 200:
             if line.startswith("#EXTINF:"):
                 # Mevcut EXTINF satırına tvg-language ve tvg-country ekle
                 if "tvg-language=" not in line and "tvg-country=" not in line:
-                    line = line.replace('#EXTINF:', '#EXTINF: tvg-language="Turkish" tvg-country="TR"')
+                    line = line.replace('#EXTINF:', '#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"')
             filtered_lines.append(line)
 
     # EXTM3U başlığını ekle
