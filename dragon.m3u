@@ -126,7 +126,7 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="TELE 1" tvg-id="" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="[🇹🇷]Haber",TELE 1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
+http://5.144.1.235:29981/stream/channelid/1632371892?profile=pass
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="HALK TV" tvg-id="" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="[🇹🇷]Haber",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
