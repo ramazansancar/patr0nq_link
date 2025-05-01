@@ -572,6 +572,37 @@ http://51.20.137.71/yt/yt.m3u8?kanal=@yenigelindizi
 http://51.20.137.71/yt/yt.m3u8?kanal=@seksenlertrt
 
 
+#📻📻📻📻📻📻📻📻📻📻CANLI RADYO KANALLARI📻📻📻📻📻📻📻📻📻📻
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="BABA RADYO" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",BABA RADYO
+https://tinyurl.com/SyndraxicBABA
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="ARABESK FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",ARABESK FM
+https://tinyurl.com/SyndraxicArabeskFM
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="AŞK FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",AŞK FM
+https://tinyurl.com/SyndraxicASKfm
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="BOR FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",BOR FM
+https://tinyurl.com/SyndraxicBORfm
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="CAN FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",CAN FM
+https://tinyurl.com/SyndraxicCANfm
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="DAMAR FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",DAMAR FM
+https://tinyurl.com/SyndraxicDAMARfm
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="GERÇEK RADYO" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",GERÇEK RADYO
+https://bit.ly/SyndraxicGERCEK
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="KARESİ RADYO" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",KARESİ RADYO
+https://tinyurl.com/SyndraxicKRS
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="MELANKOLİK HOME FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",MELANKOLİK HOME FM
+https://tinyurl.com/SyndraxicMELANKOLIK
+
+
+
 #🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬ARAPÇA KANALLAR🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="TRT ARABİ HD" tvg-logo="" group-title="[🇪🇬]ARAPÇA KANALLAR",TRT ARABİ HD
