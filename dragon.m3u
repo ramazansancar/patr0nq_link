@@ -247,15 +247,20 @@ https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinpeakstream.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.af91.workers.dev/static/bs1.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [E]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [F]
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [F]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [F]
 #EXTVLCOPT:http-referrer=https://jestyayin936.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://lll.mevzuhls35.cfd/yayinzirve.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [F]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [G]
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [G]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [G]
 #EXTVLCOPT:http-referrer=https://jestyayin936.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://lll.mevzuhls35.cfd/yayininat.m3u8
+
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [H]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [H]
+#EXTVLCOPT:http-referrer=https://pulitv18.live/
+https://nxn5.xyz/cdn/bein-sports-1.m3u8
 
 
 
@@ -353,7 +358,7 @@ https://tv1.arectv30.sbs/live/euro2.m3u8
 
 #➖➖➖➖➖➖➖➖➖➖TİVİBU SPOR KANALLARI➖➖➖➖➖➖➖➖➖➖
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="TİVİBU SPOR HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR HD
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="TİVİBU SPOR 1 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR HD
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/t1.m3u8
