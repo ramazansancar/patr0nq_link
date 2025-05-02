@@ -21,7 +21,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 https://canlitvulusal.xyz/live/showtv/index.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="NOW TV" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW
-http://51.20.137.71/stream/ulusal/nowtv.m3u8
+http://13.60.64.58/stream/ulusal/nowtv.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="NOW TV [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW [YEDEK]
 https://tinyurl.com/SyndraxicFOX
@@ -151,7 +151,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://tv1.arectv30.sbs/live/docubox.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="YABAN TV" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",YABAN TV
-http://51.20.137.71/stream/ulusal/yabantv.m3u8
+http://13.60.64.58/stream/ulusal/yabantv.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="TARİH TV" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",TARİH TV
 #EXTVLCOPT:http-user-agent=googleusercontent
@@ -528,53 +528,53 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️YEŞİLÇAM⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="YEŞİLÇAM HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷]Yeşilçam",YEŞİLÇAM HD¹
-http://51.20.137.71/yt/yt.m3u8?kanal=@FanatikFilmYerli
+http://13.60.64.58/yt/yt.m3u8?kanal=@FanatikFilmYerli
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="YEŞİLÇAM HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷]Yeşilçam",YEŞİLÇAM HD²
-http://51.20.137.71/yt/yt.m3u8?kanal=@TurkAksiyonFilmleri
+http://13.60.64.58/yt/yt.m3u8?kanal=@TurkAksiyonFilmleri
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name=" YEŞİLÇAM HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷]Yeşilçam",YEŞİLÇAM HD³
-http://51.20.137.71/yt/yt.m3u8?kanal=@arzufilm1964
+http://13.60.64.58/yt/yt.m3u8?kanal=@arzufilm1964
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="KEMAL SUNAL HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷]Yeşilçam",KEMAL SUNAL HD¹
-http://51.20.137.71/yt/yt.m3u8?kanal=@kemalsunalfilmleri
+http://13.60.64.58/yt/yt.m3u8?kanal=@kemalsunalfilmleri
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="KEMAL SUNAL HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷]Yeşilçam",KEMAL SUNAL HD²
-http://51.20.137.71/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
+http://13.60.64.58/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="KEMAL SUNAL HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷]Yeşilçam",KEMAL SUNAL HD³
-http://51.20.137.71/yt/yt.m3u8?kanal=@GulsahFilmOfficial
+http://13.60.64.58/yt/yt.m3u8?kanal=@GulsahFilmOfficial
 
 
 #🟤🟤🟤🟤🟤🟤🟤🟤🟤🟤EĞLENCE🟤🟤🟤🟤🟤🟤🟤🟤🟤🟤
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="SİHİRLİ ANNEM" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2019/06/Sihirli-Annem.jpg" group-title="[🇹🇷]Eğlence",SİHİRLİ ANNEM
-http://51.20.137.71/yt/yt.m3u8?kanal=@SIHIRLIANNEMKANALDOFFICIAL
+http://13.60.64.58/yt/yt.m3u8?kanal=@SIHIRLIANNEMKANALDOFFICIAL
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="KURTLAR VADİSİ" https://sezonlukdizi6.com/i/dizi400/d/b/1275.jpg" group-title="[🇹🇷]Eğlence",KURTLAR VADİSİ
-http://51.20.137.71/yt/yt.m3u8?kanal=@KurtlarVadisiOfficial
+http://13.60.64.58/yt/yt.m3u8?kanal=@KurtlarVadisiOfficial
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="KURTLAR VADİSİ PUSU" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2022/05/valley-of-the-wolves-ambush.jpg" group-title="[🇹🇷]Eğlence",KURTLAR VADİSİ PUSU
-http://51.20.137.71/yt/yt.m3u8?kanal=@KurtlarVadisi
+http://13.60.64.58/yt/yt.m3u8?kanal=@KurtlarVadisi
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="ÇOCUKLAR DUYMASIN" tvg-logo="https://iaatv.tmgrup.com.tr/217a30/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/07/28/1440x268/1627476758215.jpg" group-title="[🇹🇷]Eğlence",ÇOCUKLAR DUYMASIN
-http://51.20.137.71/yt/yt.m3u8?kanal=@cocuklarduymasındizi
+http://13.60.64.58/yt/yt.m3u8?kanal=@cocuklarduymasındizi
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="CENNET MAHALLESİ" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2022/10/cennet-mahallesi.jpg" group-title="[🇹🇷]Eğlence",CENNET MAHALLESİ
-http://51.20.137.71/yt/yt.m3u8?kanal=@cennetmahallesishowtv
+http://13.60.64.58/yt/yt.m3u8?kanal=@cennetmahallesishowtv
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="YAPRAK DÖKÜMÜ" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2021/05/yaprak-dokumu.jpg" group-title="[🇹🇷]Eğlence",YAPRAK DÖKÜMÜ
-http://51.20.137.71/yt/yt.m3u8?kanal=@YaprakDokumuKanalD
+http://13.60.64.58/yt/yt.m3u8?kanal=@YaprakDokumuKanalD
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="ADANALI" tvg-logo="https://i.ytimg.com/vi/QJQZBA3pVeU/maxresdefault.jpg" group-title="[🇹🇷]Eğlence",ADANALI
-http://51.20.137.71/yt/yt.m3u8?kanal=@Adanali
+http://13.60.64.58/yt/yt.m3u8?kanal=@Adanali
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="YENİ GELİN" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2019/06/yeni-gelin-izle.jpg" group-title="[🇹🇷]Eğlence",YENİ GELİN
-http://51.20.137.71/yt/yt.m3u8?kanal=@yenigelindizi
+http://13.60.64.58/yt/yt.m3u8?kanal=@yenigelindizi
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="SEKSENLER" tvg-logo="" group-title="[🇹🇷]Eğlence",SEKSENLER
-http://51.20.137.71/yt/yt.m3u8?kanal=@seksenlertrt
+http://13.60.64.58/yt/yt.m3u8?kanal=@seksenlertrt
 
 
 #📻📻📻📻📻📻📻📻📻📻CANLI RADYO KANALLARI📻📻📻📻📻📻📻📻📻📻
