@@ -208,6 +208,16 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="HT SPOR" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="SMART SPOR HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",SMART SPOR HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/smart1.m3u8
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="SMART SPOR 2 HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",SMART SPOR 2 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/smart1.m3u8
+
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="TJK TV" tvg-id="" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="[🇹🇷]Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
 
@@ -216,7 +226,7 @@ https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="NBA TV HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",NBA TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.af91.workers.dev/list/yayinnbatv.m3u8
+https://r14.af92.workers.dev/list/yayinnbatv.m3u8
 
 
 #🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
