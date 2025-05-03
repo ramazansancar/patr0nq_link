@@ -234,50 +234,40 @@ https://r14.af92.workers.dev/list/yayinnbatv.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
 https://tinyurl.com/SyndraxicBsHaberHD
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list//yayinkral.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
-#EXTVLCOPT:http-referrer=https://salamistv9.online
-https://yakupefekarahanli007.cfd/701.m3u8
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [A]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
+https://tinyurl.com/SyndraxicBSsunucu1
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
+https://tinyurl.com/SyndraxicBSsunucu2
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [C]
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinstar.m3u8
+#EXTVLCOPT:http-referrer=https://salamistv9.online
+https://yakupefekarahanli007.cfd/701.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
 #EXTVLCOPT:http-origin=http://macboxtv14.xyz
 #EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinpeakstream.m3u8
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list//yayinkral.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [E]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.af92.workers.dev/static/bs1.m3u8
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinstar.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [F]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [F]
-#EXTVLCOPT:http-referrer=https://jestyayin936.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lll.mevzuhls35.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [F]
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinpeakstream.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [G]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [G]
-#EXTVLCOPT:http-referrer=https://jestyayin936.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lll.mevzuhls35.cfd/yayininat.m3u8
-
-
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [H]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [H]
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [H]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [G]
 #EXTVLCOPT:http-referrer=https://pulitv18.live/
 https://nxn5.xyz/cdn/bein-sports-1.m3u8
 
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BeIN SPORTS 2 [A]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [A]
-#EXTVLCOPT:http-referrer=https://jestyayin936.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lll.mevzuhls35.cfd/yayinb2.m3u8
+https://tinyurl.com/SyndraxicBS2
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="148" tvg-name="beIN SPORTS 2 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -286,9 +276,8 @@ https://r14.af92.workers.dev/static/bs2.m3u8
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="beIN SPORTS 3 [A]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [A]
-#EXTVLCOPT:http-referrer=https://jestyayin936.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lll.mevzuhls35.cfd/yayinb3.m3u8
+https://tinyurl.com/Syndraxicbien3
+
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="147" tvg-name="beIN SPORTS 3 [B]"tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -297,9 +286,7 @@ https://r14.af92.workers.dev/static/bs3.m3u8
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="beIN SPORTS 4 [A]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [A]
-#EXTVLCOPT:http-referrer=https://jestyayin936.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lll.mevzuhls35.cfd/yayinb4.m3u8
+https://tinyurl.com/49j3htca
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="146" tvg-name="beIN SPORTS 4 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -308,16 +295,10 @@ https://r14.af92.workers.dev/static/bs4.m3u8
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BeIN SPORTS 5" tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",BeIN SPORTS 5 [A]
-#EXTVLCOPT:http-referrer=https://jestyayin936.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lll.mevzuhls35.cfd/yayinb5.m3u8
+https://tinyurl.com/Syndraxicbien5
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="beIN SPORTS 5 [B]" tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [B]
-#EXTVLCOPT:http-referrer=https://jestyayin936.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lll.mevzuhls35.cfd/yayinb5.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="" tvg-name="beIN SPORTS 5 [C]" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [C]
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="" tvg-name="beIN SPORTS 5 [B]" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [C]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.af92.workers.dev/static/bs5.m3u8
 
