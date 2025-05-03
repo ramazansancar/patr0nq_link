@@ -245,7 +245,7 @@ https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinpeakstream.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [E]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.af91.workers.dev/static/bs1.m3u8
+https://r14.af92.workers.dev/static/bs1.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [F]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [F]
 #EXTVLCOPT:http-referrer=https://jestyayin936.com
@@ -271,7 +271,7 @@ https://lll.mevzuhls35.cfd/yayinb2.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="148" tvg-name="beIN SPORTS 2 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.af91.workers.dev/static/bs2.m3u8
+https://r14.af92.workers.dev/static/bs2.m3u8
 
 
 
@@ -282,7 +282,7 @@ https://lll.mevzuhls35.cfd/yayinb3.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="147" tvg-name="beIN SPORTS 3 [B]"tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.af91.workers.dev/static/bs3.m3u8
+https://r14.af92.workers.dev/static/bs3.m3u8
 
 
 
@@ -293,7 +293,7 @@ https://lll.mevzuhls35.cfd/yayinb4.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="146" tvg-name="beIN SPORTS 4 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.af91.workers.dev/static/bs4.m3u8
+https://r14.af92.workers.dev/static/bs4.m3u8
 
 
 
@@ -309,7 +309,7 @@ https://lll.mevzuhls35.cfd/yayinb5.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="" tvg-name="beIN SPORTS 5 [C]" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [C]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.af91.workers.dev/static/bs5.m3u8
+https://r14.af92.workers.dev/static/bs5.m3u8
 
 
 
@@ -497,10 +497,6 @@ https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="NUMBER TÜRK TV"tvg-id="" tvg-logo="http://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg" group-title="[🇹🇷]Müzik",NUMBER 1 TÜRK TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=T5XRaMShyuirhEdm4U70yQ&expires=1745141016
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="MEZZO LİVE HD"tvg-id="" tvg-logo="http://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg" group-title="[🇹🇷]Müzik",MEZZO LİVE HD
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://ott-cdn.ucom.am/s35/index.m3u8
-
 #🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡ÇOCUK KANALLARI🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="TRT ÇOCUK" tvg-id="" tvg-logo="" group-title="[🇹🇷]Çocuk",TRT ÇOCUK
@@ -586,7 +582,7 @@ https://tinyurl.com/SyndraxicBABA
 https://tinyurl.com/SyndraxicArabeskFM
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="AŞK FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",AŞK FM
-https://tinyurl.com/SyndraxicASKfm
+https://yayin.asymedya.com:8020/1
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="BOR FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",BOR FM
 https://tinyurl.com/SyndraxicBORfm
