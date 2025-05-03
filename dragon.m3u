@@ -224,6 +224,9 @@ https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="TJK TV 2" tvg-id="" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="[🇹🇷]Spor",TJK TV 2
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BRİÇ VE SATRANÇ TV" tvg-id="" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="[🇹🇷]Spor",BRİÇ VE SATRANÇ TV
+http://139.162.182.79/live/test/index.m3u8
+
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="NBA TV HD" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",NBA TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.af92.workers.dev/list/yayinnbatv.m3u8
@@ -235,39 +238,35 @@ https://r14.af92.workers.dev/list/yayinnbatv.m3u8
 https://tinyurl.com/SyndraxicBsHaberHD
 
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [A]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
-https://tinyurl.com/SyndraxicBSsunucu1
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [A]
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.32ufajdjfnsa32.workers.dev/list/yayinzirve.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
-https://tinyurl.com/SyndraxicBSsunucu2
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [B]
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.32ufajdjfnsa32.workers.dev/list/yayinstar.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [C]
-#EXTVLCOPT:http-referrer=https://salamistv9.online
-https://yakupefekarahanli007.cfd/701.m3u8
-
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
 #EXTVLCOPT:http-origin=http://macboxtv14.xyz
 #EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list//yayinkral.m3u8
+https://t6co.32ufajdjfnsa32.workers.dev/list/yayinpeakstream.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [E]
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinstar.m3u8
-
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [F]
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinpeakstream.m3u8
-
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [H]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [G]
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [D]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [D]
 #EXTVLCOPT:http-referrer=https://pulitv18.live/
 https://nxn5.xyz/cdn/bein-sports-1.m3u8
+
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BEIN SPORTS 1 [E]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 1 [E]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://r14.af92.workers.dev/static/bs2.m3u8
 
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BeIN SPORTS 2 [A]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [A]
-https://tinyurl.com/SyndraxicBS2
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.32ufajdjfnsa32.workers.dev/list/yayinb2.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="148" tvg-name="beIN SPORTS 2 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-2.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 2 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -276,7 +275,9 @@ https://r14.af92.workers.dev/static/bs2.m3u8
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="beIN SPORTS 3 [A]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [A]
-https://tinyurl.com/Syndraxicbien3
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.32ufajdjfnsa32.workers.dev/list/yayinb3.m3u8
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="147" tvg-name="beIN SPORTS 3 [B]"tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-3.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 3 [B]
@@ -286,7 +287,9 @@ https://r14.af92.workers.dev/static/bs3.m3u8
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="beIN SPORTS 4 [A]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [A]
-https://tinyurl.com/49j3htca
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.32ufajdjfnsa32.workers.dev/list/yayinb4.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="146" tvg-name="beIN SPORTS 4 [B]" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-4.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 4 [B]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -295,7 +298,9 @@ https://r14.af92.workers.dev/static/bs4.m3u8
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-name="BeIN SPORTS 5" tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",BeIN SPORTS 5 [A]
-https://tinyurl.com/Syndraxicbien5
+#EXTVLCOPT:http-origin=http://macboxtv14.xyz
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
+https://t6co.32ufajdjfnsa32.workers.dev/list/yayinb5.m3u8
 
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="" tvg-name="beIN SPORTS 5 [B]" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="[🇹🇷]beIN•Sports",beIN SPORTS 5 [C]
