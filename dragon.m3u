@@ -132,7 +132,7 @@ http://5.144.1.235:29981/stream/channelid/1632371892?profile=pass
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="SÖZCÜ TV" tvg-id="SozcuTV.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="[🇹🇷]Haber",SÖZCÜ TV
-http://51.20.137.71/yt/yt.m3u8?kanal=@sozcutelevizyonu
+https://koprulu2.global.ssl.fastly.net/app7/ctv.m3u8/?url=https://tv.canlitv.vip/sozcu-tv-canli
 
 #🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠BELGESEL KANALLAR🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
 
@@ -586,7 +586,7 @@ https://tinyurl.com/SyndraxicBABA
 https://tinyurl.com/SyndraxicArabeskFM
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="AŞK FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",AŞK FM
-https://yayin.asymedya.com:8020/listen.pls?sid=1
+http://yayin.asymedya.com:8020/1
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR"-1 tvg-id="33" tvg-name="BOR FM" tvg-logo="" group-title="[🇹🇷]ARABESK RADYOLAR",BOR FM
 https://tinyurl.com/SyndraxicBORfm
