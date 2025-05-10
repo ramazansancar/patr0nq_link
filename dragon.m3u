@@ -126,7 +126,7 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TELE 1" tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="[🇹🇷]Haber",TELE 1
-http://5.144.1.235:29981/stream/channelid/1632371892?profile=pass
+https://cdn7.canlitv.direct/tele1.m3u8?tkn=klxNao-S9DdYfNCR49W2OQ&tms=1746843773&hst=m.canlitv.direct&ip=88.248.212.239
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="[🇹🇷]Haber",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
@@ -324,6 +324,14 @@ https://tv1.arectv30.sbs/live/bm1.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bm2.m3u8
+
+#💿💿💿💿💿💿💿💿💿💿BEİN MEDYA💿💿💿💿💿💿💿💿💿💿
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="BeIN" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_Gurme_250x150_2022.png" group-title="[🇹🇷]beIN•Medya",beIN GURME
+#EXTVLCOPT:http-origin=str.filmizlesekmi.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://google.com/
+https://str.filmizlesekmi.top/GLB/?static=gurme
 
 #🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰S-SPORT/EUROSPORT🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰
 
