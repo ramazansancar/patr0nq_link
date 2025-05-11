@@ -151,7 +151,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://tv1.arectv30.sbs/live/docubox.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="YABAN TV" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",YABAN TV
-http://13.60.64.58/stream/ulusal/yabantv.m3u8
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w359564918.m3u8?hash=d71b9a4d0ef817355b3ef4bb26064976
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TARİH TV" tvg-id="" tvg-logo="TarihTV.tr" group-title="[🇹🇷]Belgesel",TARİH TV
 #EXTVLCOPT:http-user-agent=googleusercontent
