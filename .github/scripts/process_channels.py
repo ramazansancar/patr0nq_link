@@ -1,6 +1,21 @@
 import requests
 import re
 
+def get_all_channels():
+    # API'den tüm kanalları al
+    url = "https://api.ramsan.tr/tv/channels/m3u/?domain=vavoo&sort=name"
+    response = requests.get(url)
+
+    if(response.status_code != 200):
+        print("API'den veri alınamadı.")
+        return None
+    
+    # Gelen response'u vavoo.m3u dosyasına yaz
+    with open('vavoo-all.m3u', 'w', encoding='utf-8') as f:
+        f.write(response.text)
+
+    return response.text
+
 # Vavoo içeriğini yerel dosyadan okumak için, ana dizindeki sabit dosyamızın adını ekleyelim
 def fetch_vavoo_content():
     # API'ye istek gönder
@@ -228,3 +243,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    get_all_channels()
