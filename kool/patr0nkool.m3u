@@ -103,10 +103,6 @@ https://kool.to/play/1091403912/index.m3u8
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
 https://kool.to/play/1204200801/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 1 UHD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,EXXEN TV SPOR 1 UHD (1)
-#EXTVLCOPT:http-user-agent=KOOL/1.0
-#EXTVLCOPT:http-referrer=https://kool.to/
-https://kool.to/play/3814925371/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 2 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,EXXEN TV SPOR 2 HD (1)
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
@@ -139,6 +135,14 @@ https://kool.to/play/3343300331/index.m3u8
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
 https://kool.to/play/1159078202/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FB TV (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,FB TV (6)
+#EXTVLCOPT:http-user-agent=KOOL/1.0
+#EXTVLCOPT:http-referrer=https://kool.to/
+https://kool.to/play/615308601/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILBOX SPOR 1 MACZAMANI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,FILBOX SPOR 1 MACZAMANI (1)
+#EXTVLCOPT:http-user-agent=KOOL/1.0
+#EXTVLCOPT:http-referrer=https://kool.to/
+https://kool.to/play/407612267/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FILBOX SPOR 2 MACZAMANI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png" tvg-language="Turkish" tvg-country="TR" group-title="KoolTO Türkiye Spor"  ,FILBOX SPOR 2 MACZAMANI (1)
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to/
