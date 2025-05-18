@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Spor_beINSPORTS01" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/Sakubaba00/saku/main/image/02.png" group-title="Spor ",beIN SPORTS 1 FHD ⓧ
+http://sakubabaisyaparonlaraglar.dev.tc/live/a/a/1.m3u8
+#EXTINF:-1 tvg-id="por_beINSPOR0TS1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/Sakubaba00/saku/main/image/02.png" group-title="Spor ",beIN SPORTS 1 HD ⓧ
+http://sakubabaisyaparonlaraglar.dev.tc/live/a/a/2.m3u8
 #EXTINF:-1 tvg-id="Spor_beINSPORTS1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/Sakubaba00/saku/main/image/02.png" group-title="Spor ",beIN SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
