@@ -1,6 +1,6 @@
 import requests
 
-source_url = "https://raw.githubusercontent.com/Sakubaba00/saku/refs/heads/main/playlist2.m3u"
+source_url = "https://lemonchiffon-dotterel-347603.hostingersite.com/kablotv/kablotv.m3u"
 target_path = "sakultah.m3u"
 
 response = requests.get(source_url)
