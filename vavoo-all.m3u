@@ -379,20 +379,15 @@ https://vavoo.to/play/3828793616/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1537807715/index.m3u8
 
-#EXTINF:-1 tvg-id="1629878879" tvg-name="24 KITCHEN (6)" tvg-logo="" group-title="Albania",24 KITCHEN (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1629878879/index.m3u8
-
 #EXTINF:-1 tvg-id="2176778441" tvg-name="24 KITCHEN (6)" tvg-logo="" group-title="Portugal",24 KITCHEN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2176778441/index.m3u8
 
-#EXTINF:-1 tvg-id="622061122" tvg-name="24 KITCHEN (6)" tvg-logo="" group-title="Netherlands",24 KITCHEN (6)
+#EXTINF:-1 tvg-id="1629878879" tvg-name="24 KITCHEN (6)" tvg-logo="" group-title="Albania",24 KITCHEN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/622061122/index.m3u8
+https://vavoo.to/play/1629878879/index.m3u8
 
 #EXTINF:-1 tvg-id="587942529" tvg-name="24 KITCHEN (6)" tvg-logo="" group-title="Balkans",24 KITCHEN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -409,6 +404,11 @@ https://vavoo.to/play/1540493006/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3295699287/index.m3u8
 
+#EXTINF:-1 tvg-id="622061122" tvg-name="24 KITCHEN (6)" tvg-logo="" group-title="Netherlands",24 KITCHEN (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/622061122/index.m3u8
+
 #EXTINF:-1 tvg-id="1845492017" tvg-name="24 KITCHEN (7)" tvg-logo="" group-title="Albania",24 KITCHEN (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -424,15 +424,15 @@ https://vavoo.to/play/802245103/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3329504843/index.m3u8
 
-#EXTINF:-1 tvg-id="1552571249" tvg-name="24 KITCHEN (7)" tvg-logo="" group-title="Netherlands",24 KITCHEN (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1552571249/index.m3u8
-
 #EXTINF:-1 tvg-id="3909993444" tvg-name="24 KITCHEN (7)" tvg-logo="" group-title="Bulgaria",24 KITCHEN (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3909993444/index.m3u8
+
+#EXTINF:-1 tvg-id="1552571249" tvg-name="24 KITCHEN (7)" tvg-logo="" group-title="Netherlands",24 KITCHEN (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1552571249/index.m3u8
 
 #EXTINF:-1 tvg-id="574978281" tvg-name="24 KITCHEN HD (1)" tvg-logo="" group-title="Portugal",24 KITCHEN HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -3159,6 +3159,11 @@ https://vavoo.to/play/3466104099/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/683480287/index.m3u8
 
+#EXTINF:-1 tvg-id="2341819341" tvg-name="AMC (6)" tvg-logo="" group-title="Portugal",AMC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2341819341/index.m3u8
+
 #EXTINF:-1 tvg-id="1462723502" tvg-name="AMC (6)" tvg-logo="" group-title="Spain",AMC (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3168,11 +3173,6 @@ https://vavoo.to/play/1462723502/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1283826463/index.m3u8
-
-#EXTINF:-1 tvg-id="2341819341" tvg-name="AMC (6)" tvg-logo="" group-title="Portugal",AMC (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2341819341/index.m3u8
 
 #EXTINF:-1 tvg-id="2733166280" tvg-name="AMC (6)" tvg-logo="" group-title="Poland",AMC (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -3229,15 +3229,15 @@ https://vavoo.to/play/3137067513/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2077195788/index.m3u8
 
-#EXTINF:-1 tvg-id="1940642395" tvg-name="AMC HD (1)" tvg-logo="" group-title="Spain",AMC HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1940642395/index.m3u8
-
 #EXTINF:-1 tvg-id="3322904148" tvg-name="AMC HD (1)" tvg-logo="" group-title="Portugal",AMC HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3322904148/index.m3u8
+
+#EXTINF:-1 tvg-id="1940642395" tvg-name="AMC HD (1)" tvg-logo="" group-title="Spain",AMC HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1940642395/index.m3u8
 
 #EXTINF:-1 tvg-id="1361923640" tvg-name="AMEDIA 1 (7)" tvg-logo="" group-title="Russia",AMEDIA 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -3334,15 +3334,15 @@ https://vavoo.to/play/2884774704/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/142810364/index.m3u8
 
-#EXTINF:-1 tvg-id="2168918882" tvg-name="ANIMAL PLANET (1)" tvg-logo="" group-title="Balkans",ANIMAL PLANET (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2168918882/index.m3u8
-
 #EXTINF:-1 tvg-id="4014675700" tvg-name="ANIMAL PLANET (1)" tvg-logo="" group-title="United Kingdom",ANIMAL PLANET (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4014675700/index.m3u8
+
+#EXTINF:-1 tvg-id="2168918882" tvg-name="ANIMAL PLANET (1)" tvg-logo="" group-title="Balkans",ANIMAL PLANET (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2168918882/index.m3u8
 
 #EXTINF:-1 tvg-id="4041383080" tvg-name="ANIMAL PLANET (1)" tvg-logo="" group-title="Russia",ANIMAL PLANET (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -3364,40 +3364,40 @@ https://vavoo.to/play/2384808701/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/967928593/index.m3u8
 
-#EXTINF:-1 tvg-id="2523527914" tvg-name="ANIMAL PLANET (6)" tvg-logo="" group-title="Bulgaria",ANIMAL PLANET (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2523527914/index.m3u8
-
 #EXTINF:-1 tvg-id="75666354" tvg-name="ANIMAL PLANET (6)" tvg-logo="" group-title="Netherlands",ANIMAL PLANET (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/75666354/index.m3u8
+
+#EXTINF:-1 tvg-id="2523527914" tvg-name="ANIMAL PLANET (6)" tvg-logo="" group-title="Bulgaria",ANIMAL PLANET (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2523527914/index.m3u8
 
 #EXTINF:-1 tvg-id="2038035598" tvg-name="ANIMAL PLANET (7)" tvg-logo="" group-title="Germany",ANIMAL PLANET (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2038035598/index.m3u8
 
-#EXTINF:-1 tvg-id="1363942994" tvg-name="ANIMAL PLANET (7)" tvg-logo="" group-title="Romania",ANIMAL PLANET (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1363942994/index.m3u8
-
 #EXTINF:-1 tvg-id="4087117235" tvg-name="ANIMAL PLANET (7)" tvg-logo="" group-title="United Kingdom",ANIMAL PLANET (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4087117235/index.m3u8
 
-#EXTINF:-1 tvg-id="2913748672" tvg-name="ANIMAL PLANET (7)" tvg-logo="" group-title="Balkans",ANIMAL PLANET (7)
+#EXTINF:-1 tvg-id="1363942994" tvg-name="ANIMAL PLANET (7)" tvg-logo="" group-title="Romania",ANIMAL PLANET (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2913748672/index.m3u8
+https://vavoo.to/play/1363942994/index.m3u8
 
 #EXTINF:-1 tvg-id="2098247589" tvg-name="ANIMAL PLANET (7)" tvg-logo="" group-title="Russia",ANIMAL PLANET (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2098247589/index.m3u8
+
+#EXTINF:-1 tvg-id="2913748672" tvg-name="ANIMAL PLANET (7)" tvg-logo="" group-title="Balkans",ANIMAL PLANET (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2913748672/index.m3u8
 
 #EXTINF:-1 tvg-id="2110161355" tvg-name="ANIMAL PLANET (7)" tvg-logo="" group-title="Turkey",ANIMAL PLANET (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -3524,15 +3524,15 @@ https://vavoo.to/play/254679370/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/355964474/index.m3u8
 
-#EXTINF:-1 tvg-id="2255480833" tvg-name="ANTENA 3 HD (1)" tvg-logo="" group-title="Spain",ANTENA 3 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2255480833/index.m3u8
-
 #EXTINF:-1 tvg-id="593575601" tvg-name="ANTENA 3 HD (1)" tvg-logo="" group-title="Romania",ANTENA 3 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/593575601/index.m3u8
+
+#EXTINF:-1 tvg-id="2255480833" tvg-name="ANTENA 3 HD (1)" tvg-logo="" group-title="Spain",ANTENA 3 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2255480833/index.m3u8
 
 #EXTINF:-1 tvg-id="2911917769" tvg-name="ANTENA 91 (1)" tvg-logo="" group-title="Arabia",ANTENA 91 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -3654,15 +3654,15 @@ https://vavoo.to/play/550012320/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3491626627/index.m3u8
 
-#EXTINF:-1 tvg-id="3040873301" tvg-name="ARENA SPORT 1 (6)" tvg-logo="" group-title="Balkans",ARENA SPORT 1 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3040873301/index.m3u8
-
 #EXTINF:-1 tvg-id="172273754" tvg-name="ARENA SPORT 1 (6)" tvg-logo="" group-title="Albania",ARENA SPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/172273754/index.m3u8
+
+#EXTINF:-1 tvg-id="3040873301" tvg-name="ARENA SPORT 1 (6)" tvg-logo="" group-title="Balkans",ARENA SPORT 1 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3040873301/index.m3u8
 
 #EXTINF:-1 tvg-id="418286784" tvg-name="ARENA SPORT 1 HD (1)" tvg-logo="" group-title="Balkans",ARENA SPORT 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -3729,15 +3729,15 @@ https://vavoo.to/play/1523289021/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2692901127/index.m3u8
 
-#EXTINF:-1 tvg-id="2107671589" tvg-name="ARENA SPORT 4 (6)" tvg-logo="" group-title="Balkans",ARENA SPORT 4 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2107671589/index.m3u8
-
 #EXTINF:-1 tvg-id="3265543978" tvg-name="ARENA SPORT 4 (6)" tvg-logo="" group-title="Albania",ARENA SPORT 4 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3265543978/index.m3u8
+
+#EXTINF:-1 tvg-id="2107671589" tvg-name="ARENA SPORT 4 (6)" tvg-logo="" group-title="Balkans",ARENA SPORT 4 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2107671589/index.m3u8
 
 #EXTINF:-1 tvg-id="652966221" tvg-name="ARENA SPORT 4 BIH (7)" tvg-logo="" group-title="Balkans",ARENA SPORT 4 BIH (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -3754,15 +3754,15 @@ https://vavoo.to/play/1343128228/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3303212238/index.m3u8
 
-#EXTINF:-1 tvg-id="1086369173" tvg-name="ARENA SPORT 5 (6)" tvg-logo="" group-title="Balkans",ARENA SPORT 5 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1086369173/index.m3u8
-
 #EXTINF:-1 tvg-id="4291040922" tvg-name="ARENA SPORT 5 (6)" tvg-logo="" group-title="Albania",ARENA SPORT 5 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4291040922/index.m3u8
+
+#EXTINF:-1 tvg-id="1086369173" tvg-name="ARENA SPORT 5 (6)" tvg-logo="" group-title="Balkans",ARENA SPORT 5 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1086369173/index.m3u8
 
 #EXTINF:-1 tvg-id="2118074007" tvg-name="ARENA SPORT 5 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Balkans",ARENA SPORT 5 [LIVE DURING EVENTS ONLY] (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4004,15 +4004,15 @@ https://vavoo.to/play/1743414683/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/188403960/index.m3u8
 
-#EXTINF:-1 tvg-id="2263708799" tvg-name="ARTE (1)" tvg-logo="" group-title="Germany",ARTE (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2263708799/index.m3u8
-
 #EXTINF:-1 tvg-id="2852509052" tvg-name="ARTE (1)" tvg-logo="" group-title="France",ARTE (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2852509052/index.m3u8
+
+#EXTINF:-1 tvg-id="2263708799" tvg-name="ARTE (1)" tvg-logo="" group-title="Germany",ARTE (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2263708799/index.m3u8
 
 #EXTINF:-1 tvg-id="939454216" tvg-name="ARTE (6)" tvg-logo="" group-title="Germany",ARTE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4409,20 +4409,20 @@ https://vavoo.to/play/2201371462/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/777626841/index.m3u8
 
-#EXTINF:-1 tvg-id="157522257" tvg-name="AXN (6)" tvg-logo="" group-title="Poland",AXN (6)
+#EXTINF:-1 tvg-id="538838100" tvg-name="AXN (6)" tvg-logo="" group-title="Portugal",AXN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/157522257/index.m3u8
+https://vavoo.to/play/538838100/index.m3u8
 
 #EXTINF:-1 tvg-id="4238619703" tvg-name="AXN (6)" tvg-logo="" group-title="Spain",AXN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4238619703/index.m3u8
 
-#EXTINF:-1 tvg-id="538838100" tvg-name="AXN (6)" tvg-logo="" group-title="Portugal",AXN (6)
+#EXTINF:-1 tvg-id="157522257" tvg-name="AXN (6)" tvg-logo="" group-title="Poland",AXN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/538838100/index.m3u8
+https://vavoo.to/play/157522257/index.m3u8
 
 #EXTINF:-1 tvg-id="4097263521" tvg-name="AXN (6)" tvg-logo="" group-title="Bulgaria",AXN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4439,15 +4439,15 @@ https://vavoo.to/play/3876516998/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2935208758/index.m3u8
 
-#EXTINF:-1 tvg-id="2587266077" tvg-name="AXN (7)" tvg-logo="" group-title="Balkans",AXN (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2587266077/index.m3u8
-
 #EXTINF:-1 tvg-id="2230270105" tvg-name="AXN (7)" tvg-logo="" group-title="Germany",AXN (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2230270105/index.m3u8
+
+#EXTINF:-1 tvg-id="2587266077" tvg-name="AXN (7)" tvg-logo="" group-title="Balkans",AXN (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2587266077/index.m3u8
 
 #EXTINF:-1 tvg-id="3514626686" tvg-name="AXN (7)" tvg-logo="" group-title="Romania",AXN (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4489,15 +4489,20 @@ https://vavoo.to/play/3788101792/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2107939798/index.m3u8
 
+#EXTINF:-1 tvg-id="3143462075" tvg-name="AXN HD (1)" tvg-logo="" group-title="Portugal",AXN HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3143462075/index.m3u8
+
 #EXTINF:-1 tvg-id="3391115865" tvg-name="AXN HD (1)" tvg-logo="" group-title="Germany",AXN HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3391115865/index.m3u8
 
-#EXTINF:-1 tvg-id="3143462075" tvg-name="AXN HD (1)" tvg-logo="" group-title="Portugal",AXN HD (1)
+#EXTINF:-1 tvg-id="1774650965" tvg-name="AXN HD (1)" tvg-logo="" group-title="Poland",AXN HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3143462075/index.m3u8
+https://vavoo.to/play/1774650965/index.m3u8
 
 #EXTINF:-1 tvg-id="251250868" tvg-name="AXN HD (1)" tvg-logo="" group-title="Spain",AXN HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4508,11 +4513,6 @@ https://vavoo.to/play/251250868/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1050568979/index.m3u8
-
-#EXTINF:-1 tvg-id="1774650965" tvg-name="AXN HD (1)" tvg-logo="" group-title="Poland",AXN HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1774650965/index.m3u8
 
 #EXTINF:-1 tvg-id="474759302" tvg-name="AXN MOVIES (6)" tvg-logo="" group-title="Portugal",AXN MOVIES (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4589,15 +4589,15 @@ https://vavoo.to/play/3805773434/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2377470007/index.m3u8
 
-#EXTINF:-1 tvg-id="3062256453" tvg-name="AXN WHITE HD (1)" tvg-logo="" group-title="Spain",AXN WHITE HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3062256453/index.m3u8
-
 #EXTINF:-1 tvg-id="3286985327" tvg-name="AXN WHITE HD (1)" tvg-logo="" group-title="Portugal",AXN WHITE HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3286985327/index.m3u8
+
+#EXTINF:-1 tvg-id="3062256453" tvg-name="AXN WHITE HD (1)" tvg-logo="" group-title="Spain",AXN WHITE HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3062256453/index.m3u8
 
 #EXTINF:-1 tvg-id="3021802433" tvg-name="AXN WITH (1)" tvg-logo="" group-title="Romania",AXN WITH (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4719,35 +4719,35 @@ https://vavoo.to/play/3429908435/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3166119033/index.m3u8
 
+#EXTINF:-1 tvg-id="3056472300" tvg-name="BABY TV (6)" tvg-logo="" group-title="Germany",BABY TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3056472300/index.m3u8
+
 #EXTINF:-1 tvg-id="3166917965" tvg-name="BABY TV (6)" tvg-logo="" group-title="Albania",BABY TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3166917965/index.m3u8
 
-#EXTINF:-1 tvg-id="3056472300" tvg-name="BABY TV (6)" tvg-logo="" group-title="Germany",BABY TV (6)
+#EXTINF:-1 tvg-id="3820420855" tvg-name="BABY TV (6)" tvg-logo="" group-title="Turkey",BABY TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3056472300/index.m3u8
+https://vavoo.to/play/3820420855/index.m3u8
 
 #EXTINF:-1 tvg-id="3723054155" tvg-name="BABY TV (6)" tvg-logo="" group-title="Netherlands",BABY TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3723054155/index.m3u8
 
-#EXTINF:-1 tvg-id="1448805961" tvg-name="BABY TV (6)" tvg-logo="" group-title="Spain",BABY TV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1448805961/index.m3u8
-
 #EXTINF:-1 tvg-id="3938501125" tvg-name="BABY TV (6)" tvg-logo="" group-title="Italy",BABY TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3938501125/index.m3u8
 
-#EXTINF:-1 tvg-id="3820420855" tvg-name="BABY TV (6)" tvg-logo="" group-title="Turkey",BABY TV (6)
+#EXTINF:-1 tvg-id="1448805961" tvg-name="BABY TV (6)" tvg-logo="" group-title="Spain",BABY TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3820420855/index.m3u8
+https://vavoo.to/play/1448805961/index.m3u8
 
 #EXTINF:-1 tvg-id="1947322074" tvg-name="BABY TV (6)" tvg-logo="" group-title="Arabia",BABY TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4759,30 +4759,30 @@ https://vavoo.to/play/1947322074/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2880501005/index.m3u8
 
-#EXTINF:-1 tvg-id="1728862622" tvg-name="BABY TV (7)" tvg-logo="" group-title="Albania",BABY TV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1728862622/index.m3u8
-
 #EXTINF:-1 tvg-id="3416795335" tvg-name="BABY TV (7)" tvg-logo="" group-title="Bulgaria",BABY TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3416795335/index.m3u8
+
+#EXTINF:-1 tvg-id="1728862622" tvg-name="BABY TV (7)" tvg-logo="" group-title="Albania",BABY TV (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1728862622/index.m3u8
 
 #EXTINF:-1 tvg-id="2265727942" tvg-name="BABY TV (7)" tvg-logo="" group-title="Italy",BABY TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2265727942/index.m3u8
 
-#EXTINF:-1 tvg-id="1865843041" tvg-name="BABY TV (7)" tvg-logo="" group-title="Netherlands",BABY TV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1865843041/index.m3u8
-
 #EXTINF:-1 tvg-id="4184865290" tvg-name="BABY TV (7)" tvg-logo="" group-title="Turkey",BABY TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4184865290/index.m3u8
+
+#EXTINF:-1 tvg-id="1865843041" tvg-name="BABY TV (7)" tvg-logo="" group-title="Netherlands",BABY TV (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1865843041/index.m3u8
 
 #EXTINF:-1 tvg-id="3350752421" tvg-name="BABY TV FHD (7)" tvg-logo="" group-title="France",BABY TV FHD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4974,6 +4974,11 @@ https://vavoo.to/play/2613731614/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/502532410/index.m3u8
 
+#EXTINF:-1 tvg-id="523823815" tvg-name="BBC EARTH HD (1)" tvg-logo="" group-title="Romania",BBC EARTH HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/523823815/index.m3u8
+
 #EXTINF:-1 tvg-id="44931895" tvg-name="BBC EARTH HD (1)" tvg-logo="" group-title="Poland",BBC EARTH HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4983,11 +4988,6 @@ https://vavoo.to/play/44931895/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2228496856/index.m3u8
-
-#EXTINF:-1 tvg-id="523823815" tvg-name="BBC EARTH HD (1)" tvg-logo="" group-title="Romania",BBC EARTH HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/523823815/index.m3u8
 
 #EXTINF:-1 tvg-id="2087989985" tvg-name="BBC ENTERTAINMENT (7)" tvg-logo="" group-title="United Kingdom",BBC ENTERTAINMENT (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -5804,15 +5804,15 @@ https://vavoo.to/play/2576216897/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1352421053/index.m3u8
 
-#EXTINF:-1 tvg-id="372172112" tvg-name="BEIN SPORTS 1 FHD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 FHD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/372172112/index.m3u8
-
 #EXTINF:-1 tvg-id="3472596589" tvg-name="BEIN SPORTS 1 FHD (1)" tvg-logo="" group-title="France",BEIN SPORTS 1 FHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3472596589/index.m3u8
+
+#EXTINF:-1 tvg-id="372172112" tvg-name="BEIN SPORTS 1 FHD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 FHD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/372172112/index.m3u8
 
 #EXTINF:-1 tvg-id="2526338165" tvg-name="BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -5829,15 +5829,15 @@ https://vavoo.to/play/2403425031/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1490095787/index.m3u8
 
-#EXTINF:-1 tvg-id="2155997443" tvg-name="BEIN SPORTS 1 HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2155997443/index.m3u8
-
 #EXTINF:-1 tvg-id="662179620" tvg-name="BEIN SPORTS 1 HD (1)" tvg-logo="" group-title="Turkey",BEIN SPORTS 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/662179620/index.m3u8
+
+#EXTINF:-1 tvg-id="2155997443" tvg-name="BEIN SPORTS 1 HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2155997443/index.m3u8
 
 #EXTINF:-1 tvg-id="782887821" tvg-name="BEIN SPORTS 1 HD (BACKUP 2) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 HD (BACKUP 2) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -6019,11 +6019,6 @@ https://vavoo.to/play/799267221/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/75819853/index.m3u8
 
-#EXTINF:-1 tvg-id="235859680" tvg-name="BEIN SPORTS 2 HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/235859680/index.m3u8
-
 #EXTINF:-1 tvg-id="3596486984" tvg-name="BEIN SPORTS 2 HD (1)" tvg-logo="" group-title="France",BEIN SPORTS 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6033,6 +6028,11 @@ https://vavoo.to/play/3596486984/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2851539143/index.m3u8
+
+#EXTINF:-1 tvg-id="235859680" tvg-name="BEIN SPORTS 2 HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/235859680/index.m3u8
 
 #EXTINF:-1 tvg-id="576693993" tvg-name="BEIN SPORTS 2 HD (7)" tvg-logo="" group-title="France",BEIN SPORTS 2 HD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -6154,25 +6154,25 @@ https://vavoo.to/play/304004863/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2834514943/index.m3u8
 
-#EXTINF:-1 tvg-id="2740779921" tvg-name="BEIN SPORTS 3 (BACKUP) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 (BACKUP) (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2740779921/index.m3u8
-
 #EXTINF:-1 tvg-id="2221938935" tvg-name="BEIN SPORTS 3 (BACKUP) (1)" tvg-logo="" group-title="France",BEIN SPORTS 3 (BACKUP) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2221938935/index.m3u8
 
-#EXTINF:-1 tvg-id="953732566" tvg-name="BEIN SPORTS 3 FHD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 FHD (1)
+#EXTINF:-1 tvg-id="2740779921" tvg-name="BEIN SPORTS 3 (BACKUP) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 (BACKUP) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/953732566/index.m3u8
+https://vavoo.to/play/2740779921/index.m3u8
 
 #EXTINF:-1 tvg-id="3758995179" tvg-name="BEIN SPORTS 3 FHD (1)" tvg-logo="" group-title="France",BEIN SPORTS 3 FHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3758995179/index.m3u8
+
+#EXTINF:-1 tvg-id="953732566" tvg-name="BEIN SPORTS 3 FHD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 FHD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/953732566/index.m3u8
 
 #EXTINF:-1 tvg-id="335544078" tvg-name="BEIN SPORTS 3 FHD (7)" tvg-logo="" group-title="France",BEIN SPORTS 3 FHD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -6184,15 +6184,15 @@ https://vavoo.to/play/335544078/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3265588862/index.m3u8
 
-#EXTINF:-1 tvg-id="452200918" tvg-name="BEIN SPORTS 3 HD (1)" tvg-logo="" group-title="France",BEIN SPORTS 3 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/452200918/index.m3u8
-
 #EXTINF:-1 tvg-id="1700595801" tvg-name="BEIN SPORTS 3 HD (1)" tvg-logo="" group-title="Turkey",BEIN SPORTS 3 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1700595801/index.m3u8
+
+#EXTINF:-1 tvg-id="452200918" tvg-name="BEIN SPORTS 3 HD (1)" tvg-logo="" group-title="France",BEIN SPORTS 3 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/452200918/index.m3u8
 
 #EXTINF:-1 tvg-id="4009076343" tvg-name="BEIN SPORTS 3 HD (7)" tvg-logo="" group-title="France",BEIN SPORTS 3 HD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -8139,15 +8139,15 @@ https://vavoo.to/play/3097266041/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1887937225/index.m3u8
 
-#EXTINF:-1 tvg-id="427820695" tvg-name="BOOMERANG (7)" tvg-logo="" group-title="Russia",BOOMERANG (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/427820695/index.m3u8
-
 #EXTINF:-1 tvg-id="1143040565" tvg-name="BOOMERANG (7)" tvg-logo="" group-title="Germany",BOOMERANG (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1143040565/index.m3u8
+
+#EXTINF:-1 tvg-id="427820695" tvg-name="BOOMERANG (7)" tvg-logo="" group-title="Russia",BOOMERANG (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/427820695/index.m3u8
 
 #EXTINF:-1 tvg-id="4119550063" tvg-name="BOOMERANG (7)" tvg-logo="" group-title="Albania",BOOMERANG (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -8159,15 +8159,15 @@ https://vavoo.to/play/4119550063/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3119534972/index.m3u8
 
-#EXTINF:-1 tvg-id="692523876" tvg-name="BOOMERANG (7)" tvg-logo="" group-title="Romania",BOOMERANG (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/692523876/index.m3u8
-
 #EXTINF:-1 tvg-id="2943974208" tvg-name="BOOMERANG (7)" tvg-logo="" group-title="Turkey",BOOMERANG (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2943974208/index.m3u8
+
+#EXTINF:-1 tvg-id="692523876" tvg-name="BOOMERANG (7)" tvg-logo="" group-title="Romania",BOOMERANG (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/692523876/index.m3u8
 
 #EXTINF:-1 tvg-id="1249508039" tvg-name="BOOMERANG (BACKUP) (1)" tvg-logo="" group-title="Germany",BOOMERANG (BACKUP) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9904,11 +9904,6 @@ https://vavoo.to/play/1527236924/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2964642030/index.m3u8
 
-#EXTINF:-1 tvg-id="3047805633" tvg-name="CARTOON NETWORK (1)" tvg-logo="" group-title="France",CARTOON NETWORK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3047805633/index.m3u8
-
 #EXTINF:-1 tvg-id="2359297640" tvg-name="CARTOON NETWORK (1)" tvg-logo="" group-title="Portugal",CARTOON NETWORK (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -9918,6 +9913,11 @@ https://vavoo.to/play/2359297640/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1493324324/index.m3u8
+
+#EXTINF:-1 tvg-id="3047805633" tvg-name="CARTOON NETWORK (1)" tvg-logo="" group-title="France",CARTOON NETWORK (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3047805633/index.m3u8
 
 #EXTINF:-1 tvg-id="1172734405" tvg-name="CARTOON NETWORK (1)" tvg-logo="" group-title="Germany",CARTOON NETWORK (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9949,6 +9949,11 @@ https://vavoo.to/play/2786303319/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2672740913/index.m3u8
 
+#EXTINF:-1 tvg-id="379030969" tvg-name="CARTOON NETWORK (6)" tvg-logo="" group-title="Germany",CARTOON NETWORK (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/379030969/index.m3u8
+
 #EXTINF:-1 tvg-id="948648866" tvg-name="CARTOON NETWORK (6)" tvg-logo="" group-title="Poland",CARTOON NETWORK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -9959,50 +9964,40 @@ https://vavoo.to/play/948648866/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1744435623/index.m3u8
 
-#EXTINF:-1 tvg-id="379030969" tvg-name="CARTOON NETWORK (6)" tvg-logo="" group-title="Germany",CARTOON NETWORK (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/379030969/index.m3u8
-
 #EXTINF:-1 tvg-id="4134081780" tvg-name="CARTOON NETWORK (6)" tvg-logo="" group-title="Bulgaria",CARTOON NETWORK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4134081780/index.m3u8
-
-#EXTINF:-1 tvg-id="2959444159" tvg-name="CARTOON NETWORK (6)" tvg-logo="" group-title="Netherlands",CARTOON NETWORK (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2959444159/index.m3u8
 
 #EXTINF:-1 tvg-id="1696573723" tvg-name="CARTOON NETWORK (6)" tvg-logo="" group-title="Turkey",CARTOON NETWORK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1696573723/index.m3u8
 
-#EXTINF:-1 tvg-id="2984717924" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Germany",CARTOON NETWORK (7)
+#EXTINF:-1 tvg-id="2959444159" tvg-name="CARTOON NETWORK (6)" tvg-logo="" group-title="Netherlands",CARTOON NETWORK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2984717924/index.m3u8
+https://vavoo.to/play/2959444159/index.m3u8
 
 #EXTINF:-1 tvg-id="1289777017" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Italy",CARTOON NETWORK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1289777017/index.m3u8
 
-#EXTINF:-1 tvg-id="179283867" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Netherlands",CARTOON NETWORK (7)
+#EXTINF:-1 tvg-id="2984717924" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Germany",CARTOON NETWORK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/179283867/index.m3u8
-
-#EXTINF:-1 tvg-id="675465038" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Russia",CARTOON NETWORK (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/675465038/index.m3u8
+https://vavoo.to/play/2984717924/index.m3u8
 
 #EXTINF:-1 tvg-id="4201794202" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Balkans",CARTOON NETWORK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4201794202/index.m3u8
+
+#EXTINF:-1 tvg-id="675465038" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Russia",CARTOON NETWORK (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/675465038/index.m3u8
 
 #EXTINF:-1 tvg-id="376803656" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Bulgaria",CARTOON NETWORK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -10013,6 +10008,11 @@ https://vavoo.to/play/376803656/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/478549032/index.m3u8
+
+#EXTINF:-1 tvg-id="179283867" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Netherlands",CARTOON NETWORK (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/179283867/index.m3u8
 
 #EXTINF:-1 tvg-id="3702884132" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Romania",CARTOON NETWORK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -10064,25 +10064,25 @@ https://vavoo.to/play/1332279307/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1987220436/index.m3u8
 
-#EXTINF:-1 tvg-id="620564549" tvg-name="CARTOONITO (6)" tvg-logo="" group-title="Germany",CARTOONITO (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/620564549/index.m3u8
-
 #EXTINF:-1 tvg-id="4129073805" tvg-name="CARTOONITO (6)" tvg-logo="" group-title="France",CARTOONITO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4129073805/index.m3u8
 
-#EXTINF:-1 tvg-id="1624250107" tvg-name="CARTOONITO (6)" tvg-logo="" group-title="Poland",CARTOONITO (6)
+#EXTINF:-1 tvg-id="620564549" tvg-name="CARTOONITO (6)" tvg-logo="" group-title="Germany",CARTOONITO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1624250107/index.m3u8
+https://vavoo.to/play/620564549/index.m3u8
 
 #EXTINF:-1 tvg-id="178755989" tvg-name="CARTOONITO (6)" tvg-logo="" group-title="Turkey",CARTOONITO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/178755989/index.m3u8
+
+#EXTINF:-1 tvg-id="1624250107" tvg-name="CARTOONITO (6)" tvg-logo="" group-title="Poland",CARTOONITO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1624250107/index.m3u8
 
 #EXTINF:-1 tvg-id="3955498624" tvg-name="CARTOONITO (6)" tvg-logo="" group-title="Netherlands",CARTOONITO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -10224,15 +10224,15 @@ https://vavoo.to/play/2823044667/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3988617284/index.m3u8
 
-#EXTINF:-1 tvg-id="2672851185" tvg-name="CBEEBIES HD (1)" tvg-logo="" group-title="Turkey",CBEEBIES HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2672851185/index.m3u8
-
 #EXTINF:-1 tvg-id="2864300246" tvg-name="CBEEBIES HD (1)" tvg-logo="" group-title="United Kingdom",CBEEBIES HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2864300246/index.m3u8
+
+#EXTINF:-1 tvg-id="2672851185" tvg-name="CBEEBIES HD (1)" tvg-logo="" group-title="Turkey",CBEEBIES HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2672851185/index.m3u8
 
 #EXTINF:-1 tvg-id="3044753320" tvg-name="CBS ACTION (7)" tvg-logo="" group-title="United Kingdom",CBS ACTION (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11004,25 +11004,25 @@ https://vavoo.to/play/1989623711/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2636960944/index.m3u8
 
-#EXTINF:-1 tvg-id="3988717339" tvg-name="CINEMAX 2 (6)" tvg-logo="" group-title="Bulgaria",CINEMAX 2 (6)
+#EXTINF:-1 tvg-id="2937823354" tvg-name="CINEMAX 2 (6)" tvg-logo="" group-title="Albania",CINEMAX 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3988717339/index.m3u8
+https://vavoo.to/play/2937823354/index.m3u8
 
 #EXTINF:-1 tvg-id="858985043" tvg-name="CINEMAX 2 (6)" tvg-logo="" group-title="Balkans",CINEMAX 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/858985043/index.m3u8
 
-#EXTINF:-1 tvg-id="2937823354" tvg-name="CINEMAX 2 (6)" tvg-logo="" group-title="Albania",CINEMAX 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2937823354/index.m3u8
-
 #EXTINF:-1 tvg-id="932863820" tvg-name="CINEMAX 2 (6)" tvg-logo="" group-title="Poland",CINEMAX 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/932863820/index.m3u8
+
+#EXTINF:-1 tvg-id="3988717339" tvg-name="CINEMAX 2 (6)" tvg-logo="" group-title="Bulgaria",CINEMAX 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3988717339/index.m3u8
 
 #EXTINF:-1 tvg-id="825705807" tvg-name="CINEMAX 2 (7)" tvg-logo="" group-title="Balkans",CINEMAX 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11054,15 +11054,15 @@ https://vavoo.to/play/329503571/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1249066248/index.m3u8
 
-#EXTINF:-1 tvg-id="484011633" tvg-name="CINEMAX HD (1)" tvg-logo="" group-title="Romania",CINEMAX HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/484011633/index.m3u8
-
 #EXTINF:-1 tvg-id="2136721351" tvg-name="CINEMAX HD (1)" tvg-logo="" group-title="Poland",CINEMAX HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2136721351/index.m3u8
+
+#EXTINF:-1 tvg-id="484011633" tvg-name="CINEMAX HD (1)" tvg-logo="" group-title="Romania",CINEMAX HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/484011633/index.m3u8
 
 #EXTINF:-1 tvg-id="3933402174" tvg-name="CINEMAX POLAND 1 FHD (1)" tvg-logo="" group-title="Poland",CINEMAX POLAND 1 FHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11234,15 +11234,15 @@ https://vavoo.to/play/993512041/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3677791084/index.m3u8
 
-#EXTINF:-1 tvg-id="2669560148" tvg-name="CINESTAR TV 1 (6)" tvg-logo="" group-title="Balkans",CINESTAR TV 1 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2669560148/index.m3u8
-
 #EXTINF:-1 tvg-id="538638939" tvg-name="CINESTAR TV 1 (6)" tvg-logo="" group-title="Albania",CINESTAR TV 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/538638939/index.m3u8
+
+#EXTINF:-1 tvg-id="2669560148" tvg-name="CINESTAR TV 1 (6)" tvg-logo="" group-title="Balkans",CINESTAR TV 1 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2669560148/index.m3u8
 
 #EXTINF:-1 tvg-id="3636345732" tvg-name="CINESTAR TV 2 (6)" tvg-logo="" group-title="Balkans",CINESTAR TV 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11259,40 +11259,40 @@ https://vavoo.to/play/1740275851/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4087852378/index.m3u8
 
-#EXTINF:-1 tvg-id="3735821845" tvg-name="CINESTAR TV ACTION (6)" tvg-logo="" group-title="Balkans",CINESTAR TV ACTION (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3735821845/index.m3u8
-
 #EXTINF:-1 tvg-id="4074461940" tvg-name="CINESTAR TV ACTION (6)" tvg-logo="" group-title="Albania",CINESTAR TV ACTION (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4074461940/index.m3u8
+
+#EXTINF:-1 tvg-id="3735821845" tvg-name="CINESTAR TV ACTION (6)" tvg-logo="" group-title="Balkans",CINESTAR TV ACTION (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3735821845/index.m3u8
 
 #EXTINF:-1 tvg-id="206144248" tvg-name="CINESTAR TV COMEDY (6)" tvg-logo="" group-title="Albania",CINESTAR TV COMEDY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/206144248/index.m3u8
 
-#EXTINF:-1 tvg-id="3576189761" tvg-name="CINESTAR TV PREMIERE 1 (6)" tvg-logo="" group-title="Balkans",CINESTAR TV PREMIERE 1 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3576189761/index.m3u8
-
 #EXTINF:-1 tvg-id="2665403346" tvg-name="CINESTAR TV PREMIERE 1 (6)" tvg-logo="" group-title="Albania",CINESTAR TV PREMIERE 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2665403346/index.m3u8
 
-#EXTINF:-1 tvg-id="2458397073" tvg-name="CINESTAR TV PREMIERE 2 (6)" tvg-logo="" group-title="Balkans",CINESTAR TV PREMIERE 2 (6)
+#EXTINF:-1 tvg-id="3576189761" tvg-name="CINESTAR TV PREMIERE 1 (6)" tvg-logo="" group-title="Balkans",CINESTAR TV PREMIERE 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2458397073/index.m3u8
+https://vavoo.to/play/3576189761/index.m3u8
 
 #EXTINF:-1 tvg-id="3648956674" tvg-name="CINESTAR TV PREMIERE 2 (6)" tvg-logo="" group-title="Albania",CINESTAR TV PREMIERE 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3648956674/index.m3u8
+
+#EXTINF:-1 tvg-id="2458397073" tvg-name="CINESTAR TV PREMIERE 2 (6)" tvg-logo="" group-title="Balkans",CINESTAR TV PREMIERE 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2458397073/index.m3u8
 
 #EXTINF:-1 tvg-id="3142520812" tvg-name="CITV (7)" tvg-logo="" group-title="United Kingdom",CITV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11309,30 +11309,30 @@ https://vavoo.to/play/648671223/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/24744607/index.m3u8
 
-#EXTINF:-1 tvg-id="2973823362" tvg-name="CITY TV (6)" tvg-logo="" group-title="Albania",CITY TV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2973823362/index.m3u8
-
 #EXTINF:-1 tvg-id="2973008054" tvg-name="CITY TV (6)" tvg-logo="" group-title="Balkans",CITY TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2973008054/index.m3u8
+
+#EXTINF:-1 tvg-id="2973823362" tvg-name="CITY TV (6)" tvg-logo="" group-title="Albania",CITY TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2973823362/index.m3u8
 
 #EXTINF:-1 tvg-id="3253967644" tvg-name="CITY TV (6)" tvg-logo="" group-title="Bulgaria",CITY TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3253967644/index.m3u8
 
-#EXTINF:-1 tvg-id="3324742664" tvg-name="CITY TV (7)" tvg-logo="" group-title="Bulgaria",CITY TV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3324742664/index.m3u8
-
 #EXTINF:-1 tvg-id="1794870373" tvg-name="CITY TV (7)" tvg-logo="" group-title="Balkans",CITY TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1794870373/index.m3u8
+
+#EXTINF:-1 tvg-id="3324742664" tvg-name="CITY TV (7)" tvg-logo="" group-title="Bulgaria",CITY TV (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3324742664/index.m3u8
 
 #EXTINF:-1 tvg-id="1787821393" tvg-name="CITY TV (7)" tvg-logo="" group-title="Albania",CITY TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11599,15 +11599,15 @@ https://vavoo.to/play/373766808/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2567606669/index.m3u8
 
-#EXTINF:-1 tvg-id="100496654" tvg-name="COMEDY CENTRAL (6)" tvg-logo="" group-title="Germany",COMEDY CENTRAL (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/100496654/index.m3u8
-
 #EXTINF:-1 tvg-id="1366669684" tvg-name="COMEDY CENTRAL (6)" tvg-logo="" group-title="France",COMEDY CENTRAL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1366669684/index.m3u8
+
+#EXTINF:-1 tvg-id="100496654" tvg-name="COMEDY CENTRAL (6)" tvg-logo="" group-title="Germany",COMEDY CENTRAL (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/100496654/index.m3u8
 
 #EXTINF:-1 tvg-id="2907107187" tvg-name="COMEDY CENTRAL (6)" tvg-logo="" group-title="Poland",COMEDY CENTRAL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11634,25 +11634,25 @@ https://vavoo.to/play/1269765291/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2086979645/index.m3u8
 
-#EXTINF:-1 tvg-id="612786605" tvg-name="COMEDY CENTRAL (7)" tvg-logo="" group-title="United Kingdom",COMEDY CENTRAL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/612786605/index.m3u8
-
-#EXTINF:-1 tvg-id="2053910442" tvg-name="COMEDY CENTRAL (7)" tvg-logo="" group-title="France",COMEDY CENTRAL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2053910442/index.m3u8
-
 #EXTINF:-1 tvg-id="4079575848" tvg-name="COMEDY CENTRAL (7)" tvg-logo="" group-title="Romania",COMEDY CENTRAL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4079575848/index.m3u8
 
+#EXTINF:-1 tvg-id="612786605" tvg-name="COMEDY CENTRAL (7)" tvg-logo="" group-title="United Kingdom",COMEDY CENTRAL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/612786605/index.m3u8
+
 #EXTINF:-1 tvg-id="433893159" tvg-name="COMEDY CENTRAL (7)" tvg-logo="" group-title="Italy",COMEDY CENTRAL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/433893159/index.m3u8
+
+#EXTINF:-1 tvg-id="2053910442" tvg-name="COMEDY CENTRAL (7)" tvg-logo="" group-title="France",COMEDY CENTRAL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2053910442/index.m3u8
 
 #EXTINF:-1 tvg-id="1068119176" tvg-name="COMEDY CENTRAL (7)" tvg-logo="" group-title="Netherlands",COMEDY CENTRAL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11834,15 +11834,15 @@ https://vavoo.to/play/2364923189/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2332499529/index.m3u8
 
-#EXTINF:-1 tvg-id="3588471466" tvg-name="CRIME DISTRICT (6)" tvg-logo="" group-title="Portugal",CRIME DISTRICT (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3588471466/index.m3u8
-
 #EXTINF:-1 tvg-id="4175356411" tvg-name="CRIME DISTRICT (6)" tvg-logo="" group-title="Spain",CRIME DISTRICT (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4175356411/index.m3u8
+
+#EXTINF:-1 tvg-id="3588471466" tvg-name="CRIME DISTRICT (6)" tvg-logo="" group-title="Portugal",CRIME DISTRICT (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3588471466/index.m3u8
 
 #EXTINF:-1 tvg-id="2686355607" tvg-name="CRIME DISTRICT (7)" tvg-logo="" group-title="France",CRIME DISTRICT (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11984,15 +11984,15 @@ https://vavoo.to/play/1100598548/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2801631824/index.m3u8
 
-#EXTINF:-1 tvg-id="2301026606" tvg-name="DA VINCI (6)" tvg-logo="" group-title="Balkans",DA VINCI (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2301026606/index.m3u8
-
 #EXTINF:-1 tvg-id="2205765331" tvg-name="DA VINCI (6)" tvg-logo="" group-title="Turkey",DA VINCI (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2205765331/index.m3u8
+
+#EXTINF:-1 tvg-id="2301026606" tvg-name="DA VINCI (6)" tvg-logo="" group-title="Balkans",DA VINCI (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2301026606/index.m3u8
 
 #EXTINF:-1 tvg-id="3663650028" tvg-name="DA VINCI KIDS (6)" tvg-logo="" group-title="Poland",DA VINCI KIDS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -12234,15 +12234,15 @@ https://vavoo.to/play/2117365693/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2745635299/index.m3u8
 
-#EXTINF:-1 tvg-id="263339334" tvg-name="DAZN 1 (6)" tvg-logo="" group-title="Germany",DAZN 1 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/263339334/index.m3u8
-
 #EXTINF:-1 tvg-id="3567590597" tvg-name="DAZN 1 (6)" tvg-logo="" group-title="France",DAZN 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3567590597/index.m3u8
+
+#EXTINF:-1 tvg-id="263339334" tvg-name="DAZN 1 (6)" tvg-logo="" group-title="Germany",DAZN 1 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/263339334/index.m3u8
 
 #EXTINF:-1 tvg-id="2941093452" tvg-name="DAZN 1 (6)" tvg-logo="" group-title="Spain",DAZN 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -12329,11 +12329,6 @@ https://vavoo.to/play/3336673893/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2331252043/index.m3u8
 
-#EXTINF:-1 tvg-id="1209157526" tvg-name="DAZN 2 (6)" tvg-logo="" group-title="Germany",DAZN 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1209157526/index.m3u8
-
 #EXTINF:-1 tvg-id="3907910812" tvg-name="DAZN 2 (6)" tvg-logo="" group-title="Spain",DAZN 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -12343,6 +12338,11 @@ https://vavoo.to/play/3907910812/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/363506221/index.m3u8
+
+#EXTINF:-1 tvg-id="1209157526" tvg-name="DAZN 2 (6)" tvg-logo="" group-title="Germany",DAZN 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1209157526/index.m3u8
 
 #EXTINF:-1 tvg-id="1389052779" tvg-name="DAZN 2 (7)" tvg-logo="" group-title="Germany",DAZN 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13189,15 +13189,15 @@ https://vavoo.to/play/1469133702/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/81805306/index.m3u8
 
-#EXTINF:-1 tvg-id="2556336719" tvg-name="DISCOVERY (1)" tvg-logo="" group-title="Balkans",DISCOVERY (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2556336719/index.m3u8
-
 #EXTINF:-1 tvg-id="3051100732" tvg-name="DISCOVERY (1)" tvg-logo="" group-title="Germany",DISCOVERY (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3051100732/index.m3u8
+
+#EXTINF:-1 tvg-id="2556336719" tvg-name="DISCOVERY (1)" tvg-logo="" group-title="Balkans",DISCOVERY (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2556336719/index.m3u8
 
 #EXTINF:-1 tvg-id="3547398786" tvg-name="DISCOVERY CHANNEL (1)" tvg-logo="" group-title="Spain",DISCOVERY CHANNEL (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13239,16 +13239,6 @@ https://vavoo.to/play/3404543565/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3988084672/index.m3u8
 
-#EXTINF:-1 tvg-id="1337595654" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Bulgaria",DISCOVERY CHANNEL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1337595654/index.m3u8
-
-#EXTINF:-1 tvg-id="1915112508" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Romania",DISCOVERY CHANNEL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1915112508/index.m3u8
-
 #EXTINF:-1 tvg-id="3554841914" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Italy",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -13259,20 +13249,30 @@ https://vavoo.to/play/3554841914/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3079995901/index.m3u8
 
+#EXTINF:-1 tvg-id="1337595654" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Bulgaria",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1337595654/index.m3u8
+
 #EXTINF:-1 tvg-id="1131363710" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Albania",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1131363710/index.m3u8
 
-#EXTINF:-1 tvg-id="706021529" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Netherlands",DISCOVERY CHANNEL (7)
+#EXTINF:-1 tvg-id="1915112508" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Romania",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/706021529/index.m3u8
+https://vavoo.to/play/1915112508/index.m3u8
 
 #EXTINF:-1 tvg-id="3783739771" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="United Kingdom",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3783739771/index.m3u8
+
+#EXTINF:-1 tvg-id="706021529" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Netherlands",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/706021529/index.m3u8
 
 #EXTINF:-1 tvg-id="2615704182" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Russia",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13289,15 +13289,15 @@ https://vavoo.to/play/3099080474/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4284671088/index.m3u8
 
-#EXTINF:-1 tvg-id="1866716904" tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Romania",DISCOVERY CHANNEL HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1866716904/index.m3u8
-
 #EXTINF:-1 tvg-id="783187914" tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Portugal",DISCOVERY CHANNEL HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/783187914/index.m3u8
+
+#EXTINF:-1 tvg-id="1866716904" tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Romania",DISCOVERY CHANNEL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1866716904/index.m3u8
 
 #EXTINF:-1 tvg-id="695705778" tvg-name="DISCOVERY CHANNEL HD+ (1)" tvg-logo="" group-title="Turkey",DISCOVERY CHANNEL HD+ (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13504,11 +13504,6 @@ https://vavoo.to/play/2701145683/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4026890856/index.m3u8
 
-#EXTINF:-1 tvg-id="3698852323" tvg-name="DISCOVERY SCIENCE (7)" tvg-logo="" group-title="Turkey",DISCOVERY SCIENCE (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3698852323/index.m3u8
-
 #EXTINF:-1 tvg-id="2322221413" tvg-name="DISCOVERY SCIENCE (7)" tvg-logo="" group-title="United Kingdom",DISCOVERY SCIENCE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -13518,6 +13513,11 @@ https://vavoo.to/play/2322221413/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1106774151/index.m3u8
+
+#EXTINF:-1 tvg-id="3698852323" tvg-name="DISCOVERY SCIENCE (7)" tvg-logo="" group-title="Turkey",DISCOVERY SCIENCE (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3698852323/index.m3u8
 
 #EXTINF:-1 tvg-id="2253936606" tvg-name="DISCOVERY SCIENCE (7)" tvg-logo="" group-title="Balkans",DISCOVERY SCIENCE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13579,11 +13579,6 @@ https://vavoo.to/play/903422160/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/453891919/index.m3u8
 
-#EXTINF:-1 tvg-id="1041357840" tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Spain",DISCOVERY WORLD (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1041357840/index.m3u8
-
 #EXTINF:-1 tvg-id="2877933473" tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Germany",DISCOVERY WORLD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -13593,6 +13588,11 @@ https://vavoo.to/play/2877933473/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/575701033/index.m3u8
+
+#EXTINF:-1 tvg-id="1041357840" tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Spain",DISCOVERY WORLD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1041357840/index.m3u8
 
 #EXTINF:-1 tvg-id="2241163706" tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Poland",DISCOVERY WORLD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13604,15 +13604,15 @@ https://vavoo.to/play/2241163706/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3759973215/index.m3u8
 
-#EXTINF:-1 tvg-id="3624002307" tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Turkey",DISCOVERY WORLD (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3624002307/index.m3u8
-
 #EXTINF:-1 tvg-id="226214567" tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Netherlands",DISCOVERY WORLD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/226214567/index.m3u8
+
+#EXTINF:-1 tvg-id="3624002307" tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Turkey",DISCOVERY WORLD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3624002307/index.m3u8
 
 #EXTINF:-1 tvg-id="1266114284" tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Bulgaria",DISCOVERY WORLD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13639,15 +13639,15 @@ https://vavoo.to/play/1846596197/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1762694647/index.m3u8
 
-#EXTINF:-1 tvg-id="3093326914" tvg-name="DISNEY CHANNEL (1)" tvg-logo="" group-title="Balkans",DISNEY CHANNEL (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3093326914/index.m3u8
-
 #EXTINF:-1 tvg-id="701551975" tvg-name="DISNEY CHANNEL (1)" tvg-logo="" group-title="Germany",DISNEY CHANNEL (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/701551975/index.m3u8
+
+#EXTINF:-1 tvg-id="3093326914" tvg-name="DISNEY CHANNEL (1)" tvg-logo="" group-title="Balkans",DISNEY CHANNEL (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3093326914/index.m3u8
 
 #EXTINF:-1 tvg-id="1668808212" tvg-name="DISNEY CHANNEL (1)" tvg-logo="" group-title="Portugal",DISNEY CHANNEL (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13664,30 +13664,30 @@ https://vavoo.to/play/2795339378/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2707576374/index.m3u8
 
-#EXTINF:-1 tvg-id="1140008898" tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="Germany",DISNEY CHANNEL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1140008898/index.m3u8
-
 #EXTINF:-1 tvg-id="1174126677" tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="France",DISNEY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1174126677/index.m3u8
+
+#EXTINF:-1 tvg-id="1140008898" tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="Germany",DISNEY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1140008898/index.m3u8
 
 #EXTINF:-1 tvg-id="454135378" tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="United Kingdom",DISNEY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/454135378/index.m3u8
 
-#EXTINF:-1 tvg-id="4053879" tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="Netherlands",DISNEY CHANNEL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4053879/index.m3u8
-
 #EXTINF:-1 tvg-id="1161899432" tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="Turkey",DISNEY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1161899432/index.m3u8
+
+#EXTINF:-1 tvg-id="4053879" tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="Netherlands",DISNEY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4053879/index.m3u8
 
 #EXTINF:-1 tvg-id="3435039959" tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="Romania",DISNEY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13794,15 +13794,15 @@ https://vavoo.to/play/1772892321/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1244883752/index.m3u8
 
-#EXTINF:-1 tvg-id="771141542" tvg-name="DISNEY JUNIOR (1)" tvg-logo="" group-title="Portugal",DISNEY JUNIOR (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/771141542/index.m3u8
-
 #EXTINF:-1 tvg-id="3236761715" tvg-name="DISNEY JUNIOR (1)" tvg-logo="" group-title="Poland",DISNEY JUNIOR (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3236761715/index.m3u8
+
+#EXTINF:-1 tvg-id="771141542" tvg-name="DISNEY JUNIOR (1)" tvg-logo="" group-title="Portugal",DISNEY JUNIOR (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/771141542/index.m3u8
 
 #EXTINF:-1 tvg-id="2102228766" tvg-name="DISNEY JUNIOR (1)" tvg-logo="" group-title="Romania",DISNEY JUNIOR (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13869,15 +13869,15 @@ https://vavoo.to/play/4072150322/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2749392374/index.m3u8
 
-#EXTINF:-1 tvg-id="99224805" tvg-name="DISNEY XD (1)" tvg-logo="" group-title="Poland",DISNEY XD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/99224805/index.m3u8
-
 #EXTINF:-1 tvg-id="3237934255" tvg-name="DISNEY XD (1)" tvg-logo="" group-title="France",DISNEY XD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3237934255/index.m3u8
+
+#EXTINF:-1 tvg-id="99224805" tvg-name="DISNEY XD (1)" tvg-logo="" group-title="Poland",DISNEY XD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/99224805/index.m3u8
 
 #EXTINF:-1 tvg-id="1643297871" tvg-name="DISNEY XD (1)" tvg-logo="" group-title="United Kingdom",DISNEY XD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13954,15 +13954,15 @@ https://vavoo.to/play/765940213/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1212461086/index.m3u8
 
-#EXTINF:-1 tvg-id="1808512931" tvg-name="DIVA (7)" tvg-logo="" group-title="Albania",DIVA (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1808512931/index.m3u8
-
 #EXTINF:-1 tvg-id="926783964" tvg-name="DIVA (7)" tvg-logo="" group-title="Balkans",DIVA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/926783964/index.m3u8
+
+#EXTINF:-1 tvg-id="1808512931" tvg-name="DIVA (7)" tvg-logo="" group-title="Albania",DIVA (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1808512931/index.m3u8
 
 #EXTINF:-1 tvg-id="2174062060" tvg-name="DIVA CHANNEL (7)" tvg-logo="" group-title="Romania",DIVA CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -14064,15 +14064,15 @@ https://vavoo.to/play/3975279875/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/635686224/index.m3u8
 
-#EXTINF:-1 tvg-id="3008151733" tvg-name="DMAX (6)" tvg-logo="" group-title="Italy",DMAX (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3008151733/index.m3u8
-
 #EXTINF:-1 tvg-id="1934981639" tvg-name="DMAX (6)" tvg-logo="" group-title="Spain",DMAX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1934981639/index.m3u8
+
+#EXTINF:-1 tvg-id="3008151733" tvg-name="DMAX (6)" tvg-logo="" group-title="Italy",DMAX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3008151733/index.m3u8
 
 #EXTINF:-1 tvg-id="3157210436" tvg-name="DMAX (6)" tvg-logo="" group-title="Turkey",DMAX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -14084,15 +14084,15 @@ https://vavoo.to/play/3157210436/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1520100498/index.m3u8
 
-#EXTINF:-1 tvg-id="2850951087" tvg-name="DMAX (7)" tvg-logo="" group-title="United Kingdom",DMAX (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2850951087/index.m3u8
-
 #EXTINF:-1 tvg-id="3803638765" tvg-name="DMAX (7)" tvg-logo="" group-title="Italy",DMAX (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3803638765/index.m3u8
+
+#EXTINF:-1 tvg-id="2850951087" tvg-name="DMAX (7)" tvg-logo="" group-title="United Kingdom",DMAX (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2850951087/index.m3u8
 
 #EXTINF:-1 tvg-id="3239529951" tvg-name="DMAX (7)" tvg-logo="" group-title="Turkey",DMAX (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -14189,15 +14189,15 @@ https://vavoo.to/play/3126312793/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/280202434/index.m3u8
 
-#EXTINF:-1 tvg-id="3222785648" tvg-name="DOCUBOX (6)" tvg-logo="" group-title="Balkans",DOCUBOX (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3222785648/index.m3u8
-
 #EXTINF:-1 tvg-id="3227762500" tvg-name="DOCUBOX (6)" tvg-logo="" group-title="Albania",DOCUBOX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3227762500/index.m3u8
+
+#EXTINF:-1 tvg-id="3222785648" tvg-name="DOCUBOX (6)" tvg-logo="" group-title="Balkans",DOCUBOX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3222785648/index.m3u8
 
 #EXTINF:-1 tvg-id="2669024510" tvg-name="DOCUBOX (6)" tvg-logo="" group-title="Turkey",DOCUBOX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -14794,11 +14794,6 @@ https://vavoo.to/play/2635838576/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3093319007/index.m3u8
 
-#EXTINF:-1 tvg-id="486015393" tvg-name="E! (6)" tvg-logo="" group-title="Netherlands",E! (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/486015393/index.m3u8
-
 #EXTINF:-1 tvg-id="961489161" tvg-name="E! (6)" tvg-logo="" group-title="Poland",E! (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -14808,6 +14803,11 @@ https://vavoo.to/play/961489161/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1514394123/index.m3u8
+
+#EXTINF:-1 tvg-id="486015393" tvg-name="E! (6)" tvg-logo="" group-title="Netherlands",E! (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/486015393/index.m3u8
 
 #EXTINF:-1 tvg-id="2660013108" tvg-name="E! (7)" tvg-logo="" group-title="United Kingdom",E! (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -15189,15 +15189,15 @@ https://vavoo.to/play/4171204086/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1599763557/index.m3u8
 
-#EXTINF:-1 tvg-id="3294572902" tvg-name="ELEVEN SPORTS 1 HD (1)" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3294572902/index.m3u8
-
 #EXTINF:-1 tvg-id="1006132915" tvg-name="ELEVEN SPORTS 1 HD (1)" tvg-logo="" group-title="Poland",ELEVEN SPORTS 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1006132915/index.m3u8
+
+#EXTINF:-1 tvg-id="3294572902" tvg-name="ELEVEN SPORTS 1 HD (1)" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 1 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3294572902/index.m3u8
 
 #EXTINF:-1 tvg-id="1255821242" tvg-name="ELEVEN SPORTS 1 HD (BACKUP) (1)" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 1 HD (BACKUP) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -15279,15 +15279,15 @@ https://vavoo.to/play/2545613589/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/813632134/index.m3u8
 
-#EXTINF:-1 tvg-id="2361343746" tvg-name="ELEVEN SPORTS 4 HD (1)" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 4 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2361343746/index.m3u8
-
 #EXTINF:-1 tvg-id="1930973399" tvg-name="ELEVEN SPORTS 4 HD (1)" tvg-logo="" group-title="Poland",ELEVEN SPORTS 4 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1930973399/index.m3u8
+
+#EXTINF:-1 tvg-id="2361343746" tvg-name="ELEVEN SPORTS 4 HD (1)" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 4 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2361343746/index.m3u8
 
 #EXTINF:-1 tvg-id="3195314998" tvg-name="ELEVEN SPORTS 4 HD (BACKUP) (1)" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 4 HD (BACKUP) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -15754,15 +15754,15 @@ https://vavoo.to/play/3525104604/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1812508372/index.m3u8
 
-#EXTINF:-1 tvg-id="3630254351" tvg-name="ESPN (6)" tvg-logo="" group-title="Arabia",ESPN (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3630254351/index.m3u8
-
 #EXTINF:-1 tvg-id="1484494458" tvg-name="ESPN (6)" tvg-logo="" group-title="Netherlands",ESPN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1484494458/index.m3u8
+
+#EXTINF:-1 tvg-id="3630254351" tvg-name="ESPN (6)" tvg-logo="" group-title="Arabia",ESPN (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3630254351/index.m3u8
 
 #EXTINF:-1 tvg-id="2939432470" tvg-name="ESPN (6)" tvg-logo="" group-title="Spain",ESPN (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16029,15 +16029,15 @@ https://vavoo.to/play/1136778023/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3272720417/index.m3u8
 
-#EXTINF:-1 tvg-id="174481627" tvg-name="EURONEWS (7)" tvg-logo="" group-title="Russia",EURONEWS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/174481627/index.m3u8
-
 #EXTINF:-1 tvg-id="2022472244" tvg-name="EURONEWS (7)" tvg-logo="" group-title="Romania",EURONEWS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2022472244/index.m3u8
+
+#EXTINF:-1 tvg-id="174481627" tvg-name="EURONEWS (7)" tvg-logo="" group-title="Russia",EURONEWS (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/174481627/index.m3u8
 
 #EXTINF:-1 tvg-id="8159165" tvg-name="EURONEWS DEUTSCH HD (1)" tvg-logo="" group-title="Germany",EURONEWS DEUTSCH HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16059,20 +16059,15 @@ https://vavoo.to/play/1584186306/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2111780042/index.m3u8
 
-#EXTINF:-1 tvg-id="2935192752" tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="France",EUROSPORT 1 (1)
+#EXTINF:-1 tvg-id="2290804722" tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2935192752/index.m3u8
+https://vavoo.to/play/2290804722/index.m3u8
 
 #EXTINF:-1 tvg-id="2549518439" tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="Portugal",EUROSPORT 1 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2549518439/index.m3u8
-
-#EXTINF:-1 tvg-id="2290804722" tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2290804722/index.m3u8
 
 #EXTINF:-1 tvg-id="2423006885" tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="Spain",EUROSPORT 1 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16084,40 +16079,45 @@ https://vavoo.to/play/2423006885/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/386098181/index.m3u8
 
+#EXTINF:-1 tvg-id="2935192752" tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="France",EUROSPORT 1 (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2935192752/index.m3u8
+
 #EXTINF:-1 tvg-id="932736266" tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="Albania",EUROSPORT 1 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/932736266/index.m3u8
 
-#EXTINF:-1 tvg-id="1222315896" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Germany",EUROSPORT 1 (6)
+#EXTINF:-1 tvg-id="3481346857" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Italy",EUROSPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1222315896/index.m3u8
+https://vavoo.to/play/3481346857/index.m3u8
 
-#EXTINF:-1 tvg-id="3632748102" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Spain",EUROSPORT 1 (6)
+#EXTINF:-1 tvg-id="3458631461" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Turkey",EUROSPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3632748102/index.m3u8
-
-#EXTINF:-1 tvg-id="2708573167" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Balkans",EUROSPORT 1 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2708573167/index.m3u8
+https://vavoo.to/play/3458631461/index.m3u8
 
 #EXTINF:-1 tvg-id="3719734336" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="France",EUROSPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3719734336/index.m3u8
 
-#EXTINF:-1 tvg-id="3227015820" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Albania",EUROSPORT 1 (6)
+#EXTINF:-1 tvg-id="1222315896" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Germany",EUROSPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3227015820/index.m3u8
+https://vavoo.to/play/1222315896/index.m3u8
 
-#EXTINF:-1 tvg-id="3481346857" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Italy",EUROSPORT 1 (6)
+#EXTINF:-1 tvg-id="2708573167" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Balkans",EUROSPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3481346857/index.m3u8
+https://vavoo.to/play/2708573167/index.m3u8
+
+#EXTINF:-1 tvg-id="3632748102" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Spain",EUROSPORT 1 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3632748102/index.m3u8
 
 #EXTINF:-1 tvg-id="1682357493" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Poland",EUROSPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16129,10 +16129,10 @@ https://vavoo.to/play/1682357493/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3654612487/index.m3u8
 
-#EXTINF:-1 tvg-id="3458631461" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Turkey",EUROSPORT 1 (6)
+#EXTINF:-1 tvg-id="3227015820" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Albania",EUROSPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3458631461/index.m3u8
+https://vavoo.to/play/3227015820/index.m3u8
 
 #EXTINF:-1 tvg-id="1198132906" tvg-name="EUROSPORT 1 (6)" tvg-logo="" group-title="Bulgaria",EUROSPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16143,11 +16143,6 @@ https://vavoo.to/play/1198132906/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2736390217/index.m3u8
-
-#EXTINF:-1 tvg-id="3448075317" tvg-name="EUROSPORT 1 (7)" tvg-logo="" group-title="Italy",EUROSPORT 1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3448075317/index.m3u8
 
 #EXTINF:-1 tvg-id="1921488806" tvg-name="EUROSPORT 1 (7)" tvg-logo="" group-title="Albania",EUROSPORT 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16164,10 +16159,10 @@ https://vavoo.to/play/3513558830/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/330188485/index.m3u8
 
-#EXTINF:-1 tvg-id="3271328843" tvg-name="EUROSPORT 1 (7)" tvg-logo="" group-title="Turkey",EUROSPORT 1 (7)
+#EXTINF:-1 tvg-id="3448075317" tvg-name="EUROSPORT 1 (7)" tvg-logo="" group-title="Italy",EUROSPORT 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3271328843/index.m3u8
+https://vavoo.to/play/3448075317/index.m3u8
 
 #EXTINF:-1 tvg-id="3618771655" tvg-name="EUROSPORT 1 (7)" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16178,6 +16173,11 @@ https://vavoo.to/play/3618771655/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/74097556/index.m3u8
+
+#EXTINF:-1 tvg-id="3271328843" tvg-name="EUROSPORT 1 (7)" tvg-logo="" group-title="Turkey",EUROSPORT 1 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3271328843/index.m3u8
 
 #EXTINF:-1 tvg-id="1887242937" tvg-name="EUROSPORT 1 (7)" tvg-logo="" group-title="Romania",EUROSPORT 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16199,35 +16199,35 @@ https://vavoo.to/play/2172924275/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1801327897/index.m3u8
 
-#EXTINF:-1 tvg-id="2540520222" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Poland",EUROSPORT 1 HD (1)
+#EXTINF:-1 tvg-id="1631158010" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Portugal",EUROSPORT 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2540520222/index.m3u8
+https://vavoo.to/play/1631158010/index.m3u8
 
 #EXTINF:-1 tvg-id="1364676535" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Spain",EUROSPORT 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1364676535/index.m3u8
 
+#EXTINF:-1 tvg-id="2540520222" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Poland",EUROSPORT 1 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2540520222/index.m3u8
+
 #EXTINF:-1 tvg-id="2765356700" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Romania",EUROSPORT 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2765356700/index.m3u8
 
-#EXTINF:-1 tvg-id="731796873" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/731796873/index.m3u8
-
-#EXTINF:-1 tvg-id="1631158010" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Portugal",EUROSPORT 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1631158010/index.m3u8
-
 #EXTINF:-1 tvg-id="2737624792" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2737624792/index.m3u8
+
+#EXTINF:-1 tvg-id="731796873" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/731796873/index.m3u8
 
 #EXTINF:-1 tvg-id="3253625485" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Russia",EUROSPORT 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16239,45 +16239,40 @@ https://vavoo.to/play/3253625485/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1988924073/index.m3u8
 
-#EXTINF:-1 tvg-id="1882724314" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="Albania",EUROSPORT 2 (1)
+#EXTINF:-1 tvg-id="3475676450" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1882724314/index.m3u8
+https://vavoo.to/play/3475676450/index.m3u8
 
 #EXTINF:-1 tvg-id="3914532448" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="France",EUROSPORT 2 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3914532448/index.m3u8
 
-#EXTINF:-1 tvg-id="3475676450" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 (1)
+#EXTINF:-1 tvg-id="1882724314" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="Albania",EUROSPORT 2 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3475676450/index.m3u8
+https://vavoo.to/play/1882724314/index.m3u8
 
 #EXTINF:-1 tvg-id="3495357111" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="Portugal",EUROSPORT 2 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3495357111/index.m3u8
 
-#EXTINF:-1 tvg-id="1352867541" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="Poland",EUROSPORT 2 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1352867541/index.m3u8
-
 #EXTINF:-1 tvg-id="3620494453" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="Spain",EUROSPORT 2 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3620494453/index.m3u8
 
+#EXTINF:-1 tvg-id="1352867541" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="Poland",EUROSPORT 2 (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1352867541/index.m3u8
+
 #EXTINF:-1 tvg-id="259749288" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Germany",EUROSPORT 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/259749288/index.m3u8
-
-#EXTINF:-1 tvg-id="2281185372" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Albania",EUROSPORT 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2281185372/index.m3u8
 
 #EXTINF:-1 tvg-id="2307325429" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Turkey",EUROSPORT 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16294,25 +16289,30 @@ https://vavoo.to/play/2283887097/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2670144662/index.m3u8
 
-#EXTINF:-1 tvg-id="3872518463" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Balkans",EUROSPORT 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3872518463/index.m3u8
-
 #EXTINF:-1 tvg-id="2585190032" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="France",EUROSPORT 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2585190032/index.m3u8
 
-#EXTINF:-1 tvg-id="602326565" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Poland",EUROSPORT 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/602326565/index.m3u8
-
 #EXTINF:-1 tvg-id="2658438359" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Portugal",EUROSPORT 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2658438359/index.m3u8
+
+#EXTINF:-1 tvg-id="3872518463" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Balkans",EUROSPORT 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3872518463/index.m3u8
+
+#EXTINF:-1 tvg-id="2281185372" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Albania",EUROSPORT 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2281185372/index.m3u8
+
+#EXTINF:-1 tvg-id="602326565" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Poland",EUROSPORT 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/602326565/index.m3u8
 
 #EXTINF:-1 tvg-id="3837426329" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Netherlands",EUROSPORT 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16329,15 +16329,15 @@ https://vavoo.to/play/13268090/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2530008574/index.m3u8
 
-#EXTINF:-1 tvg-id="2317684453" tvg-name="EUROSPORT 2 (7)" tvg-logo="" group-title="Italy",EUROSPORT 2 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2317684453/index.m3u8
-
 #EXTINF:-1 tvg-id="891809142" tvg-name="EUROSPORT 2 (7)" tvg-logo="" group-title="Albania",EUROSPORT 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/891809142/index.m3u8
+
+#EXTINF:-1 tvg-id="2317684453" tvg-name="EUROSPORT 2 (7)" tvg-logo="" group-title="Italy",EUROSPORT 2 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-id="2417125399" tvg-name="EUROSPORT 2 (7)" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16354,45 +16354,50 @@ https://vavoo.to/play/1410219029/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1137367364/index.m3u8
 
-#EXTINF:-1 tvg-id="937259113" tvg-name="EUROSPORT 2 (7)" tvg-logo="" group-title="Romania",EUROSPORT 2 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/937259113/index.m3u8
-
 #EXTINF:-1 tvg-id="1704007227" tvg-name="EUROSPORT 2 (7)" tvg-logo="" group-title="Russia",EUROSPORT 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1704007227/index.m3u8
 
-#EXTINF:-1 tvg-id="3474692336" tvg-name="EUROSPORT 2 (BACKUP) (1)" tvg-logo="" group-title="Spain",EUROSPORT 2 (BACKUP) (1)
+#EXTINF:-1 tvg-id="937259113" tvg-name="EUROSPORT 2 (7)" tvg-logo="" group-title="Romania",EUROSPORT 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3474692336/index.m3u8
+https://vavoo.to/play/937259113/index.m3u8
 
 #EXTINF:-1 tvg-id="521041364" tvg-name="EUROSPORT 2 (BACKUP) (1)" tvg-logo="" group-title="Portugal",EUROSPORT 2 (BACKUP) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/521041364/index.m3u8
 
+#EXTINF:-1 tvg-id="3474692336" tvg-name="EUROSPORT 2 (BACKUP) (1)" tvg-logo="" group-title="Spain",EUROSPORT 2 (BACKUP) (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3474692336/index.m3u8
+
 #EXTINF:-1 tvg-id="3178954282" tvg-name="EUROSPORT 2 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany",EUROSPORT 2 [LIVE DURING EVENTS ONLY] (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3178954282/index.m3u8
-
-#EXTINF:-1 tvg-id="1309778674" tvg-name="EUROSPORT 2 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Turkey",EUROSPORT 2 [LIVE DURING EVENTS ONLY] (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1309778674/index.m3u8
 
 #EXTINF:-1 tvg-id="1154695860" tvg-name="EUROSPORT 2 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Russia",EUROSPORT 2 [LIVE DURING EVENTS ONLY] (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1154695860/index.m3u8
 
+#EXTINF:-1 tvg-id="1309778674" tvg-name="EUROSPORT 2 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Turkey",EUROSPORT 2 [LIVE DURING EVENTS ONLY] (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1309778674/index.m3u8
+
 #EXTINF:-1 tvg-id="577088535" tvg-name="EUROSPORT 2 FHD (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 FHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/577088535/index.m3u8
+
+#EXTINF:-1 tvg-id="3855684346" tvg-name="EUROSPORT 2 HD (1)" tvg-logo="" group-title="France",EUROSPORT 2 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3855684346/index.m3u8
 
 #EXTINF:-1 tvg-id="2769375850" tvg-name="EUROSPORT 2 HD (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16413,11 +16418,6 @@ https://vavoo.to/play/1331783022/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/765710651/index.m3u8
-
-#EXTINF:-1 tvg-id="3855684346" tvg-name="EUROSPORT 2 HD (1)" tvg-logo="" group-title="France",EUROSPORT 2 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3855684346/index.m3u8
 
 #EXTINF:-1 tvg-id="710736255" tvg-name="EUROSPORT 2 HD (1)" tvg-logo="" group-title="Romania",EUROSPORT 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16859,15 +16859,15 @@ https://vavoo.to/play/3063169030/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3255207570/index.m3u8
 
-#EXTINF:-1 tvg-id="3688799089" tvg-name="FASHIONTV (6)" tvg-logo="" group-title="Portugal",FASHIONTV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3688799089/index.m3u8
-
 #EXTINF:-1 tvg-id="2801564951" tvg-name="FASHIONTV (6)" tvg-logo="" group-title="Netherlands",FASHIONTV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2801564951/index.m3u8
+
+#EXTINF:-1 tvg-id="3688799089" tvg-name="FASHIONTV (6)" tvg-logo="" group-title="Portugal",FASHIONTV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3688799089/index.m3u8
 
 #EXTINF:-1 tvg-id="3597878428" tvg-name="FASIL NEVIZADE GECELERI (1)" tvg-logo="" group-title="Turkey",FASIL NEVIZADE GECELERI (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -17699,15 +17699,15 @@ https://vavoo.to/play/4149449071/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1078526540/index.m3u8
 
-#EXTINF:-1 tvg-id="429517847" tvg-name="FOOD NETWORK (7)" tvg-logo="" group-title="Balkans",FOOD NETWORK (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/429517847/index.m3u8
-
 #EXTINF:-1 tvg-id="4144011582" tvg-name="FOOD NETWORK (7)" tvg-logo="" group-title="Bulgaria",FOOD NETWORK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4144011582/index.m3u8
+
+#EXTINF:-1 tvg-id="429517847" tvg-name="FOOD NETWORK (7)" tvg-logo="" group-title="Balkans",FOOD NETWORK (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/429517847/index.m3u8
 
 #EXTINF:-1 tvg-id="3313401586" tvg-name="FOOD NETWORK (7)" tvg-logo="" group-title="Russia",FOOD NETWORK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -17759,55 +17759,50 @@ https://vavoo.to/play/3085053385/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/445499990/index.m3u8
 
-#EXTINF:-1 tvg-id="3439537805" tvg-name="FOX (6)" tvg-logo="" group-title="Germany",FOX (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3439537805/index.m3u8
-
-#EXTINF:-1 tvg-id="3554318857" tvg-name="FOX (6)" tvg-logo="" group-title="Balkans",FOX (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3554318857/index.m3u8
-
-#EXTINF:-1 tvg-id="145391758" tvg-name="FOX (6)" tvg-logo="" group-title="Turkey",FOX (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/145391758/index.m3u8
-
 #EXTINF:-1 tvg-id="2526994866" tvg-name="FOX (6)" tvg-logo="" group-title="Albania",FOX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2526994866/index.m3u8
-
-#EXTINF:-1 tvg-id="3236112686" tvg-name="FOX (6)" tvg-logo="" group-title="Bulgaria",FOX (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3236112686/index.m3u8
 
 #EXTINF:-1 tvg-id="3362806456" tvg-name="FOX (6)" tvg-logo="" group-title="Spain",FOX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3362806456/index.m3u8
 
-#EXTINF:-1 tvg-id="1498459094" tvg-name="FOX (7)" tvg-logo="" group-title="Turkey",FOX (7)
+#EXTINF:-1 tvg-id="3554318857" tvg-name="FOX (6)" tvg-logo="" group-title="Balkans",FOX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1498459094/index.m3u8
+https://vavoo.to/play/3554318857/index.m3u8
+
+#EXTINF:-1 tvg-id="3439537805" tvg-name="FOX (6)" tvg-logo="" group-title="Germany",FOX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3439537805/index.m3u8
+
+#EXTINF:-1 tvg-id="3236112686" tvg-name="FOX (6)" tvg-logo="" group-title="Bulgaria",FOX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3236112686/index.m3u8
+
+#EXTINF:-1 tvg-id="145391758" tvg-name="FOX (6)" tvg-logo="" group-title="Turkey",FOX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/145391758/index.m3u8
 
 #EXTINF:-1 tvg-id="2934104722" tvg-name="FOX (7)" tvg-logo="" group-title="Balkans",FOX (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2934104722/index.m3u8
 
+#EXTINF:-1 tvg-id="1498459094" tvg-name="FOX (7)" tvg-logo="" group-title="Turkey",FOX (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1498459094/index.m3u8
+
 #EXTINF:-1 tvg-id="589728102" tvg-name="FOX (7)" tvg-logo="" group-title="Russia",FOX (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/589728102/index.m3u8
-
-#EXTINF:-1 tvg-id="563160609" tvg-name="FOX (7)" tvg-logo="" group-title="Italy",FOX (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/563160609/index.m3u8
 
 #EXTINF:-1 tvg-id="3214541036" tvg-name="FOX (7)" tvg-logo="" group-title="Bulgaria",FOX (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -17818,6 +17813,11 @@ https://vavoo.to/play/3214541036/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2107712260/index.m3u8
+
+#EXTINF:-1 tvg-id="563160609" tvg-name="FOX (7)" tvg-logo="" group-title="Italy",FOX (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/563160609/index.m3u8
 
 #EXTINF:-1 tvg-id="579287411" tvg-name="FOX CHANNEL (7)" tvg-logo="" group-title="Netherlands",FOX CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -17864,20 +17864,20 @@ https://vavoo.to/play/1793487407/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/675491150/index.m3u8
 
-#EXTINF:-1 tvg-id="1715237185" tvg-name="FOX CRIME (7)" tvg-logo="" group-title="Bulgaria",FOX CRIME (7)
+#EXTINF:-1 tvg-id="709327442" tvg-name="FOX CRIME (7)" tvg-logo="" group-title="Albania",FOX CRIME (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1715237185/index.m3u8
+https://vavoo.to/play/709327442/index.m3u8
 
 #EXTINF:-1 tvg-id="3060779131" tvg-name="FOX CRIME (7)" tvg-logo="" group-title="Balkans",FOX CRIME (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3060779131/index.m3u8
 
-#EXTINF:-1 tvg-id="709327442" tvg-name="FOX CRIME (7)" tvg-logo="" group-title="Albania",FOX CRIME (7)
+#EXTINF:-1 tvg-id="1715237185" tvg-name="FOX CRIME (7)" tvg-logo="" group-title="Bulgaria",FOX CRIME (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/709327442/index.m3u8
+https://vavoo.to/play/1715237185/index.m3u8
 
 #EXTINF:-1 tvg-id="1890933117" tvg-name="FOX CRIME (7)" tvg-logo="" group-title="Turkey",FOX CRIME (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -17899,15 +17899,15 @@ https://vavoo.to/play/3150381038/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4184738360/index.m3u8
 
-#EXTINF:-1 tvg-id="737435862" tvg-name="FOX HD (1)" tvg-logo="" group-title="Portugal",FOX HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/737435862/index.m3u8
-
 #EXTINF:-1 tvg-id="2656093401" tvg-name="FOX HD (1)" tvg-logo="" group-title="Spain",FOX HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2656093401/index.m3u8
+
+#EXTINF:-1 tvg-id="737435862" tvg-name="FOX HD (1)" tvg-logo="" group-title="Portugal",FOX HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/737435862/index.m3u8
 
 #EXTINF:-1 tvg-id="1293994774" tvg-name="FOX HD (1)" tvg-logo="" group-title="Russia",FOX HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -17944,6 +17944,11 @@ https://vavoo.to/play/3243625503/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3772861659/index.m3u8
 
+#EXTINF:-1 tvg-id="1753409304" tvg-name="FOX LIFE (6)" tvg-logo="" group-title="Albania",FOX LIFE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1753409304/index.m3u8
+
 #EXTINF:-1 tvg-id="1228302300" tvg-name="FOX LIFE (6)" tvg-logo="" group-title="Balkans",FOX LIFE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -17953,11 +17958,6 @@ https://vavoo.to/play/1228302300/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2135288369/index.m3u8
-
-#EXTINF:-1 tvg-id="1753409304" tvg-name="FOX LIFE (6)" tvg-logo="" group-title="Albania",FOX LIFE (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1753409304/index.m3u8
 
 #EXTINF:-1 tvg-id="1131005985" tvg-name="FOX LIFE (6)" tvg-logo="" group-title="Turkey",FOX LIFE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -19109,40 +19109,40 @@ https://vavoo.to/play/3329797203/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2315061688/index.m3u8
 
-#EXTINF:-1 tvg-id="1984286700" tvg-name="HBO 2 (7)" tvg-logo="" group-title="Bulgaria",HBO 2 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1984286700/index.m3u8
-
 #EXTINF:-1 tvg-id="1888495277" tvg-name="HBO 2 (7)" tvg-logo="" group-title="Romania",HBO 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1888495277/index.m3u8
+
+#EXTINF:-1 tvg-id="1984286700" tvg-name="HBO 2 (7)" tvg-logo="" group-title="Bulgaria",HBO 2 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1984286700/index.m3u8
 
 #EXTINF:-1 tvg-id="2249984707" tvg-name="HBO 2 HD (1)" tvg-logo="" group-title="Balkans",HBO 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2249984707/index.m3u8
 
-#EXTINF:-1 tvg-id="606798235" tvg-name="HBO 3 (6)" tvg-logo="" group-title="Poland",HBO 3 (6)
+#EXTINF:-1 tvg-id="431438664" tvg-name="HBO 3 (6)" tvg-logo="" group-title="Albania",HBO 3 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/606798235/index.m3u8
+https://vavoo.to/play/431438664/index.m3u8
 
 #EXTINF:-1 tvg-id="3646005707" tvg-name="HBO 3 (6)" tvg-logo="" group-title="Balkans",HBO 3 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3646005707/index.m3u8
 
+#EXTINF:-1 tvg-id="606798235" tvg-name="HBO 3 (6)" tvg-logo="" group-title="Poland",HBO 3 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/606798235/index.m3u8
+
 #EXTINF:-1 tvg-id="1375527585" tvg-name="HBO 3 (6)" tvg-logo="" group-title="Bulgaria",HBO 3 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1375527585/index.m3u8
-
-#EXTINF:-1 tvg-id="431438664" tvg-name="HBO 3 (6)" tvg-logo="" group-title="Albania",HBO 3 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/431438664/index.m3u8
 
 #EXTINF:-1 tvg-id="3030196232" tvg-name="HBO 3 (7)" tvg-logo="" group-title="Balkans",HBO 3 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -19289,6 +19289,11 @@ https://vavoo.to/play/2332307823/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4077228619/index.m3u8
 
+#EXTINF:-1 tvg-id="1975892045" tvg-name="HGTV (6)" tvg-logo="" group-title="Bulgaria",HGTV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1975892045/index.m3u8
+
 #EXTINF:-1 tvg-id="974629400" tvg-name="HGTV (6)" tvg-logo="" group-title="Germany",HGTV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -19299,35 +19304,30 @@ https://vavoo.to/play/974629400/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3364167311/index.m3u8
 
-#EXTINF:-1 tvg-id="2897782781" tvg-name="HGTV (6)" tvg-logo="" group-title="Italy",HGTV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2897782781/index.m3u8
-
-#EXTINF:-1 tvg-id="1975892045" tvg-name="HGTV (6)" tvg-logo="" group-title="Bulgaria",HGTV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1975892045/index.m3u8
-
 #EXTINF:-1 tvg-id="3100022685" tvg-name="HGTV (6)" tvg-logo="" group-title="Portugal",HGTV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3100022685/index.m3u8
+
+#EXTINF:-1 tvg-id="2897782781" tvg-name="HGTV (6)" tvg-logo="" group-title="Italy",HGTV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2897782781/index.m3u8
 
 #EXTINF:-1 tvg-id="2946833751" tvg-name="HGTV (7)" tvg-logo="" group-title="Balkans",HGTV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2946833751/index.m3u8
 
-#EXTINF:-1 tvg-id="4248997029" tvg-name="HGTV (7)" tvg-logo="" group-title="Italy",HGTV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4248997029/index.m3u8
-
 #EXTINF:-1 tvg-id="1164870618" tvg-name="HGTV (7)" tvg-logo="" group-title="Germany",HGTV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1164870618/index.m3u8
+
+#EXTINF:-1 tvg-id="4248997029" tvg-name="HGTV (7)" tvg-logo="" group-title="Italy",HGTV (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4248997029/index.m3u8
 
 #EXTINF:-1 tvg-id="2476597456" tvg-name="HGTV +1 (7)" tvg-logo="" group-title="United Kingdom",HGTV +1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -19419,15 +19419,20 @@ https://vavoo.to/play/4106953987/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1310655423/index.m3u8
 
-#EXTINF:-1 tvg-id="686503148" tvg-name="HISTORY (6)" tvg-logo="" group-title="Poland",HISTORY (6)
+#EXTINF:-1 tvg-id="876686464" tvg-name="HISTORY (6)" tvg-logo="" group-title="Bulgaria",HISTORY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/686503148/index.m3u8
+https://vavoo.to/play/876686464/index.m3u8
 
 #EXTINF:-1 tvg-id="1149646634" tvg-name="HISTORY (6)" tvg-logo="" group-title="Balkans",HISTORY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1149646634/index.m3u8
+
+#EXTINF:-1 tvg-id="686503148" tvg-name="HISTORY (6)" tvg-logo="" group-title="Poland",HISTORY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/686503148/index.m3u8
 
 #EXTINF:-1 tvg-id="317837654" tvg-name="HISTORY (6)" tvg-logo="" group-title="Italy",HISTORY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -19438,11 +19443,6 @@ https://vavoo.to/play/317837654/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/461893028/index.m3u8
-
-#EXTINF:-1 tvg-id="876686464" tvg-name="HISTORY (6)" tvg-logo="" group-title="Bulgaria",HISTORY (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/876686464/index.m3u8
 
 #EXTINF:-1 tvg-id="634937112" tvg-name="HISTORY (6)" tvg-logo="" group-title="Netherlands",HISTORY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -19474,15 +19474,15 @@ https://vavoo.to/play/54647568/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3362750408/index.m3u8
 
-#EXTINF:-1 tvg-id="21335052" tvg-name="HISTORY 2 (7)" tvg-logo="" group-title="Balkans",HISTORY 2 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/21335052/index.m3u8
-
 #EXTINF:-1 tvg-id="1902534877" tvg-name="HISTORY 2 (7)" tvg-logo="" group-title="Russia",HISTORY 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1902534877/index.m3u8
+
+#EXTINF:-1 tvg-id="21335052" tvg-name="HISTORY 2 (7)" tvg-logo="" group-title="Balkans",HISTORY 2 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/21335052/index.m3u8
 
 #EXTINF:-1 tvg-id="409060483" tvg-name="HISTORY 2 (7)" tvg-logo="" group-title="United Kingdom",HISTORY 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -19509,25 +19509,25 @@ https://vavoo.to/play/3463706015/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/580268732/index.m3u8
 
-#EXTINF:-1 tvg-id="2231668112" tvg-name="HISTORY CHANNEL (7)" tvg-logo="" group-title="Bulgaria",HISTORY CHANNEL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2231668112/index.m3u8
-
 #EXTINF:-1 tvg-id="1761826370" tvg-name="HISTORY CHANNEL (7)" tvg-logo="" group-title="Balkans",HISTORY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1761826370/index.m3u8
 
-#EXTINF:-1 tvg-id="1338285052" tvg-name="HISTORY CHANNEL (7)" tvg-logo="" group-title="Romania",HISTORY CHANNEL (7)
+#EXTINF:-1 tvg-id="2231668112" tvg-name="HISTORY CHANNEL (7)" tvg-logo="" group-title="Bulgaria",HISTORY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1338285052/index.m3u8
+https://vavoo.to/play/2231668112/index.m3u8
 
 #EXTINF:-1 tvg-id="2415331568" tvg-name="HISTORY CHANNEL (7)" tvg-logo="" group-title="Turkey",HISTORY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2415331568/index.m3u8
+
+#EXTINF:-1 tvg-id="1338285052" tvg-name="HISTORY CHANNEL (7)" tvg-logo="" group-title="Romania",HISTORY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1338285052/index.m3u8
 
 #EXTINF:-1 tvg-id="2581510979" tvg-name="HISTORY CHANNEL (7)" tvg-logo="" group-title="Netherlands",HISTORY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -19539,15 +19539,15 @@ https://vavoo.to/play/2581510979/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4013755273/index.m3u8
 
-#EXTINF:-1 tvg-id="639412623" tvg-name="HISTORY HD (1)" tvg-logo="" group-title="Balkans",HISTORY HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/639412623/index.m3u8
-
 #EXTINF:-1 tvg-id="2428413220" tvg-name="HISTORY HD (1)" tvg-logo="" group-title="Poland",HISTORY HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2428413220/index.m3u8
+
+#EXTINF:-1 tvg-id="639412623" tvg-name="HISTORY HD (1)" tvg-logo="" group-title="Balkans",HISTORY HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/639412623/index.m3u8
 
 #EXTINF:-1 tvg-id="4207487562" tvg-name="HISTORY HD (1)" tvg-logo="" group-title="Turkey",HISTORY HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -20159,15 +20159,15 @@ https://vavoo.to/play/4018658498/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2863072722/index.m3u8
 
-#EXTINF:-1 tvg-id="1181792777" tvg-name="INVESTIGATION DISCOVERY (6)" tvg-logo="" group-title="Portugal",INVESTIGATION DISCOVERY (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1181792777/index.m3u8
-
 #EXTINF:-1 tvg-id="1502859990" tvg-name="INVESTIGATION DISCOVERY (6)" tvg-logo="" group-title="Spain",INVESTIGATION DISCOVERY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1502859990/index.m3u8
+
+#EXTINF:-1 tvg-id="1181792777" tvg-name="INVESTIGATION DISCOVERY (6)" tvg-logo="" group-title="Portugal",INVESTIGATION DISCOVERY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1181792777/index.m3u8
 
 #EXTINF:-1 tvg-id="2790585591" tvg-name="INVESTIGATION DISCOVERY (6)" tvg-logo="" group-title="Poland",INVESTIGATION DISCOVERY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -24634,15 +24634,15 @@ https://vavoo.to/play/462395947/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/330584541/index.m3u8
 
-#EXTINF:-1 tvg-id="925259" tvg-name="MOTORVISION TV (6)" tvg-logo="" group-title="Germany",MOTORVISION TV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/925259/index.m3u8
-
 #EXTINF:-1 tvg-id="174225106" tvg-name="MOTORVISION TV (6)" tvg-logo="" group-title="Portugal",MOTORVISION TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/174225106/index.m3u8
+
+#EXTINF:-1 tvg-id="925259" tvg-name="MOTORVISION TV (6)" tvg-logo="" group-title="Germany",MOTORVISION TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/925259/index.m3u8
 
 #EXTINF:-1 tvg-id="3821257483" tvg-name="MOTORVISION TV HD (1)" tvg-logo="" group-title="Germany",MOTORVISION TV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -24949,15 +24949,15 @@ https://vavoo.to/play/749691114/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/834237423/index.m3u8
 
-#EXTINF:-1 tvg-id="4144009637" tvg-name="MTV (7)" tvg-logo="" group-title="Russia",MTV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4144009637/index.m3u8
-
 #EXTINF:-1 tvg-id="987897824" tvg-name="MTV (7)" tvg-logo="" group-title="France",MTV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/987897824/index.m3u8
+
+#EXTINF:-1 tvg-id="4144009637" tvg-name="MTV (7)" tvg-logo="" group-title="Russia",MTV (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4144009637/index.m3u8
 
 #EXTINF:-1 tvg-id="2059729489" tvg-name="MTV (7)" tvg-logo="" group-title="Balkans",MTV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -25104,30 +25104,30 @@ https://vavoo.to/play/841494426/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3253245476/index.m3u8
 
-#EXTINF:-1 tvg-id="3446813098" tvg-name="MTV HITS (7)" tvg-logo="" group-title="Italy",MTV HITS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3446813098/index.m3u8
-
 #EXTINF:-1 tvg-id="2301201739" tvg-name="MTV HITS (7)" tvg-logo="" group-title="France",MTV HITS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2301201739/index.m3u8
+
+#EXTINF:-1 tvg-id="3446813098" tvg-name="MTV HITS (7)" tvg-logo="" group-title="Italy",MTV HITS (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3446813098/index.m3u8
 
 #EXTINF:-1 tvg-id="2308335794" tvg-name="MTV HITS (7)" tvg-logo="" group-title="Balkans",MTV HITS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2308335794/index.m3u8
 
-#EXTINF:-1 tvg-id="3230545591" tvg-name="MTV HITS (7)" tvg-logo="" group-title="Russia",MTV HITS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3230545591/index.m3u8
-
 #EXTINF:-1 tvg-id="2234006819" tvg-name="MTV HITS (7)" tvg-logo="" group-title="Netherlands",MTV HITS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2234006819/index.m3u8
+
+#EXTINF:-1 tvg-id="3230545591" tvg-name="MTV HITS (7)" tvg-logo="" group-title="Russia",MTV HITS (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3230545591/index.m3u8
 
 #EXTINF:-1 tvg-id="2992909400" tvg-name="MTV HITS (7)" tvg-logo="" group-title="Romania",MTV HITS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -25659,55 +25659,55 @@ https://vavoo.to/play/2596172321/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2169389937/index.m3u8
 
-#EXTINF:-1 tvg-id="999974349" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Germany",NAT GEO (6)
+#EXTINF:-1 tvg-id="1341169782" tvg-name="NAT GEO (6)" tvg-logo="" group-title="France",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/999974349/index.m3u8
+https://vavoo.to/play/1341169782/index.m3u8
 
 #EXTINF:-1 tvg-id="1196955352" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Portugal",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1196955352/index.m3u8
 
-#EXTINF:-1 tvg-id="829890668" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Albania",NAT GEO (6)
+#EXTINF:-1 tvg-id="999974349" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Germany",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/829890668/index.m3u8
-
-#EXTINF:-1 tvg-id="1735702308" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Italy",NAT GEO (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1735702308/index.m3u8
-
-#EXTINF:-1 tvg-id="1341169782" tvg-name="NAT GEO (6)" tvg-logo="" group-title="France",NAT GEO (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1341169782/index.m3u8
+https://vavoo.to/play/999974349/index.m3u8
 
 #EXTINF:-1 tvg-id="1567511198" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Poland",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1567511198/index.m3u8
 
-#EXTINF:-1 tvg-id="3689902952" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Spain",NAT GEO (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3689902952/index.m3u8
-
 #EXTINF:-1 tvg-id="822301016" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Balkans",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/822301016/index.m3u8
+
+#EXTINF:-1 tvg-id="3689902952" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Spain",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3689902952/index.m3u8
 
 #EXTINF:-1 tvg-id="1845660630" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Turkey",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1845660630/index.m3u8
 
+#EXTINF:-1 tvg-id="829890668" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Albania",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/829890668/index.m3u8
+
 #EXTINF:-1 tvg-id="1103383282" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Bulgaria",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1103383282/index.m3u8
+
+#EXTINF:-1 tvg-id="1735702308" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Italy",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1735702308/index.m3u8
 
 #EXTINF:-1 tvg-id="4188386299" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Arabia",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -25724,11 +25724,6 @@ https://vavoo.to/play/1348286826/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3763693854/index.m3u8
 
-#EXTINF:-1 tvg-id="2614433133" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Russia",NAT GEO (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2614433133/index.m3u8
-
 #EXTINF:-1 tvg-id="637829164" tvg-name="NAT GEO (7)" tvg-logo="" group-title="United Kingdom",NAT GEO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -25739,30 +25734,30 @@ https://vavoo.to/play/637829164/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1428792459/index.m3u8
 
+#EXTINF:-1 tvg-id="2614433133" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Russia",NAT GEO (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2614433133/index.m3u8
+
 #EXTINF:-1 tvg-id="1960546091" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Turkey",NAT GEO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1960546091/index.m3u8
-
-#EXTINF:-1 tvg-id="3937938623" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Albania",NAT GEO (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3937938623/index.m3u8
 
 #EXTINF:-1 tvg-id="1176264166" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Bulgaria",NAT GEO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1176264166/index.m3u8
 
+#EXTINF:-1 tvg-id="3937938623" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Albania",NAT GEO (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3937938623/index.m3u8
+
 #EXTINF:-1 tvg-id="3939261835" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Balkans",NAT GEO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3939261835/index.m3u8
-
-#EXTINF:-1 tvg-id="1990754219" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Romania",NAT GEO (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1990754219/index.m3u8
 
 #EXTINF:-1 tvg-id="179844839" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Italy",NAT GEO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -25773,6 +25768,11 @@ https://vavoo.to/play/179844839/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3800233024/index.m3u8
+
+#EXTINF:-1 tvg-id="1990754219" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Romania",NAT GEO (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1990754219/index.m3u8
 
 #EXTINF:-1 tvg-id="3203319196" tvg-name="NAT GEO ABU DHABI (1)" tvg-logo="" group-title="Arabia",NAT GEO ABU DHABI (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -25814,15 +25814,15 @@ https://vavoo.to/play/3276516180/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2660473561/index.m3u8
 
-#EXTINF:-1 tvg-id="3704911677" tvg-name="NAT GEO WILD (1)" tvg-logo="" group-title="Arabia",NAT GEO WILD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3704911677/index.m3u8
-
 #EXTINF:-1 tvg-id="2534557485" tvg-name="NAT GEO WILD (1)" tvg-logo="" group-title="United Kingdom",NAT GEO WILD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2534557485/index.m3u8
+
+#EXTINF:-1 tvg-id="3704911677" tvg-name="NAT GEO WILD (1)" tvg-logo="" group-title="Arabia",NAT GEO WILD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3704911677/index.m3u8
 
 #EXTINF:-1 tvg-id="3501325497" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Germany",NAT GEO WILD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -25839,6 +25839,11 @@ https://vavoo.to/play/1133813399/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/278568941/index.m3u8
 
+#EXTINF:-1 tvg-id="4163250572" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="France",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4163250572/index.m3u8
+
 #EXTINF:-1 tvg-id="1793673705" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Albania",NAT GEO WILD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -25854,20 +25859,15 @@ https://vavoo.to/play/289455435/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3191034074/index.m3u8
 
-#EXTINF:-1 tvg-id="4163250572" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="France",NAT GEO WILD (6)
+#EXTINF:-1 tvg-id="3320654968" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Turkey",NAT GEO WILD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4163250572/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="3428501495" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Italy",NAT GEO WILD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3428501495/index.m3u8
-
-#EXTINF:-1 tvg-id="3320654968" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Turkey",NAT GEO WILD (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="3093560896" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Bulgaria",NAT GEO WILD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -25889,15 +25889,15 @@ https://vavoo.to/play/325169620/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2468962511/index.m3u8
 
-#EXTINF:-1 tvg-id="1257890982" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="France",NAT GEO WILD (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1257890982/index.m3u8
-
 #EXTINF:-1 tvg-id="1999823186" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Turkey",NAT GEO WILD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1999823186/index.m3u8
+
+#EXTINF:-1 tvg-id="1257890982" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="France",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1257890982/index.m3u8
 
 #EXTINF:-1 tvg-id="2112036279" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Balkans",NAT GEO WILD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -26009,20 +26009,15 @@ https://vavoo.to/play/1589024375/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2785556162/index.m3u8
 
-#EXTINF:-1 tvg-id="3472875805" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="" group-title="United Kingdom",NATIONAL GEOGRAPHIC (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3472875805/index.m3u8
-
-#EXTINF:-1 tvg-id="503347396" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="" group-title="Portugal",NATIONAL GEOGRAPHIC (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/503347396/index.m3u8
-
 #EXTINF:-1 tvg-id="707035366" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="" group-title="France",NATIONAL GEOGRAPHIC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/707035366/index.m3u8
+
+#EXTINF:-1 tvg-id="3472875805" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="" group-title="United Kingdom",NATIONAL GEOGRAPHIC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3472875805/index.m3u8
 
 #EXTINF:-1 tvg-id="31467150" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="" group-title="Germany",NATIONAL GEOGRAPHIC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -26033,6 +26028,11 @@ https://vavoo.to/play/31467150/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/312370955/index.m3u8
+
+#EXTINF:-1 tvg-id="503347396" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="" group-title="Portugal",NATIONAL GEOGRAPHIC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/503347396/index.m3u8
 
 #EXTINF:-1 tvg-id="1939231416" tvg-name="NATIONAL GEOGRAPHIC HD (1)" tvg-logo="" group-title="Balkans",NATIONAL GEOGRAPHIC HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -26404,6 +26404,11 @@ https://vavoo.to/play/3982415185/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/818345441/index.m3u8
 
+#EXTINF:-1 tvg-id="3039389215" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Italy",NICKELODEON (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3039389215/index.m3u8
+
 #EXTINF:-1 tvg-id="2742858545" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Portugal",NICKELODEON (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -26413,11 +26418,6 @@ https://vavoo.to/play/2742858545/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2803818870/index.m3u8
-
-#EXTINF:-1 tvg-id="3039389215" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Italy",NICKELODEON (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3039389215/index.m3u8
 
 #EXTINF:-1 tvg-id="846416462" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Germany",NICKELODEON (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -26439,15 +26439,15 @@ https://vavoo.to/play/3688484569/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1036143516/index.m3u8
 
-#EXTINF:-1 tvg-id="1132670225" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Arabia",NICKELODEON (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1132670225/index.m3u8
-
 #EXTINF:-1 tvg-id="2720994160" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Spain",NICKELODEON (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2720994160/index.m3u8
+
+#EXTINF:-1 tvg-id="1132670225" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Arabia",NICKELODEON (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1132670225/index.m3u8
 
 #EXTINF:-1 tvg-id="3029254675" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Turkey",NICKELODEON (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -26459,11 +26459,6 @@ https://vavoo.to/play/3029254675/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3652339071/index.m3u8
 
-#EXTINF:-1 tvg-id="2158790500" tvg-name="NICKELODEON (7)" tvg-logo="" group-title="Germany",NICKELODEON (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2158790500/index.m3u8
-
 #EXTINF:-1 tvg-id="2881806872" tvg-name="NICKELODEON (7)" tvg-logo="" group-title="France",NICKELODEON (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -26474,20 +26469,25 @@ https://vavoo.to/play/2881806872/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2904184817/index.m3u8
 
+#EXTINF:-1 tvg-id="2158790500" tvg-name="NICKELODEON (7)" tvg-logo="" group-title="Germany",NICKELODEON (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2158790500/index.m3u8
+
 #EXTINF:-1 tvg-id="1762001907" tvg-name="NICKELODEON (7)" tvg-logo="" group-title="Balkans",NICKELODEON (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1762001907/index.m3u8
 
-#EXTINF:-1 tvg-id="4262594289" tvg-name="NICKELODEON (7)" tvg-logo="" group-title="Bulgaria",NICKELODEON (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4262594289/index.m3u8
-
 #EXTINF:-1 tvg-id="181751695" tvg-name="NICKELODEON (7)" tvg-logo="" group-title="Romania",NICKELODEON (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/181751695/index.m3u8
+
+#EXTINF:-1 tvg-id="4262594289" tvg-name="NICKELODEON (7)" tvg-logo="" group-title="Bulgaria",NICKELODEON (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4262594289/index.m3u8
 
 #EXTINF:-1 tvg-id="2126702242" tvg-name="NICKELODEON (7)" tvg-logo="" group-title="Netherlands",NICKELODEON (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -26524,15 +26524,15 @@ https://vavoo.to/play/3199219011/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/615663221/index.m3u8
 
-#EXTINF:-1 tvg-id="3020647247" tvg-name="NICKELODEON HD (1)" tvg-logo="" group-title="Russia",NICKELODEON HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3020647247/index.m3u8
-
 #EXTINF:-1 tvg-id="503443750" tvg-name="NICKELODEON HD (1)" tvg-logo="" group-title="Turkey",NICKELODEON HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/503443750/index.m3u8
+
+#EXTINF:-1 tvg-id="3020647247" tvg-name="NICKELODEON HD (1)" tvg-logo="" group-title="Russia",NICKELODEON HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3020647247/index.m3u8
 
 #EXTINF:-1 tvg-id="3134371361" tvg-name="NICKELODEON HD (1)" tvg-logo="" group-title="Arabia",NICKELODEON HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -26619,15 +26619,15 @@ https://vavoo.to/play/3843525510/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1756114272/index.m3u8
 
-#EXTINF:-1 tvg-id="2919037797" tvg-name="NICKTOONS (6)" tvg-logo="" group-title="Germany",NICKTOONS (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2919037797/index.m3u8
-
 #EXTINF:-1 tvg-id="2228696585" tvg-name="NICKTOONS (6)" tvg-logo="" group-title="Poland",NICKTOONS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2228696585/index.m3u8
+
+#EXTINF:-1 tvg-id="2919037797" tvg-name="NICKTOONS (6)" tvg-logo="" group-title="Germany",NICKTOONS (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2919037797/index.m3u8
 
 #EXTINF:-1 tvg-id="778544979" tvg-name="NICKTOONS (6)" tvg-logo="" group-title="Netherlands",NICKTOONS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -28954,15 +28954,15 @@ https://vavoo.to/play/1068998242/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/992745062/index.m3u8
 
-#EXTINF:-1 tvg-id="3075534580" tvg-name="PLANETE+ (6)" tvg-logo="" group-title="Poland",PLANETE+ (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3075534580/index.m3u8
-
 #EXTINF:-1 tvg-id="429070924" tvg-name="PLANETE+ (6)" tvg-logo="" group-title="France",PLANETE+ (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/429070924/index.m3u8
+
+#EXTINF:-1 tvg-id="3075534580" tvg-name="PLANETE+ (6)" tvg-logo="" group-title="Poland",PLANETE+ (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3075534580/index.m3u8
 
 #EXTINF:-1 tvg-id="3260815007" tvg-name="PLANETE+ (7)" tvg-logo="" group-title="France",PLANETE+ (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -29974,15 +29974,15 @@ https://vavoo.to/play/3705639504/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3353185568/index.m3u8
 
-#EXTINF:-1 tvg-id="2952884641" tvg-name="QVC (7)" tvg-logo="" group-title="Italy",QVC (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2952884641/index.m3u8
-
 #EXTINF:-1 tvg-id="564855190" tvg-name="QVC (7)" tvg-logo="" group-title="Germany",QVC (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/564855190/index.m3u8
+
+#EXTINF:-1 tvg-id="2952884641" tvg-name="QVC (7)" tvg-logo="" group-title="Italy",QVC (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2952884641/index.m3u8
 
 #EXTINF:-1 tvg-id="2479977622" tvg-name="QVC 2 HD (1)" tvg-logo="" group-title="Germany",QVC 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -30479,15 +30479,15 @@ https://vavoo.to/play/1889679296/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/86091226/index.m3u8
 
-#EXTINF:-1 tvg-id="1723114316" tvg-name="RAKUTEN TV SHOWS (7)" tvg-logo="" group-title="France",RAKUTEN TV SHOWS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1723114316/index.m3u8
-
 #EXTINF:-1 tvg-id="1725615682" tvg-name="RAKUTEN TV SHOWS (7)" tvg-logo="" group-title="Germany",RAKUTEN TV SHOWS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1725615682/index.m3u8
+
+#EXTINF:-1 tvg-id="1723114316" tvg-name="RAKUTEN TV SHOWS (7)" tvg-logo="" group-title="France",RAKUTEN TV SHOWS (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1723114316/index.m3u8
 
 #EXTINF:-1 tvg-id="3416458367" tvg-name="RAKUTEN TV SHOWS 2 (7)" tvg-logo="" group-title="Germany",RAKUTEN TV SHOWS 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -31689,15 +31689,15 @@ https://vavoo.to/play/1016762712/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3323550976/index.m3u8
 
-#EXTINF:-1 tvg-id="2398236131" tvg-name="RTL CRIME (6)" tvg-logo="" group-title="Germany",RTL CRIME (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2398236131/index.m3u8
-
 #EXTINF:-1 tvg-id="2742070672" tvg-name="RTL CRIME (6)" tvg-logo="" group-title="Balkans",RTL CRIME (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2742070672/index.m3u8
+
+#EXTINF:-1 tvg-id="2398236131" tvg-name="RTL CRIME (6)" tvg-logo="" group-title="Germany",RTL CRIME (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2398236131/index.m3u8
 
 #EXTINF:-1 tvg-id="225014229" tvg-name="RTL CRIME (6)" tvg-logo="" group-title="Netherlands",RTL CRIME (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -31754,15 +31754,15 @@ https://vavoo.to/play/1930307647/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/196189662/index.m3u8
 
-#EXTINF:-1 tvg-id="2029274414" tvg-name="RTL LIVING (6)" tvg-logo="" group-title="Germany",RTL LIVING (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2029274414/index.m3u8
-
 #EXTINF:-1 tvg-id="2983585576" tvg-name="RTL LIVING (6)" tvg-logo="" group-title="Balkans",RTL LIVING (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2983585576/index.m3u8
+
+#EXTINF:-1 tvg-id="2029274414" tvg-name="RTL LIVING (6)" tvg-logo="" group-title="Germany",RTL LIVING (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2029274414/index.m3u8
 
 #EXTINF:-1 tvg-id="1949189696" tvg-name="RTL LIVING (7)" tvg-logo="" group-title="Germany",RTL LIVING (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -34174,15 +34174,15 @@ https://vavoo.to/play/2001824562/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1495501666/index.m3u8
 
-#EXTINF:-1 tvg-id="1976246828" tvg-name="SKY ACTION (1)" tvg-logo="" group-title="Germany",SKY ACTION (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1976246828/index.m3u8
-
 #EXTINF:-1 tvg-id="4274270452" tvg-name="SKY ACTION (1)" tvg-logo="" group-title="Albania",SKY ACTION (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4274270452/index.m3u8
+
+#EXTINF:-1 tvg-id="1976246828" tvg-name="SKY ACTION (1)" tvg-logo="" group-title="Germany",SKY ACTION (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1976246828/index.m3u8
 
 #EXTINF:-1 tvg-id="173341106" tvg-name="SKY ACTION (7)" tvg-logo="" group-title="Germany",SKY ACTION (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -34654,15 +34654,15 @@ https://vavoo.to/play/3962342087/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1618904678/index.m3u8
 
-#EXTINF:-1 tvg-id="3812796171" tvg-name="SKY CINEMA ACTION (6)" tvg-logo="" group-title="Italy",SKY CINEMA ACTION (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3812796171/index.m3u8
-
 #EXTINF:-1 tvg-id="1617648799" tvg-name="SKY CINEMA ACTION (6)" tvg-logo="" group-title="Germany",SKY CINEMA ACTION (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1617648799/index.m3u8
+
+#EXTINF:-1 tvg-id="3812796171" tvg-name="SKY CINEMA ACTION (6)" tvg-logo="" group-title="Italy",SKY CINEMA ACTION (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="3129337035" tvg-name="SKY CINEMA ACTION (7)" tvg-logo="" group-title="Germany",SKY CINEMA ACTION (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -34859,6 +34859,11 @@ https://vavoo.to/play/2615245916/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/415795144/index.m3u8
 
+#EXTINF:-1 tvg-id="2380134484" tvg-name="SKY CINEMA FAMILY (7)" tvg-logo="" group-title="United Kingdom",SKY CINEMA FAMILY (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2380134484/index.m3u8
+
 #EXTINF:-1 tvg-id="3216516117" tvg-name="SKY CINEMA FAMILY (7)" tvg-logo="" group-title="Italy",SKY CINEMA FAMILY (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -34868,11 +34873,6 @@ https://vavoo.to/play/3216516117/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1091552264/index.m3u8
-
-#EXTINF:-1 tvg-id="2380134484" tvg-name="SKY CINEMA FAMILY (7)" tvg-logo="" group-title="United Kingdom",SKY CINEMA FAMILY (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2380134484/index.m3u8
 
 #EXTINF:-1 tvg-id="1988074518" tvg-name="SKY CINEMA FAMILY HD+ (1)" tvg-logo="" group-title="Germany",SKY CINEMA FAMILY HD+ (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -34909,15 +34909,15 @@ https://vavoo.to/play/2993496155/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1723046465/index.m3u8
 
-#EXTINF:-1 tvg-id="2331906255" tvg-name="SKY CINEMA HITS (1)" tvg-logo="" group-title="Germany",SKY CINEMA HITS (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2331906255/index.m3u8
-
 #EXTINF:-1 tvg-id="2518336302" tvg-name="SKY CINEMA HITS (1)" tvg-logo="" group-title="United Kingdom",SKY CINEMA HITS (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2518336302/index.m3u8
+
+#EXTINF:-1 tvg-id="2331906255" tvg-name="SKY CINEMA HITS (1)" tvg-logo="" group-title="Germany",SKY CINEMA HITS (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2331906255/index.m3u8
 
 #EXTINF:-1 tvg-id="3650034867" tvg-name="SKY CINEMA HITS (6)" tvg-logo="" group-title="Germany",SKY CINEMA HITS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -35229,25 +35229,25 @@ https://vavoo.to/play/1599703284/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2147384713/index.m3u8
 
-#EXTINF:-1 tvg-id="3810188456" tvg-name="SKY NATURE (6)" tvg-logo="" group-title="Italy",SKY NATURE (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3810188456/index.m3u8
-
 #EXTINF:-1 tvg-id="2979356473" tvg-name="SKY NATURE (6)" tvg-logo="" group-title="Germany",SKY NATURE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2979356473/index.m3u8
 
-#EXTINF:-1 tvg-id="3176094807" tvg-name="SKY NATURE (7)" tvg-logo="" group-title="Germany",SKY NATURE (7)
+#EXTINF:-1 tvg-id="3810188456" tvg-name="SKY NATURE (6)" tvg-logo="" group-title="Italy",SKY NATURE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3176094807/index.m3u8
+https://vavoo.to/play/3810188456/index.m3u8
 
 #EXTINF:-1 tvg-id="158352552" tvg-name="SKY NATURE (7)" tvg-logo="" group-title="United Kingdom",SKY NATURE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/158352552/index.m3u8
+
+#EXTINF:-1 tvg-id="3176094807" tvg-name="SKY NATURE (7)" tvg-logo="" group-title="Germany",SKY NATURE (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3176094807/index.m3u8
 
 #EXTINF:-1 tvg-id="1699811246" tvg-name="SKY NATURE HD (1)" tvg-logo="" group-title="Germany",SKY NATURE HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -36124,15 +36124,15 @@ https://vavoo.to/play/1989309231/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1870352128/index.m3u8
 
-#EXTINF:-1 tvg-id="4101211079" tvg-name="SKY SPORT GOLF (6)" tvg-logo="" group-title="Germany",SKY SPORT GOLF (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4101211079/index.m3u8
-
 #EXTINF:-1 tvg-id="729945219" tvg-name="SKY SPORT GOLF (6)" tvg-logo="" group-title="Italy",SKY SPORT GOLF (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/729945219/index.m3u8
+
+#EXTINF:-1 tvg-id="4101211079" tvg-name="SKY SPORT GOLF (6)" tvg-logo="" group-title="Germany",SKY SPORT GOLF (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4101211079/index.m3u8
 
 #EXTINF:-1 tvg-id="3897711086" tvg-name="SKY SPORT GOLF (7)" tvg-logo="" group-title="Italy",SKY SPORT GOLF (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -36329,15 +36329,15 @@ https://vavoo.to/play/635934031/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/384026718/index.m3u8
 
-#EXTINF:-1 tvg-id="2161191460" tvg-name="SKY SPORTS F1 (7)" tvg-logo="" group-title="Germany",SKY SPORTS F1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2161191460/index.m3u8
-
 #EXTINF:-1 tvg-id="2289038972" tvg-name="SKY SPORTS F1 (7)" tvg-logo="" group-title="Italy",SKY SPORTS F1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2289038972/index.m3u8
+
+#EXTINF:-1 tvg-id="2161191460" tvg-name="SKY SPORTS F1 (7)" tvg-logo="" group-title="Germany",SKY SPORTS F1 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2161191460/index.m3u8
 
 #EXTINF:-1 tvg-id="171223833" tvg-name="SKY SPORTS F1 (7)" tvg-logo="" group-title="United Kingdom",SKY SPORTS F1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -37504,6 +37504,11 @@ https://vavoo.to/play/3497164333/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/473732861/index.m3u8
 
+#EXTINF:-1 tvg-id="3032872784" tvg-name="STAR CHANNEL (6)" tvg-logo="" group-title="Bulgaria",STAR CHANNEL (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3032872784/index.m3u8
+
 #EXTINF:-1 tvg-id="501658715" tvg-name="STAR CHANNEL (6)" tvg-logo="" group-title="Spain",STAR CHANNEL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -37513,11 +37518,6 @@ https://vavoo.to/play/501658715/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2996132298/index.m3u8
-
-#EXTINF:-1 tvg-id="3032872784" tvg-name="STAR CHANNEL (6)" tvg-logo="" group-title="Bulgaria",STAR CHANNEL (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3032872784/index.m3u8
 
 #EXTINF:-1 tvg-id="2367829148" tvg-name="STAR CHANNEL (6)" tvg-logo="" group-title="Netherlands",STAR CHANNEL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -37554,6 +37554,11 @@ https://vavoo.to/play/1512072384/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2422531998/index.m3u8
 
+#EXTINF:-1 tvg-id="1895701768" tvg-name="STAR CRIME (6)" tvg-logo="" group-title="Albania",STAR CRIME (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1895701768/index.m3u8
+
 #EXTINF:-1 tvg-id="852536790" tvg-name="STAR CRIME (6)" tvg-logo="" group-title="Balkans",STAR CRIME (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -37563,11 +37568,6 @@ https://vavoo.to/play/852536790/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1242163609/index.m3u8
-
-#EXTINF:-1 tvg-id="1895701768" tvg-name="STAR CRIME (6)" tvg-logo="" group-title="Albania",STAR CRIME (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1895701768/index.m3u8
 
 #EXTINF:-1 tvg-id="1134124382" tvg-name="STAR HD (H265) (1)" tvg-logo="" group-title="Turkey",STAR HD (H265) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -38174,15 +38174,15 @@ https://vavoo.to/play/3247080697/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3388818951/index.m3u8
 
-#EXTINF:-1 tvg-id="2668658037" tvg-name="SYFY (7)" tvg-logo="" group-title="Germany",SYFY (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2668658037/index.m3u8
-
 #EXTINF:-1 tvg-id="1818531400" tvg-name="SYFY (7)" tvg-logo="" group-title="United Kingdom",SYFY (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1818531400/index.m3u8
+
+#EXTINF:-1 tvg-id="2668658037" tvg-name="SYFY (7)" tvg-logo="" group-title="Germany",SYFY (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2668658037/index.m3u8
 
 #EXTINF:-1 tvg-id="1680063305" tvg-name="SYFY HD (1)" tvg-logo="" group-title="Germany",SYFY HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -38614,15 +38614,15 @@ https://vavoo.to/play/1025979520/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3382394739/index.m3u8
 
-#EXTINF:-1 tvg-id="3400515310" tvg-name="TELE 5 (6)" tvg-logo="" group-title="Poland",TELE 5 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3400515310/index.m3u8
-
 #EXTINF:-1 tvg-id="950216500" tvg-name="TELE 5 (6)" tvg-logo="" group-title="Germany",TELE 5 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/950216500/index.m3u8
+
+#EXTINF:-1 tvg-id="3400515310" tvg-name="TELE 5 (6)" tvg-logo="" group-title="Poland",TELE 5 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3400515310/index.m3u8
 
 #EXTINF:-1 tvg-id="578429897" tvg-name="TELE 5 (7)" tvg-logo="" group-title="Germany",TELE 5 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -39724,11 +39724,6 @@ https://vavoo.to/play/924585577/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2043372515/index.m3u8
 
-#EXTINF:-1 tvg-id="3292309622" tvg-name="TLC (1)" tvg-logo="" group-title="Portugal",TLC (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3292309622/index.m3u8
-
 #EXTINF:-1 tvg-id="1706108680" tvg-name="TLC (1)" tvg-logo="" group-title="Germany",TLC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -39739,6 +39734,11 @@ https://vavoo.to/play/1706108680/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2070451084/index.m3u8
 
+#EXTINF:-1 tvg-id="3292309622" tvg-name="TLC (1)" tvg-logo="" group-title="Portugal",TLC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3292309622/index.m3u8
+
 #EXTINF:-1 tvg-id="1905743476" tvg-name="TLC (1)" tvg-logo="" group-title="Arabia",TLC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -39748,6 +39748,11 @@ https://vavoo.to/play/1905743476/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/807595503/index.m3u8
+
+#EXTINF:-1 tvg-id="2900784983" tvg-name="TLC (6)" tvg-logo="" group-title="Germany",TLC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2900784983/index.m3u8
 
 #EXTINF:-1 tvg-id="1548922372" tvg-name="TLC (6)" tvg-logo="" group-title="Poland",TLC (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -39764,20 +39769,15 @@ https://vavoo.to/play/1966027521/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1766840660/index.m3u8
 
-#EXTINF:-1 tvg-id="2900784983" tvg-name="TLC (6)" tvg-logo="" group-title="Germany",TLC (6)
+#EXTINF:-1 tvg-id="2701553908" tvg-name="TLC (6)" tvg-logo="" group-title="Bulgaria",TLC (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2900784983/index.m3u8
+https://vavoo.to/play/2701553908/index.m3u8
 
 #EXTINF:-1 tvg-id="2990523347" tvg-name="TLC (6)" tvg-logo="" group-title="Balkans",TLC (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2990523347/index.m3u8
-
-#EXTINF:-1 tvg-id="2701553908" tvg-name="TLC (6)" tvg-logo="" group-title="Bulgaria",TLC (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2701553908/index.m3u8
 
 #EXTINF:-1 tvg-id="4152080488" tvg-name="TLC (6)" tvg-logo="" group-title="Albania",TLC (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -39794,6 +39794,11 @@ https://vavoo.to/play/2222600950/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4223831139/index.m3u8
 
+#EXTINF:-1 tvg-id="3520991180" tvg-name="TLC (7)" tvg-logo="" group-title="Germany",TLC (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3520991180/index.m3u8
+
 #EXTINF:-1 tvg-id="951448076" tvg-name="TLC (7)" tvg-logo="" group-title="Turkey",TLC (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -39803,11 +39808,6 @@ https://vavoo.to/play/951448076/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3473390408/index.m3u8
-
-#EXTINF:-1 tvg-id="3520991180" tvg-name="TLC (7)" tvg-logo="" group-title="Germany",TLC (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3520991180/index.m3u8
 
 #EXTINF:-1 tvg-id="2219689259" tvg-name="TLC (7)" tvg-logo="" group-title="Romania",TLC (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -39929,15 +39929,15 @@ https://vavoo.to/play/3298139173/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4177014626/index.m3u8
 
-#EXTINF:-1 tvg-id="4259288064" tvg-name="TNT HD (1)" tvg-logo="" group-title="Spain",TNT HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4259288064/index.m3u8
-
 #EXTINF:-1 tvg-id="3451401639" tvg-name="TNT HD (1)" tvg-logo="" group-title="Romania",TNT HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3451401639/index.m3u8
+
+#EXTINF:-1 tvg-id="4259288064" tvg-name="TNT HD (1)" tvg-logo="" group-title="Spain",TNT HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4259288064/index.m3u8
 
 #EXTINF:-1 tvg-id="2598460129" tvg-name="TNT HD (1)" tvg-logo="" group-title="Poland",TNT HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -41079,15 +41079,15 @@ https://vavoo.to/play/3271096410/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2321872319/index.m3u8
 
-#EXTINF:-1 tvg-id="2899636515" tvg-name="TV 1000 (6)" tvg-logo="" group-title="Balkans",TV 1000 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2899636515/index.m3u8
-
 #EXTINF:-1 tvg-id="3692292745" tvg-name="TV 1000 (6)" tvg-logo="" group-title="Bulgaria",TV 1000 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3692292745/index.m3u8
+
+#EXTINF:-1 tvg-id="2899636515" tvg-name="TV 1000 (6)" tvg-logo="" group-title="Balkans",TV 1000 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2899636515/index.m3u8
 
 #EXTINF:-1 tvg-id="3687579037" tvg-name="TV 1000 (7)" tvg-logo="" group-title="Bulgaria",TV 1000 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -41304,15 +41304,15 @@ https://vavoo.to/play/733582603/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/256261399/index.m3u8
 
-#EXTINF:-1 tvg-id="4292306921" tvg-name="TV 8 (6)" tvg-logo="" group-title="Turkey",TV 8 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4292306921/index.m3u8
-
 #EXTINF:-1 tvg-id="4038365720" tvg-name="TV 8 (6)" tvg-logo="" group-title="Italy",TV 8 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4038365720/index.m3u8
+
+#EXTINF:-1 tvg-id="4292306921" tvg-name="TV 8 (6)" tvg-logo="" group-title="Turkey",TV 8 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4292306921/index.m3u8
 
 #EXTINF:-1 tvg-id="2196709234" tvg-name="TV 8 (7)" tvg-logo="" group-title="Turkey",TV 8 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -42969,15 +42969,15 @@ https://vavoo.to/play/1183258440/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/117291557/index.m3u8
 
-#EXTINF:-1 tvg-id="2230799510" tvg-name="VIASAT EXPLORE (6)" tvg-logo="" group-title="Balkans",VIASAT EXPLORE (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2230799510/index.m3u8
-
 #EXTINF:-1 tvg-id="3187437518" tvg-name="VIASAT EXPLORE (6)" tvg-logo="" group-title="Poland",VIASAT EXPLORE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3187437518/index.m3u8
+
+#EXTINF:-1 tvg-id="2230799510" tvg-name="VIASAT EXPLORE (6)" tvg-logo="" group-title="Balkans",VIASAT EXPLORE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2230799510/index.m3u8
 
 #EXTINF:-1 tvg-id="1098241076" tvg-name="VIASAT EXPLORE (6)" tvg-logo="" group-title="Turkey",VIASAT EXPLORE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -43024,15 +43024,15 @@ https://vavoo.to/play/1600902519/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3441791596/index.m3u8
 
-#EXTINF:-1 tvg-id="2809579529" tvg-name="VIASAT HISTORY (1)" tvg-logo="" group-title="Balkans",VIASAT HISTORY (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2809579529/index.m3u8
-
 #EXTINF:-1 tvg-id="918974764" tvg-name="VIASAT HISTORY (1)" tvg-logo="" group-title="Germany",VIASAT HISTORY (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/918974764/index.m3u8
+
+#EXTINF:-1 tvg-id="2809579529" tvg-name="VIASAT HISTORY (1)" tvg-logo="" group-title="Balkans",VIASAT HISTORY (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2809579529/index.m3u8
 
 #EXTINF:-1 tvg-id="3112950329" tvg-name="VIASAT HISTORY (1)" tvg-logo="" group-title="Romania",VIASAT HISTORY (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -43054,15 +43054,15 @@ https://vavoo.to/play/235695536/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1900945213/index.m3u8
 
-#EXTINF:-1 tvg-id="4032631690" tvg-name="VIASAT HISTORY (7)" tvg-logo="" group-title="Russia",VIASAT HISTORY (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4032631690/index.m3u8
-
 #EXTINF:-1 tvg-id="3444914860" tvg-name="VIASAT HISTORY (7)" tvg-logo="" group-title="Balkans",VIASAT HISTORY (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3444914860/index.m3u8
+
+#EXTINF:-1 tvg-id="4032631690" tvg-name="VIASAT HISTORY (7)" tvg-logo="" group-title="Russia",VIASAT HISTORY (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4032631690/index.m3u8
 
 #EXTINF:-1 tvg-id="1515686371" tvg-name="VIASAT HISTORY (7)" tvg-logo="" group-title="Turkey",VIASAT HISTORY (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -43804,25 +43804,25 @@ https://vavoo.to/play/2423643468/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1295762615/index.m3u8
 
-#EXTINF:-1 tvg-id="835915068" tvg-name="XITE (6)" tvg-logo="" group-title="Germany",XITE (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/835915068/index.m3u8
-
 #EXTINF:-1 tvg-id="2418672135" tvg-name="XITE (6)" tvg-logo="" group-title="Netherlands",XITE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2418672135/index.m3u8
 
-#EXTINF:-1 tvg-id="1319773438" tvg-name="XITE (7)" tvg-logo="" group-title="Germany",XITE (7)
+#EXTINF:-1 tvg-id="835915068" tvg-name="XITE (6)" tvg-logo="" group-title="Germany",XITE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1319773438/index.m3u8
+https://vavoo.to/play/835915068/index.m3u8
 
 #EXTINF:-1 tvg-id="2549224723" tvg-name="XITE (7)" tvg-logo="" group-title="Netherlands",XITE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2549224723/index.m3u8
+
+#EXTINF:-1 tvg-id="1319773438" tvg-name="XITE (7)" tvg-logo="" group-title="Germany",XITE (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1319773438/index.m3u8
 
 #EXTINF:-1 tvg-id="3381588854" tvg-name="XITE HD (1)" tvg-logo="" group-title="Germany",XITE HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
